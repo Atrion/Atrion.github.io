@@ -5,7 +5,7 @@
 title: Mad Ramblings
 email: Atrion@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a random collections of Thoughts, Ramblings, and Tips.
+  Just a Random Collections of Thoughts, Ramblings, and Tips.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Atrion84
