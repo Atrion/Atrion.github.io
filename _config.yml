@@ -4,6 +4,7 @@
 # {{ site.myvariable }}
 title: Mad Ramblings
 email: Atrion@gmail.com
+author: Atrion Darnay
 description: >- # this means to ignore newlines until "baseurl:"
   Just a Random Collections of Thoughts, Ramblings, and Tips.
 baseurl: "" # the subpath of your site, e.g. /blog
