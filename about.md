@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 <img src="/assets/img/Atrion.jpg" alt="Atrion" align="center" style="width: 400px"/>
 
 
