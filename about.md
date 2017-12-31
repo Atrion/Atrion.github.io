@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Atrion]({{ "/assets/img/Atrion.jpg" | absolute_url }})
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+![Github icon]({{ "/assets/favicons/github_favicon-0.png" | absolute_url }}) [Github](https://github.com/Atrion)
+![Keybase icon]({{ "/assets/favicons/keybase_favicon-0.png" | absolute_url }}) [Keybase](https://keybase.io/atrion)
+![Onename icon]({{ "/assets/favicons/onename_favicon-0.png" | absolute_url }}) [OneName](https://onename.com/atrion)
+![Reddit icon]({{ "/assets/favicons/reddit_favicon-0.png" | absolute_url }}) [Reddit](https://www.reddit.com/user/Atrion84/)
+![Facebook icon]({{ "/assets/favicons/facebook_favicon.png" | absolute_url }}) [Facebook](https://www.facebook.com/marc.macarthur)
+![Twitter icon]({{ "/assets/favicons/twitter_favicon.png" | absolute_url }}) [Twitter](https://twitter.com/Atrion84)
+![Youtube icon]({{ "/assets/favicons/youtube_favicon.png" | absolute_url }}) [Youtube](https://www.youtube.com/channel/UCYkgcUh6NZyXIRfb91EL6cw)
+![Deviantart icon]({{ "/assets/favicons/deviantart_favicon-0.png" | absolute_url }}) [Deviantart](https://atrion.deviantart.com)
