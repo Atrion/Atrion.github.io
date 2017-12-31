@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/img/Atrion.jpg" alt="Atrion" style="width: 50px"/>
+<img src="/assets/img/Atrion.jpg" alt="Atrion" style="width: 250px"/>
 ![Github icon]({{ "/assets/favicons/github_favicon-0.png" | absolute_url }}) [Github](https://github.com/Atrion)
 ![Keybase icon]({{ "/assets/favicons/keybase_favicon-0.png" | absolute_url }}) [Keybase](https://keybase.io/atrion)
 ![Onename icon]({{ "/assets/favicons/onename_favicon-0.png" | absolute_url }}) [OneName](https://onename.com/atrion)
