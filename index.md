@@ -5,4 +5,4 @@
 layout: default
 # layout: home
 ---
-![Apollo 17 at Shorty Crater]({{ "/assets/img/Apollo 17 at Shorty Crater.jpg" | absolute_url }})
+![URU - Relto]({{ "/assets/img/Relto.jpg" | absolute_url }})
