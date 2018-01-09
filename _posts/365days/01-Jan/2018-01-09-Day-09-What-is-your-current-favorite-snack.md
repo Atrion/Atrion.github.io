@@ -6,3 +6,5 @@ author: Atrion Darnay
 categories: 365days
 permalink: 365days/Day-09-What-is-your-current-favorite-snack.html  
 ---
+
+  Wasabi Peas. There a great lite snack with a nice little heat to them. There not really healthy but there also not overly un-healthy.
