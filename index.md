@@ -8,10 +8,14 @@ layout: default
 ![URU - Relto]({{ "/assets/img/Relto.jpg" | absolute_url }})
 
 
-<h1>Latest Post</h1>
-{% for post in site.posts limit:1 %}
-{% endfor %}
-
-<h1>Recent Posts</h1>
-{% for post in site.posts offset:1 limit:2 %}
-{% endfor %}
+<ul class="entries">
+  {% for post in paginator.posts %}
+  <li>
+    <a href="{{ post.url }}">
+    <h3>{{ post.title }}</h3>
+    <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+    <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
