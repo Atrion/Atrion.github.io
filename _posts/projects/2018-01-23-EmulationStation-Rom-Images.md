@@ -15,5 +15,5 @@ permalink: projects/EmulationStation-Rom-Images.html
   
 
 # Links
-[https://github.com/Atrion/RetroPie_NoIntro_Rom_Images](EmulationStation No-Intro Rom Images) <br> 
-[https://github.com/RetroPie/RetroPie-Setup](RetroPie) <br> 
+[EmulationStation No-Intro Rom Images](https://github.com/Atrion/RetroPie_NoIntro_Rom_Images) <br> 
+[RetroPie](https://github.com/RetroPie/RetroPie-Setup) <br> 
