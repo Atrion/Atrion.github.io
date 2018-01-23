@@ -6,3 +6,5 @@ author: Atrion Darnay
 categories: 365days
 permalink: 365days/Day-22-Tomorrow-will-be-better-because.html  
 ---
+
+  Tomorrow will be better, Well I hope will be better, because it will mark day one of no cigarettes. Fingers, Toes, and anything else you can crossed. I beleive I can do this, it will just take some time.
