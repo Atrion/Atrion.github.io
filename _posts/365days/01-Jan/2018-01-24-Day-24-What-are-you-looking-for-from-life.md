@@ -6,3 +6,5 @@ author: Atrion Darnay
 categories: 365days
 permalink: 365days/Day-24-What-are-you-looking-for-from-life.html  
 ---
+
+  I Just want to be happy. a simple want but can be hard to come by once you deal with all that gets thrown at you on a daily basis. 
