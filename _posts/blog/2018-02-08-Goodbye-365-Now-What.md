@@ -1,10 +1,10 @@
 ---
 layout: post  
-title:  "Goodbye 360 Now What"  
+title:  "Goodbye 365 Now What"  
 date:   2018-02-08 07:47:00  
 author: Atrion Darnay  
 categories: blog
-permalink: blog/Goodbye-360-Now-What.html  
+permalink: blog/Goodbye-365-Now-What.html  
 ---
 
   Well that didn't last very long. I wasn't getting what I wanted out of this 365 challenge thing and I kept putting it aside or forgetting about it completely.
