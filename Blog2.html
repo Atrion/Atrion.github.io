@@ -7,7 +7,7 @@ title: Blog2
 	  {% for post in site.categories.blog %}
 	    <li>
         <a href="{% post.permalink %}">{% post.title %}</a>
-        <p>{{ post.excerpt }}</p>
+        <p>{{ post.excerpt | strip_html | truncatewords:75 }}</p>
       </li>
 	  {% endfor %}
 			
