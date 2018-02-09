@@ -8,7 +8,7 @@ permalink: blog/First-Day-Of-Just-Vape-and-Catching-Up.html
 ---
 
   Today is My first official day of using solely just the Vape and no Cigarettes. 
-  
+<!--more-->  
   For the most part it feels fine. I find the way you inhale with the vape is slightly different than a Cigarette so it takes a little getting used to.
   
   There is also the taste, I have tried 3 different tobacco flavored e-Liquids and none really have that taste I am looking for, but they seem close enough, and the Nicotine is the more important part.
