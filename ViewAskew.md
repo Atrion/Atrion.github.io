@@ -11,7 +11,7 @@ The Kevin Smith Movie Collection
     * sub-bullet one
     * sub-bullet two
 
-2.  Continuing the list
+*  Continuing the list
     1. sub-list numbered one
     2. sub-list numbered two
 
