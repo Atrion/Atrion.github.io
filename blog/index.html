@@ -8,7 +8,7 @@ title: Blog
   {% for post in site.categories.blog %}
     <li>
       <span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}">{{ post.title }}</a>
-      <p><font size="7">&emsp; {{ post.excerpt | strip_html | truncatewords:75 }}<a href="{{ post.url }}">...</a></font></p>
+      <p><font size="1">&emsp; {{ post.excerpt | strip_html | truncatewords:75 }}<a href="{{ post.url }}">...</a></font></p>
     </li>
   {% endfor %}
 </ul>			
