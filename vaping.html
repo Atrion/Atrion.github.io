@@ -3,10 +3,11 @@ layout: default
 title: Vaping
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	
 
 <B/><B/>
 <H3>Batteries</H3>
+<ul class="posts">
 	{% for post in site.categories.batteries %}
 	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
@@ -14,7 +15,8 @@ title: Vaping
 
 <B/><B/>
 <H3>All</H3>
-	  {% for post in site.categories.vape %}
+<ul class="posts">
+	  {% for post in site.categories.vaping %}
 	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
