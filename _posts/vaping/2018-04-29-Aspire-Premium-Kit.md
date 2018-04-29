@@ -11,6 +11,5 @@ permalink: /vaping/Aspire_Premium_Kit.html
 | <img src="/assets/vape/Nautilus_Mini.jpg" alt="Nautilus Mini" style="width: 300px"/> |  |  | <img src="/assets/vape/Aspire_CF_VV_Battery.jpg" alt="Aspire CF VV+ Battery" style="width: 300px"/> |
 
 <br/>
-[Premium Kit Manual]({{ "/assets/vape/Premium Kit manual.pdf" | absolute_url }})
-[Nautilus Mini Manual]({{ "/assets/vape/nautilus mini manual.pdf" | absolute_url }})
-<br/>
+[Premium Kit Manual]({{ "/assets/vape/Premium Kit manual.pdf" | absolute_url }})<br/>
+[Nautilus Mini Manual]({{ "/assets/vape/nautilus mini manual.pdf" | absolute_url }})<br/>
