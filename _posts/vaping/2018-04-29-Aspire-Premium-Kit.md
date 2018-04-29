@@ -3,7 +3,7 @@ layout: post
 title:  "Aspire Premium Kit"  
 date:   2018-04-29 10:00:00  
 author: Atrion Darnay  
-categories: vaping mods
+categories: vaping kits
 permalink: /vaping/Aspire_Premium_Kit.html  
 ---
 
