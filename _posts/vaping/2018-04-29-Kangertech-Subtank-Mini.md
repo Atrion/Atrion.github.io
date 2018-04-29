@@ -3,7 +3,7 @@ layout: post
 title:  "Kangertech Subtank Mini"  
 date:   2018-04-29 18:00:00  
 author: Atrion Darnay  
-categories: vaping mods
+categories: vaping tanks
 permalink: /vaping/Kangertech_Subtank_Mini.html  
 ---
 
