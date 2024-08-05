@@ -1,8 +1,18 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-theme {
+    background-color: #000;
+    color: #fff;
+}
+
+.light-theme {
+    background-color: #fff;
+    color: #000;
 }
 
 h1 {
@@ -17,10 +27,13 @@ header {
     padding: 10px;
     background-color: #555;
     color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 header input, header button {
-    margin: 0 5px;
+    margin: 5px;
 }
 
 ul {
@@ -32,6 +45,9 @@ li {
     padding: 10px;
     background: #fff;
     border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 li h2 {
@@ -41,6 +57,10 @@ li h2 {
 
 li h2:hover {
     text-decoration: underline;
+}
+
+.star {
+    cursor: pointer;
 }
 
 footer {
@@ -53,4 +73,3 @@ footer {
 footer button {
     margin: 5px;
 }
-
