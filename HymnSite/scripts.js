@@ -130,16 +130,21 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     ];
 
+    let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+    let sortOption = 'number'; // Default sorting option
+
     const hymnList = document.getElementById("hymn-list");
     const searchInput = document.getElementById("search");
+    const sortNumberButton = document.getElementById("sort-number");
+    const sortTitleButton = document.getElementById("sort-title");
+    const viewFavoritesButton = document.getElementById("view-favorites");
 
     function displayHymns(hymnsToDisplay) {
         hymnList.innerHTML = "";
         hymnsToDisplay.forEach(hymn => {
             const hymnItem = document.createElement("li");
             hymnItem.innerHTML = `
-                <h2 data-number="${hymn.number}">${hymn.title}</h2>
-                <p class="hidden">${hymn.lyrics.replace(/\n/g, '<br>')}</p>
+                <h2 data-number="${hymn.number}">${favorites.includes(hymn.number) ? '?' : '?'} ${hymn.number} - ${hymn.title}</h2>
             `;
             hymnList.appendChild(hymnItem);
         });
@@ -147,22 +152,86 @@ document.addEventListener("DOMContentLoaded", () => {
         const hymnTitles = document.querySelectorAll("h2");
         hymnTitles.forEach(title => {
             title.addEventListener("click", () => {
-                const lyrics = title.nextElementSibling;
-                lyrics.classList.toggle("hidden");
+                const hymnNumber = title.getAttribute('data-number');
+                openHymn(hymnNumber);
             });
         });
     }
 
-    function searchHymns() {
+    function openHymn(number) {
+        const hymn = hymns.find(hymn => hymn.number === number);
+        if (!hymn) return;
+
+        hymnList.innerHTML = `
+            <h2>${favorites.includes(hymn.number) ? '?' : '?'} ${hymn.number} - ${hymn.title}</h2>
+            <p>${hymn.lyrics.replace(/\n/g, '<br>')}</p>
+            <footer>
+                <button id="back-to-list">Back to List</button>
+                <button id="prev-hymn">Previous</button>
+                <button id="next-hymn">Next</button>
+                <button id="view-favorites">View Favorites</button>
+            </footer>
+        `;
+
+        document.querySelector("h2").addEventListener("click", () => toggleFavorite(hymn.number));
+        document.getElementById("back-to-list").addEventListener("click", () => displayHymns(sortHymns(hymns, sortOption)));
+        document.getElementById("prev-hymn").addEventListener("click", () => navigateHymn(number, -1));
+        document.getElementById("next-hymn").addEventListener("click", () => navigateHymn(number, 1));
+        document.getElementById("view-favorites").addEventListener("click", viewFavorites);
+    }
+
+    function navigateHymn(currentNumber, direction) {
+        const currentIndex = hymns.findIndex(hymn => hymn.number === currentNumber);
+        const newIndex = (currentIndex + direction + hymns.length) % hymns.length;
+        openHymn(hymns[newIndex].number);
+    }
+
+    function toggleFavorite(number) {
+        const index = favorites.indexOf(number);
+        if (index > -1) {
+            favorites.splice(index, 1);
+        } else {
+            favorites.push(number);
+        }
+        localStorage.setItem('favorites', JSON.stringify(favorites));
+        displayHymns(sortHymns(hymns, sortOption));
+    }
+
+    function viewFavorites() {
+        const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.number));
+        displayHymns(sortHymns(favoriteHymns, sortOption));
+    }
+
+    function sortHymns(hymnsToSort, option) {
+        return hymnsToSort.sort((a, b) => {
+            if (option === 'number') {
+                return a.number.localeCompare(b.number);
+            } else {
+                return a.title.localeCompare(b.title);
+            }
+        });
+    }
+
+    searchInput.addEventListener("input", () => {
         const query = searchInput.value.toLowerCase();
         const filteredHymns = hymns.filter(hymn => 
             hymn.title.toLowerCase().includes(query) || 
             hymn.number.includes(query)
         );
-        displayHymns(filteredHymns);
-    }
+        displayHymns(sortHymns(filteredHymns, sortOption));
+    });
 
-    searchInput.addEventListener("input", searchHymns);
+    sortNumberButton.addEventListener("click", () => {
+        sortOption = 'number';
+        displayHymns(sortHymns(hymns, sortOption));
+    });
 
-    displayHymns(hymns);
+    sortTitleButton.addEventListener("click", () => {
+        sortOption = 'title';
+        displayHymns(sortHymns(hymns, sortOption));
+    });
+
+    viewFavoritesButton.addEventListener("click", viewFavorites);
+
+    displayHymns(sortHymns(hymns, sortOption));
 });
