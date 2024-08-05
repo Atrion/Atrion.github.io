@@ -144,7 +144,7 @@ document.addEventListener("DOMContentLoaded", () => {
         hymnsToDisplay.forEach(hymn => {
             const hymnItem = document.createElement("li");
             hymnItem.innerHTML = `
-                <h2 data-number="${hymn.number}">${favorites.includes(hymn.number) ? '?' : '?'} ${hymn.number} - ${hymn.title}</h2>
+                <h2 data-number="${hymn.number}">${favorites.includes(hymn.number) ? '&#9733;' : '&#9734;'} ${hymn.number} - ${hymn.title}</h2>
             `;
             hymnList.appendChild(hymnItem);
         });
@@ -163,7 +163,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!hymn) return;
 
         hymnList.innerHTML = `
-            <h2>${favorites.includes(hymn.number) ? '?' : '?'} ${hymn.number} - ${hymn.title}</h2>
+            <h2>${favorites.includes(hymn.number) ? '&#9733;' : '&#9734;'} ${hymn.number} - ${hymn.title}</h2>
             <p>${hymn.lyrics.replace(/\n/g, '<br>')}</p>
             <footer>
                 <button id="back-to-list">Back to List</button>
