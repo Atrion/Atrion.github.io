@@ -138,10 +138,18 @@ document.addEventListener("DOMContentLoaded", () => {
         hymnsToDisplay.forEach(hymn => {
             const hymnItem = document.createElement("li");
             hymnItem.innerHTML = `
-                <h2>${hymn.number} - ${hymn.title}</h2>
-                <p>${hymn.lyrics.replace(/\n/g, '<br>')}</p>
+                <h2 data-number="${hymn.number}">${hymn.title}</h2>
+                <p class="hidden">${hymn.lyrics.replace(/\n/g, '<br>')}</p>
             `;
             hymnList.appendChild(hymnItem);
+        });
+
+        const hymnTitles = document.querySelectorAll("h2");
+        hymnTitles.forEach(title => {
+            title.addEventListener("click", () => {
+                const lyrics = title.nextElementSibling;
+                lyrics.classList.toggle("hidden");
+            });
         });
     }
 

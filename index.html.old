@@ -12,8 +12,7 @@
 <body>
     <img id="userPhoto" src="Atrion.jpg" alt="User Photo">
     
-    <a href="https://atrion.github.io/" id="userName">Atrion Darnay</a>
-    <a href="https://atrion.github.io/" id="userName">Marc MacArthur</a>
+    <a href="https://keybase.io/atrion" id="userName">Atrion Darnay</a>
     <div id="links">
         <a class="link" href="https://keybase.io/atrion" target="_blank">Keybase</a>
         <a class="link" href="https://www.facebook.com/marc.macarthur/" target="_blank">Facebook</a>
