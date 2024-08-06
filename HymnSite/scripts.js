@@ -118,31 +118,37 @@ document.addEventListener("DOMContentLoaded", () => {
                 Hallelujah! what a Saviour!
                 
                 Lifted up was He to die, 
-                "It is finished," was His cry; 
-                Now in heaven exalted high; 
+                "It is finished!" was His cry; 
+                Now in heav'n exalted high. 
                 Hallelujah! what a Saviour!
                 
                 When He comes, our glorious King, 
                 All His ransomed home to bring, 
-                Then anew this song we'll sing; 
+                Then anew His song we'll sing: 
                 Hallelujah! what a Saviour!
             `
         }
     ];
 
     let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
-    let sortOption = 'number'; // Default sorting option
-
+    let sortOption = 'number';
     const hymnList = document.getElementById("hymn-list");
+    const hymnDetail = document.getElementById("hymn-detail");
+    const hymnDetailTitle = document.getElementById("hymn-detail-title");
+    const hymnDetailLyrics = document.getElementById("hymn-detail-lyrics");
     const searchInput = document.getElementById("search");
     const sortNumberButton = document.getElementById("sort-number");
     const sortTitleButton = document.getElementById("sort-title");
     const viewFavoritesButton = document.getElementById("view-favorites");
     const switchThemeButton = document.getElementById("switch-theme");
+    const backToListButton = document.getElementById("back-to-list");
     const sortNumberButtonBottom = document.getElementById("sort-number-bottom");
     const sortTitleButtonBottom = document.getElementById("sort-title-bottom");
     const viewFavoritesButtonBottom = document.getElementById("view-favorites-bottom");
     const switchThemeButtonBottom = document.getElementById("switch-theme-bottom");
+    const backToListTopButton = document.getElementById("back-to-list-top");
+    const backToListBottomButton = document.getElementById("back-to-list-bottom");
+    const backToListFooterButton = document.getElementById("back-to-list-footer");
 
     const renderHymns = (hymnsToRender) => {
         hymnList.innerHTML = "";
@@ -150,10 +156,10 @@ document.addEventListener("DOMContentLoaded", () => {
             const li = document.createElement("li");
             li.innerHTML = `
                 <h2 data-number="${hymn.number}">
-                    ${hymn.number}: ${hymn.title}
                     <span class="star" data-number="${hymn.number}">
                         ${favorites.includes(hymn.number) ? '?' : '?'}
                     </span>
+                    ${hymn.number}: ${hymn.title}
                 </h2>
                 <p class="hidden">${hymn.lyrics}</p>
             `;
@@ -182,11 +188,23 @@ document.addEventListener("DOMContentLoaded", () => {
     const addHymnListeners = () => {
         document.querySelectorAll("h2").forEach(h2 => {
             h2.addEventListener("click", () => {
-                h2.nextElementSibling.classList.toggle("hidden");
+                const hymnNumber = h2.dataset.number;
+                const hymn = hymns.find(h => h.number === hymnNumber);
+                if (hymn) {
+                    hymnDetailTitle.innerText = `${hymn.number}: ${hymn.title}`;
+                    hymnDetailLyrics.innerText = hymn.lyrics.trim();
+                    hymnList.classList.add("hidden");
+                    hymnDetail.classList.remove("hidden");
+                    backToListButton.classList.remove("hidden");
+                    backToListTopButton.classList.remove("hidden");
+                    backToListBottomButton.classList.remove("hidden");
+                    backToListFooterButton.classList.remove("hidden");
+                }
             });
         });
         document.querySelectorAll(".star").forEach(star => {
             star.addEventListener("click", (event) => {
+                event.stopPropagation();
                 const number = event.target.dataset.number;
                 if (favorites.includes(number)) {
                     favorites = favorites.filter(fav => fav !== number);
@@ -239,6 +257,42 @@ document.addEventListener("DOMContentLoaded", () => {
 
     switchThemeButton.addEventListener("click", toggleTheme);
     switchThemeButtonBottom.addEventListener("click", toggleTheme);
+
+    backToListButton.addEventListener("click", () => {
+        hymnDetail.classList.add("hidden");
+        hymnList.classList.remove("hidden");
+        backToListButton.classList.add("hidden");
+        backToListTopButton.classList.add("hidden");
+        backToListBottomButton.classList.add("hidden");
+        backToListFooterButton.classList.add("hidden");
+    });
+
+    backToListTopButton.addEventListener("click", () => {
+        hymnDetail.classList.add("hidden");
+        hymnList.classList.remove("hidden");
+        backToListButton.classList.add("hidden");
+        backToListTopButton.classList.add("hidden");
+        backToListBottomButton.classList.add("hidden");
+        backToListFooterButton.classList.add("hidden");
+    });
+
+    backToListBottomButton.addEventListener("click", () => {
+        hymnDetail.classList.add("hidden");
+        hymnList.classList.remove("hidden");
+        backToListButton.classList.add("hidden");
+        backToListTopButton.classList.add("hidden");
+        backToListBottomButton.classList.add("hidden");
+        backToListFooterButton.classList.add("hidden");
+    });
+
+    backToListFooterButton.addEventListener("click", () => {
+        hymnDetail.classList.add("hidden");
+        hymnList.classList.remove("hidden");
+        backToListButton.classList.add("hidden");
+        backToListTopButton.classList.add("hidden");
+        backToListBottomButton.classList.add("hidden");
+        backToListFooterButton.classList.add("hidden");
+    });
 
     renderHymns(sortHymns(hymns));
 });
