@@ -3,39 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sing your way Home</title>
+    <title>Sing Your Way Home</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Sing your way Home</h1>
+            <h1>Sing Your Way Home</h1>
         </header>
         <nav>
             <input type="text" id="search" placeholder="Search Phrase or Number">
-            <button id="sort-number">Sort by Number</button>
-            <button id="sort-title">Sort by Title</button>
-            <button id="view-favorites">View Favorites</button>
-            <button id="switch-theme">Switch Theme</button>
+            <div class="button-group">
+                <button id="sort-number">Sort by Number</button>
+                <button id="sort-title">Sort by Title</button>
+                <button id="view-favorites">View Favorites</button>
+                <button id="switch-theme">Switch Theme</button>
+            </div>
         </nav>
-        <main id="hymn-list">
-            <!-- Hymn list will be dynamically inserted here -->
-            <!-- Example hymn item -->
-            <div class="hymn" data-id="1">
-                <span class="title">Amazing Grace</span>
-                <span class="star" onclick="toggleFavorite(1)">&#9734;</span>
-            </div>
-            <div class="hymn" data-id="2">
-                <span class="title">How Great Thou Art</span>
-                <span class="star" onclick="toggleFavorite(2)">&#9734;</span>
-            </div>
-            <!-- Add more hymns here -->
+        <main>
+            <ul id="hymn-list">
+                <!-- Hymns will be dynamically inserted here -->
+            </ul>
         </main>
         <footer>
-            <button id="sort-number">Sort by Number</button>
-            <button id="sort-title">Sort by Title</button>
-            <button id="view-favorites">View Favorites</button>
-            <button id="switch-theme">Switch Theme</button>
+            <div class="button-group">
+                <button id="sort-number-bottom">Sort by Number</button>
+                <button id="sort-title-bottom">Sort by Title</button>
+                <button id="view-favorites-bottom">View Favorites</button>
+                <button id="switch-theme-bottom">Switch Theme</button>
+            </div>
         </footer>
     </div>
     <script src="scripts.js"></script>
