@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sing Your Way Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sing Your Way Home</h1>
+        </header>
+        <nav>
+            <input type="text" id="search" placeholder="Search Phrase or Number">
+            <div class="button-group">
+                <button id="sort-number">Sort by Number</button>
+                <button id="sort-title">Sort by Title</button>
+                <button id="view-favorites">View Favorites</button>
+                <button id="switch-theme">Switch Theme</button>
+                <button id="back-to-list" class="hidden">Back to List</button>
+            </div>
+        </nav>
+        <main>
+            <ul id="hymn-list">
+                <!-- Hymns will be dynamically inserted here -->
+            </ul>
+            <div id="hymn-detail" class="hidden">
+                <button id="back-to-list-top" class="hidden">Back to List</button>
+                <h2 id="hymn-detail-title"></h2>
+                <p id="hymn-detail-lyrics"></p>
+                <button id="back-to-list-bottom" class="hidden">Back to List</button>
+            </div>
+        </main>
+        <footer>
+            <div class="button-group">
+                <button id="sort-number-bottom">Sort by Number</button>
+                <button id="sort-title-bottom">Sort by Title</button>
+                <button id="view-favorites-bottom">View Favorites</button>
+                <button id="switch-theme-bottom">Switch Theme</button>
+                <button id="back-to-list-footer" class="hidden">Back to List</button>
+            </div>
+        </footer>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
