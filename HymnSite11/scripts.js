@@ -150,7 +150,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const sortTitleButtonBottom = document.getElementById("sort-title-bottom");
     const viewFavoritesButtonBottom = document.getElementById("view-favorites-bottom");
     const switchThemeButtonBottom = document.getElementById("switch-theme-bottom");
-    const backToListBottomButton = document.getElementById("back-to-list-bottom");
     const backToListFooterButton = document.getElementById("back-to-list-footer");
 
     // Render hymns
@@ -208,9 +207,14 @@ document.addEventListener("DOMContentLoaded", () => {
                     hymnDetailLyrics.innerText = hymn.lyrics.trim();
                     hymnList.classList.add("hidden");
                     hymnDetail.classList.remove("hidden");
+                    addStarClickListener();
                 }
             });
         });
+    };
+
+    // Add click listener to stars
+    const addStarClickListener = () => {
         document.querySelectorAll(".star").forEach(star => {
             star.addEventListener("click", (event) => {
                 event.stopPropagation();
@@ -277,7 +281,7 @@ document.addEventListener("DOMContentLoaded", () => {
     switchThemeButtonBottom.addEventListener("click", toggleTheme);
 
     // Back to list button event listeners
-    const backToListButtons = [backToListButton, backToListBottomButton, backToListFooterButton];
+    const backToListButtons = [backToListButton, backToListFooterButton];
     backToListButtons.forEach(button => {
         button.addEventListener("click", () => {
             hymnDetail.classList.add("hidden");
