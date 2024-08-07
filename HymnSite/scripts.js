@@ -1,6 +1,100 @@
 document.addEventListener("DOMContentLoaded", () => {
     const hymns = [
         {
+            number: "001",
+            title: "Abba, Father! we approach Thee",
+            author: "James George Deck",
+            lyrics: `
+                Abba, Father! we approach Thee
+                In our Saviour’s precious name;
+                We, Thy children, here assembling,
+                Access to Thy presence claim;
+                From our sin His blood hath washed us:
+                ’Tis through Him our souls draw near,
+                And Thy Spirit, too, hath taught us,
+                Abba, Father! name so dear.
+                
+                Once as prodigals we wandered
+                In our folly, far from Thee;
+                But Thy grace, o’er sin abounding,
+                Rescued us from misery:
+                Thou Thy prodigals hast pardoned,
+                Loved us with a Father’s love;
+                Welcomed us with joy o’erflowing,
+                E’en to dwell with Thee above.
+                
+                Clothed in garments of salvation,
+                At Thy table is our place;
+                We rejoice, and Thou rejoicest,
+                In the riches of Thy grace:
+                It is meet, we hear Thee saying,
+                We should merry be and glad;
+                I have found My once lost children,
+                Now they live who once were dead.
+                
+                Abba, Father! all adore Thee,
+                All rejoice in heaven above;
+                While in us they learn the wonders
+                Of Thy wisdom, power and love;
+                Soon, before Thy throne assembled,
+                All Thy children shall proclaim,
+                Glory, everlasting glory,
+                Be to God and to the Lamb.
+                
+                OPTIONAL: Verse 1 of Hymn #2
+                Abba, Father! we adore Thee,
+                Humbly now our homage pay:
+                ’Tis Thy children’s bliss to know Thee,
+                Welcomed through the living way:
+                This high honour we inherit,
+                Thy free gift through Jesus’ blood;
+                God the Spirit, with our spirit,
+                Witnesseth we’re sons of God.
+            `
+        },
+        {
+            number: "002",
+            title: "Abba, Father! we adore Thee",
+            author: "Robert Hawker",
+            lyrics: `
+                Abba, Father! we adore Thee,
+                Humbly now our homage pay:
+                ’Tis Thy children’s bliss to know Thee,
+                Welcomed through the living way:
+                This high honour we inherit,
+                Thy free gift through Jesus’ blood;
+                God the Spirit, with our spirit,
+                Witnesseth we’re sons of God.
+                
+                Thine own purpose gave us being,
+                When, in Christ, in that vast plan
+                Thou in Christ didst choose Thy people
+                E’en before the world began:
+                O what love the Father bore us!
+                O how precious in Thy sight!
+                When Thou gav’st Thy Church to Jesus,
+                Jesus, Son of Thy delight.
+                
+                Though our nature’s fall in Adam
+                Shut us wholly out from God,
+                Thine eternal counsel brought us
+                Nearer still, through Jesus’ blood;
+                For in Him we found redemption,
+                Grace and glory in Thy Son;
+                Oh, the height and depth of mercy!
+                Christ and His redeemed are one.
+                
+                Hence, through all the changing seasons,
+                Trouble, sickness, sorrow, woe,
+                Nothing changeth God’s affections,
+                Love divine shall bring us through;
+                Soon shall all Thy blood-bought children
+                Round the throne their anthems raise,
+                And, in songs of rich salvation,
+                Shout to God’s eternal praise.
+            `
+        },
+        {
             number: "039",
             title: "COME EV'RY SOUL BY SIN OPPRESSED",
             lyrics: `
