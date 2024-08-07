@@ -160,7 +160,7 @@ document.addEventListener("DOMContentLoaded", () => {
             li.innerHTML = `
                 <h2 data-number="${hymn.number}">
                     <span class="star" data-number="${hymn.number}">
-                        ${favorites.includes(hymn.number) ? '?' : '?'}
+                        ${favorites.includes(hymn.number) ? '<i class="fas fa-star"></i>' : '<i class="far fa-star"></i>'}
                     </span>
                     ${hymn.number}: ${hymn.title}
                 </h2>
@@ -191,16 +191,16 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     };
 
-    // Add event listeners to hymn elements
+    // Add click listeners to hymn titles and stars
     const addHymnListeners = () => {
-        document.querySelectorAll("h2").forEach(h2 => {
-            h2.addEventListener("click", () => {
-                const hymnNumber = h2.dataset.number;
+        document.querySelectorAll("#hymn-list h2").forEach(h2 => {
+            h2.addEventListener("click", (event) => {
+                const hymnNumber = event.target.closest("h2").dataset.number;
                 const hymn = hymns.find(h => h.number === hymnNumber);
                 if (hymn) {
                     hymnDetailTitle.innerHTML = `
                         <span class="star" data-number="${hymn.number}">
-                            ${favorites.includes(hymn.number) ? '?' : '?'}
+                            ${favorites.includes(hymn.number) ? '<i class="fas fa-star"></i>' : '<i class="far fa-star"></i>'}
                         </span>
                         ${hymn.number}: ${hymn.title}
                     `;
@@ -218,7 +218,7 @@ document.addEventListener("DOMContentLoaded", () => {
         document.querySelectorAll(".star").forEach(star => {
             star.addEventListener("click", (event) => {
                 event.stopPropagation();
-                const number = event.target.dataset.number;
+                const number = event.target.closest(".star").dataset.number;
                 if (favorites.includes(number)) {
                     favorites = favorites.filter(fav => fav !== number);
                 } else {
