@@ -197,7 +197,7 @@ document.addEventListener("DOMContentLoaded", () => {
             h2.addEventListener("click", (event) => {
                 const hymnNumber = event.target.closest("h2").dataset.number;
                 const hymn = hymns.find(h => h.number === hymnNumber);
-                if (hymn) {
+                if (hymn && !event.target.classList.contains("star") && !event.target.closest(".star")) {
                     hymnDetailTitle.innerHTML = `
                         <span class="star" data-number="${hymn.number}">
                             ${favorites.includes(hymn.number) ? '<i class="fas fa-star"></i>' : '<i class="far fa-star"></i>'}
@@ -211,6 +211,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
             });
         });
+
+        addStarClickListener();
     };
 
     // Add click listener to stars
@@ -243,36 +245,48 @@ document.addEventListener("DOMContentLoaded", () => {
     // Sort by number button event listener
     sortNumberButton.addEventListener("click", () => {
         sortOption = 'number';
+        hymnDetail.classList.add("hidden");
+        hymnList.classList.remove("hidden");
         renderHymns(sortHymns(filterHymns(searchInput.value)));
     });
 
     // Sort by title button event listener
     sortTitleButton.addEventListener("click", () => {
         sortOption = 'title';
+        hymnDetail.classList.add("hidden");
+        hymnList.classList.remove("hidden");
         renderHymns(sortHymns(filterHymns(searchInput.value)));
     });
 
     // View favorites button event listener
     viewFavoritesButton.addEventListener("click", () => {
         const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.number));
+        hymnDetail.classList.add("hidden");
+        hymnList.classList.remove("hidden");
         renderHymns(sortHymns(favoriteHymns));
     });
 
     // Sort by number button (bottom) event listener
     sortNumberButtonBottom.addEventListener("click", () => {
         sortOption = 'number';
+        hymnDetail.classList.add("hidden");
+        hymnList.classList.remove("hidden");
         renderHymns(sortHymns(filterHymns(searchInput.value)));
     });
 
     // Sort by title button (bottom) event listener
     sortTitleButtonBottom.addEventListener("click", () => {
         sortOption = 'title';
+        hymnDetail.classList.add("hidden");
+        hymnList.classList.remove("hidden");
         renderHymns(sortHymns(filterHymns(searchInput.value)));
     });
 
     // View favorites button (bottom) event listener
     viewFavoritesButtonBottom.addEventListener("click", () => {
         const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.number));
+        hymnDetail.classList.add("hidden");
+        hymnList.classList.remove("hidden");
         renderHymns(sortHymns(favoriteHymns));
     });
 
