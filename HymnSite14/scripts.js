@@ -1,7 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // Hymn data
     const hymns = [
-        // Sample hymns
         {
             number: "039",
             title: "COME EV'RY SOUL BY SIN OPPRESSED",
@@ -133,9 +131,9 @@ document.addEventListener("DOMContentLoaded", () => {
         // Additional hymns...
     ];
 
-    // Initializing favorites from localStorage
     let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
-    let sortOption = 'number'; // Default sort option
+    let sortOption = 'number';
+    let currentList = 'all'; // 'all' or 'favorites'
     const hymnList = document.getElementById("hymn-list");
     const hymnDetail = document.getElementById("hymn-detail");
     const hymnDetailTitle = document.getElementById("hymn-detail-title");
@@ -152,7 +150,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const switchThemeButtonBottom = document.getElementById("switch-theme-bottom");
     const backToListFooterButton = document.getElementById("back-to-list-footer");
 
-    // Render hymns
     const renderHymns = (hymnsToRender) => {
         hymnList.innerHTML = "";
         hymnsToRender.forEach(hymn => {
@@ -171,7 +168,6 @@ document.addEventListener("DOMContentLoaded", () => {
         addHymnListeners();
     };
 
-    // Sort hymns by number or title
     const sortHymns = (hymnsToSort) => {
         return hymnsToSort.sort((a, b) => {
             if (sortOption === 'number') {
@@ -182,7 +178,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     };
 
-    // Filter hymns by search query
     const filterHymns = (query) => {
         return hymns.filter(hymn => {
             return hymn.title.toLowerCase().includes(query.toLowerCase()) ||
@@ -191,7 +186,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     };
 
-    // Add click listeners to hymn titles and stars
     const addHymnListeners = () => {
         document.querySelectorAll("#hymn-list h2").forEach(h2 => {
             h2.addEventListener("click", (event) => {
@@ -215,7 +209,6 @@ document.addEventListener("DOMContentLoaded", () => {
         addStarClickListener();
     };
 
-    // Add click listener to stars
     const addStarClickListener = () => {
         document.querySelectorAll(".star").forEach(star => {
             star.addEventListener("click", (event) => {
@@ -227,82 +220,113 @@ document.addEventListener("DOMContentLoaded", () => {
                     favorites.push(number);
                 }
                 localStorage.setItem('favorites', JSON.stringify(favorites));
-                renderHymns(sortHymns(filterHymns(searchInput.value)));
+                if (currentList === 'all') {
+                    renderHymns(sortHymns(filterHymns(searchInput.value)));
+                } else {
+                    const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.number));
+                    renderHymns(sortHymns(favoriteHymns));
+                }
+                updateStarIcon(number);
             });
         });
     };
 
-    // Toggle theme between light and dark
+    const updateStarIcon = (number) => {
+        document.querySelectorAll(`.star[data-number="${number}"]`).forEach(star => {
+            if (favorites.includes(number)) {
+                star.innerHTML = '<i class="fas fa-star"></i>';
+            } else {
+                star.innerHTML = '<i class="far fa-star"></i>';
+            }
+        });
+    };
+
     const toggleTheme = () => {
         document.body.classList.toggle('light-theme');
     };
 
-    // Search input event listener
     searchInput.addEventListener("input", () => {
         renderHymns(sortHymns(filterHymns(searchInput.value)));
     });
 
-    // Sort by number button event listener
     sortNumberButton.addEventListener("click", () => {
         sortOption = 'number';
         hymnDetail.classList.add("hidden");
         hymnList.classList.remove("hidden");
-        renderHymns(sortHymns(filterHymns(searchInput.value)));
+        if (currentList === 'all') {
+            renderHymns(sortHymns(filterHymns(searchInput.value)));
+        } else {
+            const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.number));
+            renderHymns(sortHymns(favoriteHymns));
+        }
     });
 
-    // Sort by title button event listener
     sortTitleButton.addEventListener("click", () => {
         sortOption = 'title';
         hymnDetail.classList.add("hidden");
         hymnList.classList.remove("hidden");
-        renderHymns(sortHymns(filterHymns(searchInput.value)));
+        if (currentList === 'all') {
+            renderHymns(sortHymns(filterHymns(searchInput.value)));
+        } else {
+            const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.number));
+            renderHymns(sortHymns(favoriteHymns));
+        }
     });
 
-    // View favorites button event listener
     viewFavoritesButton.addEventListener("click", () => {
+        currentList = 'favorites';
         const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.number));
         hymnDetail.classList.add("hidden");
         hymnList.classList.remove("hidden");
         renderHymns(sortHymns(favoriteHymns));
     });
 
-    // Sort by number button (bottom) event listener
     sortNumberButtonBottom.addEventListener("click", () => {
         sortOption = 'number';
         hymnDetail.classList.add("hidden");
         hymnList.classList.remove("hidden");
-        renderHymns(sortHymns(filterHymns(searchInput.value)));
+        if (currentList === 'all') {
+            renderHymns(sortHymns(filterHymns(searchInput.value)));
+        } else {
+            const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.number));
+            renderHymns(sortHymns(favoriteHymns));
+        }
     });
 
-    // Sort by title button (bottom) event listener
     sortTitleButtonBottom.addEventListener("click", () => {
         sortOption = 'title';
         hymnDetail.classList.add("hidden");
         hymnList.classList.remove("hidden");
-        renderHymns(sortHymns(filterHymns(searchInput.value)));
+        if (currentList === 'all') {
+            renderHymns(sortHymns(filterHymns(searchInput.value)));
+        } else {
+            const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.number));
+            renderHymns(sortHymns(favoriteHymns));
+        }
     });
 
-    // View favorites button (bottom) event listener
     viewFavoritesButtonBottom.addEventListener("click", () => {
+        currentList = 'favorites';
         const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.number));
         hymnDetail.classList.add("hidden");
         hymnList.classList.remove("hidden");
         renderHymns(sortHymns(favoriteHymns));
     });
 
-    // Switch theme button event listener
     switchThemeButton.addEventListener("click", toggleTheme);
     switchThemeButtonBottom.addEventListener("click", toggleTheme);
 
-    // Back to list button event listeners
     const backToListButtons = [backToListButton, backToListFooterButton];
     backToListButtons.forEach(button => {
         button.addEventListener("click", () => {
             hymnDetail.classList.add("hidden");
             hymnList.classList.remove("hidden");
+            if (currentList === 'favorites') {
+                currentList = 'all';
+                renderHymns(sortHymns(filterHymns(searchInput.value)));
+            }
         });
     });
 
-    // Initial render of hymns
     renderHymns(sortHymns(hymns));
 });
