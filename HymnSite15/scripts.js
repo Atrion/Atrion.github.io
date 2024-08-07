@@ -8,25 +8,35 @@ document.addEventListener("DOMContentLoaded", () => {
     const sortNumberButton = document.getElementById("sort-number");
     const sortTitleButton = document.getElementById("sort-title");
     const viewFavoritesButton = document.getElementById("view-favorites");
+    const switchThemeButton = document.getElementById("switch-theme");
 
-    // Load hymns from JSON file
+    // Fetch hymns from hymns.json
     fetch('hymns.json')
         .then(response => response.json())
         .then(data => {
             hymns = data;
             renderHymns(sortHymns(hymns));
-        });
+        })
+        .catch(error => console.error('Error fetching hymns:', error));
 
-    function renderHymns(hymnsToDisplay) {
+    // Function to render hymns
+    function renderHymns(hymnsToRender) {
         hymnList.innerHTML = "";
-        hymnsToDisplay.forEach(hymn => {
+        hymnsToRender.forEach(hymn => {
             const hymnItem = document.createElement("li");
             hymnItem.innerHTML = `
-                <h2 data-number="${hymn.number}">${favorites.includes(hymn.number) ? '?' : '?'} ${hymn.number} - ${hymn.title}</h2>
+                <span class="star" data-number="${hymn.number}">${favorites.includes(hymn.number) ? '?' : '?'}</span>
+                <h2 data-number="${hymn.number}">${hymn.number} - ${hymn.title}</h2>
             `;
             hymnList.appendChild(hymnItem);
         });
 
+        // Add event listeners for hymn titles and stars
+        addTitleClickListeners();
+        addStarClickListeners();
+    }
+
+    function addTitleClickListeners() {
         const hymnTitles = document.querySelectorAll("h2");
         hymnTitles.forEach(title => {
             title.addEventListener("click", () => {
@@ -34,36 +44,30 @@ document.addEventListener("DOMContentLoaded", () => {
                 openHymn(hymnNumber);
             });
         });
+    }
 
-        addStarClickListener();
+    function addStarClickListeners() {
+        const stars = document.querySelectorAll(".star");
+        stars.forEach(star => {
+            star.addEventListener("click", event => {
+                const hymnNumber = star.getAttribute('data-number');
+                toggleFavorite(hymnNumber);
+                event.stopPropagation(); // Prevent triggering the title click event
+            });
+        });
     }
 
     function openHymn(number) {
-        const hymn = hymns.find(hymn => hymn.number === number);
+        const hymn = hymns.find(h => h.number === number);
         if (!hymn) return;
 
         hymnList.innerHTML = `
-            <h2>${favorites.includes(hymn.number) ? '?' : '?'} ${hymn.number} - ${hymn.title}</h2>
+            <span class="star" data-number="${hymn.number}">${favorites.includes(hymn.number) ? '?' : '?'}</span>
+            <h2>${hymn.number} - ${hymn.title}</h2>
             <p>${hymn.lyrics.replace(/\n/g, '<br>')}</p>
-            <footer>
-                <button id="back-to-list">Back to List</button>
-                <button id="prev-hymn">Previous</button>
-                <button id="next-hymn">Next</button>
-                <button id="view-favorites">View Favorites</button>
-            </footer>
         `;
 
-        document.querySelector("h2").addEventListener("click", () => toggleFavorite(hymn.number));
-        document.getElementById("back-to-list").addEventListener("click", () => renderHymns(sortHymns(hymns)));
-        document.getElementById("prev-hymn").addEventListener("click", () => navigateHymn(number, -1));
-        document.getElementById("next-hymn").addEventListener("click", () => navigateHymn(number, 1));
-        document.getElementById("view-favorites").addEventListener("click", viewFavorites);
-    }
-
-    function navigateHymn(currentNumber, direction) {
-        const currentIndex = hymns.findIndex(hymn => hymn.number === currentNumber);
-        const newIndex = (currentIndex + direction + hymns.length) % hymns.length;
-        openHymn(hymns[newIndex].number);
+        addStarClickListeners(); // Update star click listener for the hymn view
     }
 
     function toggleFavorite(number) {
@@ -74,27 +78,14 @@ document.addEventListener("DOMContentLoaded", () => {
             favorites.push(number);
         }
         localStorage.setItem('favorites', JSON.stringify(favorites));
-        renderHymns(sortHymns(hymns));
+        updateStarIcon(number);
     }
 
-    function addStarClickListener() {
-        const stars = document.querySelectorAll("h2");
+    function updateStarIcon(number) {
+        const stars = document.querySelectorAll(`.star[data-number="${number}"]`);
         stars.forEach(star => {
-            star.addEventListener("click", (e) => {
-                e.stopPropagation();
-                const number = star.getAttribute("data-number");
-                toggleFavorite(number);
-                updateStarIcon(star, number);
-            });
+            star.textContent = favorites.includes(number) ? '?' : '?';
         });
-    }
-
-    function updateStarIcon(element, number) {
-        if (favorites.includes(number)) {
-            element.innerHTML = element.innerHTML.replace('?', '?');
-        } else {
-            element.innerHTML = element.innerHTML.replace('?', '?');
-        }
     }
 
     function viewFavorites() {
@@ -103,20 +94,21 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function sortHymns(hymnsToSort) {
-        if (sortOption === 'number') {
-            return hymnsToSort.sort((a, b) => a.number.localeCompare(b.number));
-        } else if (sortOption === 'title') {
-            return hymnsToSort.sort((a, b) => a.title.localeCompare(b.title));
-        }
-        return hymnsToSort;
+        return hymnsToSort.sort((a, b) => {
+            if (sortOption === 'number') {
+                return a.number.localeCompare(b.number);
+            } else {
+                return a.title.localeCompare(b.title);
+            }
+        });
     }
 
-    searchInput.addEventListener("input", (e) => {
-        const searchText = e.target.value.toLowerCase();
-        const filteredHymns = hymns.filter(hymn =>
-            hymn.title.toLowerCase().includes(searchText) ||
-            hymn.number.includes(searchText) ||
-            hymn.lyrics.toLowerCase().includes(searchText)
+    searchInput.addEventListener("input", () => {
+        const query = searchInput.value.toLowerCase();
+        const filteredHymns = hymns.filter(hymn => 
+            hymn.title.toLowerCase().includes(query) || 
+            hymn.number.includes(query) ||
+            hymn.lyrics.toLowerCase().includes(query)
         );
         renderHymns(sortHymns(filteredHymns));
     });
@@ -132,4 +124,14 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     viewFavoritesButton.addEventListener("click", viewFavorites);
+
+    switchThemeButton.addEventListener("click", () => {
+        document.body.classList.toggle("dark-theme");
+    });
+
+    // Ensure back to list button works correctly
+    const backToListButton = document.getElementById("back-to-list");
+    backToListButton.addEventListener("click", () => {
+        renderHymns(sortHymns(hymns));
+    });
 });
