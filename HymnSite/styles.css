@@ -1,3 +1,4 @@
+/* Base styles for the body */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,12 +7,14 @@ body {
     color: var(--text-color, #fff);
 }
 
+/* Container for the main content */
 .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
 
+/* Styles for the header */
 header {
     text-align: center;
     margin-bottom: 20px;
@@ -21,11 +24,13 @@ h1 {
     font-size: 2em;
 }
 
+/* Styles for the navigation bar */
 nav {
     text-align: center;
     margin-bottom: 20px;
 }
 
+/* Styles for the search input */
 input[type="text"] {
     padding: 10px;
     width: 60%;
@@ -35,6 +40,7 @@ input[type="text"] {
     color: var(--input-text, #fff);
 }
 
+/* Button group for navigation and actions */
 .button-group {
     display: flex;
     justify-content: center;
@@ -42,6 +48,7 @@ input[type="text"] {
     flex-wrap: wrap;
 }
 
+/* Button styles */
 button {
     padding: 10px;
     margin: 5px;
@@ -52,6 +59,7 @@ button {
     cursor: pointer;
 }
 
+/* Main content styles */
 main {
     background-color: var(--main-background, #222);
     padding: 20px;
@@ -59,15 +67,18 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
+/* Styles for the hymn list */
 ul {
     list-style: none;
     padding: 0;
 }
 
+/* Styles for hymn items */
 li {
     margin-bottom: 20px;
 }
 
+/* Hymn title styles */
 h2 {
     font-size: 1.2em;
     margin-bottom: 10px;
@@ -77,16 +88,19 @@ h2 {
     align-items: center;
 }
 
+/* Paragraph styles */
 p {
     font-size: 1em;
     line-height: 1.5;
     color: var(--text-secondary-color, #ccc);
 }
 
+/* Hidden class for toggling visibility */
 .hidden {
     display: none;
 }
 
+/* Star icon styles */
 .star {
     cursor: pointer;
     color: gold;
@@ -94,11 +108,13 @@ p {
     font-size: 1.2em;
 }
 
+/* Footer styles */
 footer {
     text-align: center;
     margin-top: 20px;
 }
 
+/* Dark theme variables */
 :root {
     --background-color: #111;
     --text-color: #fff;
@@ -111,6 +127,7 @@ footer {
     --text-secondary-color: #ccc;
 }
 
+/* Light theme variables */
 body.light-theme {
     --background-color: #fff;
     --text-color: #000;
