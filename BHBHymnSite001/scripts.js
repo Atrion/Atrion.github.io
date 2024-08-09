@@ -1,41 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const hymns = [
-        // Example hymn data (replace with dynamically generated hymn objects from the JSON)
-        {
-            id: 1,
-            title: "Song title",
-            author: "Song author",
-            meter: "8.7.8.7.D.",
-            tuneName: "Deerhurst Lux Eoi Abbot's Leigh",
-            verses: [
-                [
-                    "Verse 1, Line 1",
-                    "Verse 1, Line 2",
-                    "Verse 1, Line 3",
-                    "Verse 1, Line 4"
-                ],
-                [
-                    "Verse 2, Line 1",
-                    "Verse 2, Line 2",
-                    "Verse 2, Line 3",
-                    "Verse 2, Line 4"
-                ]
-            ],
-            chorus: [
-                "Chorus, Line 1",
-                "Chorus, Line 2"
-            ],
-            addedChorus: [
-                "Added chorus, Line 1",
-                "Added chorus, Line 2"
-            ]
-        }
-        // Add other hymns here
-    ];
-
+    let hymns = [];
     let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
     let sortOption = 'number';
-    let currentList = 'all'; // 'all' or 'favorites'
+    let currentList = 'all';
+
     const hymnList = document.getElementById("hymn-list");
     const hymnDetail = document.getElementById("hymn-detail");
     const hymnDetailTitle = document.getElementById("hymn-detail-title");
@@ -49,11 +17,16 @@ document.addEventListener("DOMContentLoaded", () => {
     const viewFavoritesButton = document.getElementById("view-favorites");
     const switchThemeButton = document.getElementById("switch-theme");
     const backToListButton = document.getElementById("back-to-list");
-    const sortNumberButtonBottom = document.getElementById("sort-number-bottom");
-    const sortTitleButtonBottom = document.getElementById("sort-title-bottom");
-    const viewFavoritesButtonBottom = document.getElementById("view-favorites-bottom");
-    const switchThemeButtonBottom = document.getElementById("switch-theme-bottom");
-    const backToListFooterButton = document.getElementById("back-to-list-footer");
+
+    // Load hymn data from the JSON file
+    fetch('hymns.json')
+        .then(response => response.json())
+        .then(data => {
+            hymns = data;
+            renderHymns(sortHymns(hymns));
+            addHymnListeners();
+        })
+        .catch(error => console.error('Error loading hymns:', error));
 
     const renderHymns = (hymnsToRender) => {
         hymnList.innerHTML = "";
@@ -100,8 +73,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const filterHymns = (query) => {
         return hymns.filter(hymn => {
             return hymn.title.toLowerCase().includes(query.toLowerCase()) ||
-                   hymn.id.toString().includes(query) ||
-                   formatHymnLyrics(hymn).toLowerCase().includes(query.toLowerCase());
+                hymn.id.toString().includes(query) ||
+                formatHymnLyrics(hymn).toLowerCase().includes(query.toLowerCase());
         });
     };
 
@@ -164,9 +137,7 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     const init = () => {
-        renderHymns(sortHymns(hymns));
-        addHymnListeners();
-
+        // Listeners for search, sort, and view favorites
         searchInput.addEventListener("input", () => {
             renderHymns(sortHymns(filterHymns(searchInput.value)));
         });
@@ -194,36 +165,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
         backToListButton.addEventListener("click", () => {
-            currentList = 'all';
-            renderHymns(sortHymns(filterHymns(searchInput.value)));
-            hymnDetail.classList.add("hidden");
-            hymnList.classList.remove("hidden");
-        });
-
-        // Footer buttons
-        sortNumberButtonBottom.addEventListener("click", () => {
-            sortOption = 'number';
-            renderHymns(sortHymns(filterHymns(searchInput.value)));
-        });
-
-        sortTitleButtonBottom.addEventListener("click", () => {
-            sortOption = 'title';
-            renderHymns(sortHymns(filterHymns(searchInput.value)));
-        });
-
-        viewFavoritesButtonBottom.addEventListener("click", () => {
-            currentList = 'favorites';
-            const favoriteHymns = hymns.filter(hymn => favorites.includes(hymn.id));
-            renderHymns(sortHymns(favoriteHymns));
-            hymnDetail.classList.add("hidden");
-            hymnList.classList.remove("hidden");
-        });
-
-        switchThemeButtonBottom.addEventListener("click", () => {
-            document.body.classList.toggle("dark-theme");
-        });
-
-        backToListFooterButton.addEventListener("click", () => {
             currentList = 'all';
             renderHymns(sortHymns(filterHymns(searchInput.value)));
             hymnDetail.classList.add("hidden");
