@@ -60,9 +60,7 @@ function handleEnter() {
             checkAttempt();
             currentAttempt = '';
             attempts++;
-            if (currentAttempt === currentWord) {
-                endGame(true);
-            } else if (attempts >= maxAttempts) {
+            if (attempts >= maxAttempts) {
                 endGame(false);
             }
         } else {
@@ -108,10 +106,11 @@ function checkAttempt() {
 function displayMessage(message) {
     const messageElement = document.getElementById('message');
     messageElement.textContent = message;
+    setTimeout(() => messageElement.textContent = '', 1500); // Clear message after 1.5 seconds
 }
 
 function endGame(win) {
     const message = document.getElementById('message');
     message.textContent = win ? 'You Win!' : `Game Over! The word was ${currentWord}`;
-    document.removeEventListener('keydown', handleKey);
+    document.removeEventListener('keydown', handleKey); // Disable further input
 }
