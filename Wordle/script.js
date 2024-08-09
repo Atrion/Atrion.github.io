@@ -51,9 +51,8 @@ function createKeyboard() {
     });
 
     const enterKey = document.createElement('div');
-    enterKey.classList.add('key');
+    enterKey.classList.add('key', 'enter');
     enterKey.textContent = 'Enter';
-    enterKey.style.gridColumn = "span 2";
     enterKey.addEventListener('click', handleEnter);
     keyboard.appendChild(enterKey);
 
