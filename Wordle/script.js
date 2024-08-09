@@ -5,7 +5,6 @@ const maxAttempts = 6;
 
 document.addEventListener("DOMContentLoaded", () => {
     loadWords();
-    setupKeyboardInput();
 });
 
 function loadWords() {
@@ -21,6 +20,7 @@ function loadWords() {
 function startGame() {
     currentWord = words[Math.floor(Math.random() * words.length)];
     createGameBoard();
+    createKeyboard();
 }
 
 function createGameBoard() {
@@ -32,20 +32,40 @@ function createGameBoard() {
     }
 }
 
-let currentAttempt = '';
+function createKeyboard() {
+    const rows = [
+        'qwertyuiop',
+        'asdfghjkl',
+        'zxcvbnm'
+    ];
+    const keyboard = document.getElementById('keyboard');
 
-function setupKeyboardInput() {
-    document.addEventListener('keydown', (e) => {
-        const key = e.key.toLowerCase();
-        if (key >= 'a' && key <= 'z') {
-            handleKey(key);
-        } else if (key === 'backspace') {
-            handleDelete();
-        } else if (key === 'enter') {
-            handleEnter();
-        }
+    rows.forEach(row => {
+        row.split('').forEach(letter => {
+            const key = document.createElement('div');
+            key.classList.add('key');
+            key.textContent = letter;
+            key.addEventListener('click', () => handleKey(letter));
+            keyboard.appendChild(key);
+        });
     });
+
+    const enterKey = document.createElement('div');
+    enterKey.classList.add('key');
+    enterKey.textContent = 'Enter';
+    enterKey.style.gridColumn = "span 2";
+    enterKey.addEventListener('click', handleEnter);
+    keyboard.appendChild(enterKey);
+
+    const deleteKey = document.createElement('div');
+    deleteKey.classList.add('key');
+    deleteKey.textContent = 'Del';
+    deleteKey.style.gridColumn = "span 2";
+    deleteKey.addEventListener('click', handleDelete);
+    keyboard.appendChild(deleteKey);
 }
+
+let currentAttempt = '';
 
 function handleKey(letter) {
     if (currentAttempt.length < 5) {
@@ -64,7 +84,7 @@ function handleEnter() {
                 endGame(false);
             }
         } else {
-            displayMessage('Not a valid word');
+            displayMessage('Invalid word');
         }
     }
 }
@@ -91,10 +111,13 @@ function checkAttempt() {
         const letter = currentAttempt[i];
         if (currentWord[i] === letter) {
             tile.classList.add('correct');
+            updateKeyboard(letter, 'correct');
         } else if (currentWord.includes(letter)) {
             tile.classList.add('present');
+            updateKeyboard(letter, 'present');
         } else {
             tile.classList.add('absent');
+            updateKeyboard(letter, 'absent');
         }
     }
 
@@ -103,14 +126,25 @@ function checkAttempt() {
     }
 }
 
-function displayMessage(message) {
-    const messageElement = document.getElementById('message');
-    messageElement.textContent = message;
-    setTimeout(() => messageElement.textContent = '', 1500); // Clear message after 1.5 seconds
+function updateKeyboard(letter, className) {
+    const keys = document.querySelectorAll('.key');
+    keys.forEach(key => {
+        if (key.textContent === letter) {
+            key.classList.add(className);
+        }
+    });
 }
 
 function endGame(win) {
     const message = document.getElementById('message');
     message.textContent = win ? 'You Win!' : `Game Over! The word was ${currentWord}`;
-    document.removeEventListener('keydown', handleKey); // Disable further input
+    document.querySelectorAll('.key').forEach(key => key.removeEventListener('click', handleKey));
+}
+
+function displayMessage(text) {
+    const message = document.getElementById('message');
+    message.textContent = text;
+    setTimeout(() => {
+        message.textContent = '';
+    }, 2000);
 }
