@@ -94,7 +94,7 @@ body {
 }
 
 .key.enter, .key.delete {
-    grid-column: span 4; /* Each key spans 4 columns to sit beside each other */
+    grid-column: span 5; /* Each key spans 5 columns to fit on the same row */
     width: auto;
 }
 

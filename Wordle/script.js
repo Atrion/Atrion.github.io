@@ -36,31 +36,28 @@ function createKeyboard() {
     const rows = [
         'qwertyuiop',
         'asdfghjkl',
-        'zxcvbnm'
+        'zxcvbnm',
+        'delete enter' // Delete and Enter keys on the same line
     ];
     const keyboard = document.getElementById('keyboard');
 
     rows.forEach(row => {
-        row.split('').forEach(letter => {
+        row.split(' ').forEach(letter => {
             const key = document.createElement('div');
             key.classList.add('key');
-            key.textContent = letter;
-            key.addEventListener('click', () => handleKey(letter));
+            key.textContent = letter.toUpperCase();
+            if (letter === 'delete') {
+                key.classList.add('delete');
+                key.addEventListener('click', handleDelete);
+            } else if (letter === 'enter') {
+                key.classList.add('enter');
+                key.addEventListener('click', handleEnter);
+            } else {
+                key.addEventListener('click', () => handleKey(letter));
+            }
             keyboard.appendChild(key);
         });
     });
-
-    const enterKey = document.createElement('div');
-    enterKey.classList.add('key', 'enter');
-    enterKey.textContent = 'Enter';
-    enterKey.addEventListener('click', handleEnter);
-    keyboard.appendChild(enterKey);
-
-    const deleteKey = document.createElement('div');
-    deleteKey.classList.add('key', 'delete');
-    deleteKey.textContent = 'Del';
-    deleteKey.addEventListener('click', handleDelete);
-    keyboard.appendChild(deleteKey);
 }
 
 let currentAttempt = '';
@@ -127,7 +124,7 @@ function checkAttempt() {
 function updateKeyboard(letter, className) {
     const keys = document.querySelectorAll('.key');
     keys.forEach(key => {
-        if (key.textContent === letter) {
+        if (key.textContent.toLowerCase() === letter) {
             key.classList.add(className);
         }
     });
