@@ -98,6 +98,11 @@ body {
     width: auto;
 }
 
+.key.delete {
+    grid-column: span 2; /* Positioned beside the Enter key */
+    width: auto;
+}
+
 #message {
     margin-top: 18px; /* Reduced margin by 10% */
     font-size: 1.08rem; /* Reduced size by 10% */

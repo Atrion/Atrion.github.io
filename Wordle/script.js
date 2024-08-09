@@ -57,9 +57,8 @@ function createKeyboard() {
     keyboard.appendChild(enterKey);
 
     const deleteKey = document.createElement('div');
-    deleteKey.classList.add('key');
+    deleteKey.classList.add('key', 'delete');
     deleteKey.textContent = 'Del';
-    deleteKey.style.gridColumn = "span 2";
     deleteKey.addEventListener('click', handleDelete);
     keyboard.appendChild(deleteKey);
 }
