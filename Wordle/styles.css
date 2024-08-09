@@ -93,13 +93,8 @@ body {
     color: white;
 }
 
-.key.enter {
-    grid-column: span 3; /* Spans three columns to fit "Enter" */
-    width: auto;
-}
-
-.key.delete {
-    grid-column: span 2; /* Positioned beside the Enter key */
+.key.enter, .key.delete {
+    grid-column: span 4; /* Each key spans 4 columns to sit beside each other */
     width: auto;
 }
 
