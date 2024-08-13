@@ -42,8 +42,7 @@ function createOfficialWordleKeyboard() {
     const rows = [
         'qwertyuiop',
         'asdfghjkl',
-        'zxcvbnm',
-        'enter delete' // Enter on the left and delete on the right
+        'zxcvbnmenterdelete' // zxcvbnm and enter/delete on the same row
     ];
     const keyboard = document.getElementById('keyboard');
     keyboard.innerHTML = '';  // Clear any previous keys
@@ -51,10 +50,10 @@ function createOfficialWordleKeyboard() {
     rows.forEach((row, index) => {
         const rowDiv = document.createElement('div');
         rowDiv.classList.add('keyboard-row');
-        row.split(' ').forEach(letter => {
+        row.split('').forEach(letter => {
             const key = document.createElement('button');
             key.classList.add('key');
-            key.textContent = letter === 'enter' || letter === 'delete' ? letter.toUpperCase() : letter.toUpperCase();
+            key.textContent = letter.toUpperCase();
             key.dataset.key = letter;
             if (letter === 'enter') {
                 key.classList.add('enter');
