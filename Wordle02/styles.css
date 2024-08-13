@@ -11,29 +11,39 @@ body {
 
 .container {
     text-align: center;
-    position: relative;
+    max-width: 600px;
+    width: 100%;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.game-area {
     display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    width: 100%;
 }
 
 #game {
     display: grid;
-    grid-template-columns: repeat(5, 60px);
+    grid-template-columns: repeat(5, 1fr);
     grid-gap: 10px;
-    margin-bottom: 20px;
-    justify-content: center;
 }
 
 .tile {
-    width: 60px;
-    height: 60px;
+    width: 100%;
+    padding-top: 100%; /* This makes the tiles square */
+    position: relative;
     border: 2px solid #ddd;
     font-size: 2rem;
     text-transform: uppercase;
+    background-color: #333;
+    color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #333;
-    color: #ffffff;
 }
 
 .tile.correct {
@@ -54,11 +64,22 @@ body {
     color: white;
 }
 
+#scorecard {
+    border: 2px solid #ddd;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    width: 200px;
+    text-align: left;
+    flex-shrink: 0;
+}
+
 #keyboard {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 20px;
+    width: 100%;
 }
 
 .keyboard-row {
@@ -87,13 +108,45 @@ body {
     font-size: 1rem;
 }
 
-#scorecard {
-    border: 2px solid #ddd;
-    padding: 20px;
-    width: 200px;
-    background-color: #333;
-    color: #fff;
-    text-align: left;
-    margin-left: 30px; /* Add some space between the game field and the scorecard */
-    position: relative;
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        max-width: 100%;
+        padding: 0 10px;
+    }
+
+    .game-area {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #keyboard {
+        order: 1;
+    }
+
+    #scorecard {
+        order: 2;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    #game {
+        grid-template-columns: repeat(5, 1fr);
+        grid-gap: 5px;
+    }
+
+    .tile {
+        font-size: 1.5rem;
+    }
+
+    .key {
+        width: 40px;
+        height: 40px;
+        font-size: 0.8rem;
+    }
+
+    .key.enter, .key.delete {
+        width: 60px;
+        font-size: 0.8rem;
+    }
 }
