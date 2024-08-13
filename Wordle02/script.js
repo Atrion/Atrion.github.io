@@ -25,7 +25,7 @@ function loadWords() {
 function startGame() {
     currentWord = words[Math.floor(Math.random() * words.length)];
     createGameBoard();
-    createKeyboard();
+    createOfficialWordleKeyboard();
 }
 
 function createGameBoard() {
@@ -38,29 +38,30 @@ function createGameBoard() {
     }
 }
 
-function createKeyboard() {
+function createOfficialWordleKeyboard() {
     const rows = [
         'qwertyuiop',
         'asdfghjkl',
         'zxcvbnm',
-        'delete enter' // Delete and Enter keys on the same line
+        'enter delete' // Enter on the left and delete on the right
     ];
     const keyboard = document.getElementById('keyboard');
     keyboard.innerHTML = '';  // Clear any previous keys
 
-    rows.forEach(row => {
+    rows.forEach((row, index) => {
         const rowDiv = document.createElement('div');
         rowDiv.classList.add('keyboard-row');
         row.split(' ').forEach(letter => {
-            const key = document.createElement('div');
+            const key = document.createElement('button');
             key.classList.add('key');
-            key.textContent = letter === 'enter' || letter === 'delete' ? letter : letter.toUpperCase();
-            if (letter === 'delete') {
-                key.classList.add('delete');
-                key.addEventListener('click', handleDelete);
-            } else if (letter === 'enter') {
+            key.textContent = letter === 'enter' || letter === 'delete' ? letter.toUpperCase() : letter.toUpperCase();
+            key.dataset.key = letter;
+            if (letter === 'enter') {
                 key.classList.add('enter');
                 key.addEventListener('click', handleEnter);
+            } else if (letter === 'delete') {
+                key.classList.add('delete');
+                key.addEventListener('click', handleDelete);
             } else {
                 key.addEventListener('click', () => handleKey(letter));
             }
@@ -134,7 +135,7 @@ function checkAttempt() {
 function updateKeyboard(letter, className) {
     const keys = document.querySelectorAll('.key');
     keys.forEach(key => {
-        if (key.textContent.toLowerCase() === letter) {
+        if (key.dataset.key === letter) {
             key.classList.add(className);
         }
     });

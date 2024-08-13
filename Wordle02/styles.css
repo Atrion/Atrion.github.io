@@ -13,12 +13,30 @@ body {
     text-align: center;
 }
 
+#game-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
 #game {
     display: grid;
     grid-template-columns: repeat(5, 60px);
     grid-gap: 10px;
     margin-bottom: 20px;
-    justify-content: center;
+}
+
+#scorecard {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 150px;
+    height: 150px;
+    background-color: #333;
+    border: 2px solid #ddd;
+    padding: 10px;
+    margin-left: 20px;
+    text-align: left;
 }
 
 .tile {
@@ -57,7 +75,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 0 auto;
+    margin: 20px 0;
 }
 
 .keyboard-row {
@@ -67,18 +85,26 @@ body {
 }
 
 .key {
-    width: 40px;
-    height: 50px;
+    width: 43px;
+    height: 58px;
     background-color: #eee;
     border: 2px solid #ccc;
-    font-size: 1rem;
+    font-size: 1.1rem;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
     text-transform: uppercase;
     color: #000000;
-    margin: 2px;
+    margin: 3px;
+}
+
+.key.enter {
+    width: 90px;
+}
+
+.key.delete {
+    width: 90px;
 }
 
 .key.correct {
@@ -99,18 +125,8 @@ body {
     color: white;
 }
 
-.key.enter, .key.delete {
-    width: 80px;
-}
-
 #message {
     margin-top: 20px;
     font-size: 1.2rem;
     color: #ffffff;
-}
-
-#scorecard {
-    margin-top: 20px;
-    color: #ffffff;
-    font-size: 1rem;
 }
