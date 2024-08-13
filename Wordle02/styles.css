@@ -11,7 +11,7 @@ body {
 
 .container {
     text-align: center;
-    max-width: 600px;
+    max-width: 800px; /* Increased max-width to accommodate larger game board */
     width: 100%;
 }
 
@@ -24,18 +24,18 @@ h1 {
     justify-content: space-between;
     margin-bottom: 20px;
     width: 100%;
+    gap: 20px; /* Add space between the game and scorecard */
 }
 
 #game {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(5, 60px); /* Full size */
     grid-gap: 10px;
 }
 
 .tile {
-    width: 100%;
-    padding-top: 100%; /* This makes the tiles square */
-    position: relative;
+    width: 60px; /* Full size */
+    height: 60px; /* Full size */
     border: 2px solid #ddd;
     font-size: 2rem;
     text-transform: uppercase;
@@ -131,7 +131,7 @@ h1 {
     }
 
     #game {
-        grid-template-columns: repeat(5, 1fr);
+        grid-template-columns: repeat(5, 60px); /* Full size */
         grid-gap: 5px;
     }
 
