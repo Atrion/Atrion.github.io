@@ -4,12 +4,12 @@ let attempts = 0;
 const maxAttempts = 6;
 let wins = 0;
 let losses = 0;
-let streak = 0;
+let currentStreak = 0;
 let maxStreak = 0;
 
 document.addEventListener("DOMContentLoaded", () => {
     loadWords();
-    updateScorecard();
+    createScorecard();
 });
 
 function loadWords() {
@@ -25,12 +25,12 @@ function loadWords() {
 function startGame() {
     currentWord = words[Math.floor(Math.random() * words.length)];
     createGameBoard();
-    createOfficialWordleKeyboard();
+    createKeyboard();
 }
 
 function createGameBoard() {
     const game = document.getElementById('game');
-    game.innerHTML = '';  // Clear any previous tiles
+    game.innerHTML = ''; // Clear existing content
     for (let i = 0; i < maxAttempts * 5; i++) {
         const tile = document.createElement('div');
         tile.classList.add('tile');
@@ -38,39 +38,49 @@ function createGameBoard() {
     }
 }
 
-function createOfficialWordleKeyboard() {
+function createKeyboard() {
     const rows = [
         'qwertyuiop',
         'asdfghjkl',
-        'zxcvbnmenterdelete' // zxcvbnm and enter/delete on the same row
+        'zxcvbnm',
     ];
-    const keyboard = document.getElementById('keyboard');
-    keyboard.innerHTML = '';  // Clear any previous keys
 
-    rows.forEach((row, index) => {
+    const keyboard = document.getElementById('keyboard');
+    keyboard.innerHTML = ''; // Clear existing content
+
+    rows.forEach(row => {
         const rowDiv = document.createElement('div');
         rowDiv.classList.add('keyboard-row');
+
         row.split('').forEach(letter => {
             const key = document.createElement('button');
             key.classList.add('key');
             key.textContent = letter.toUpperCase();
-            key.dataset.key = letter;
-            if (letter === 'enter') {
-                key.classList.add('enter');
-                key.addEventListener('click', handleEnter);
-            } else if (letter === 'delete') {
-                key.classList.add('delete');
-                key.addEventListener('click', handleDelete);
-            } else {
-                key.addEventListener('click', () => handleKey(letter));
-            }
+            key.addEventListener('click', () => handleKey(letter));
             rowDiv.appendChild(key);
         });
+
         keyboard.appendChild(rowDiv);
     });
-}
 
-let currentAttempt = '';
+    // Adding "Enter" and "Delete" buttons
+    const bottomRow = document.createElement('div');
+    bottomRow.classList.add('keyboard-row');
+
+    const enterKey = document.createElement('button');
+    enterKey.classList.add('key', 'enter');
+    enterKey.textContent = 'Enter';
+    enterKey.addEventListener('click', handleEnter);
+
+    const deleteKey = document.createElement('button');
+    deleteKey.classList.add('key', 'delete');
+    deleteKey.textContent = 'Delete';
+    deleteKey.addEventListener('click', handleDelete);
+
+    bottomRow.appendChild(enterKey);
+    bottomRow.appendChild(deleteKey);
+    keyboard.appendChild(bottomRow);
+}
 
 function handleKey(letter) {
     if (currentAttempt.length < 5) {
@@ -129,12 +139,16 @@ function checkAttempt() {
             updateKeyboard(letter, 'absent');
         }
     }
+
+    if (currentAttempt === currentWord) {
+        endGame(true);
+    }
 }
 
 function updateKeyboard(letter, className) {
     const keys = document.querySelectorAll('.key');
     keys.forEach(key => {
-        if (key.dataset.key === letter) {
+        if (key.textContent.toLowerCase() === letter) {
             key.classList.add(className);
         }
     });
@@ -144,7 +158,6 @@ function endGame(win) {
     const message = document.getElementById('message');
     message.textContent = win ? 'You Win!' : `Game Over! The word was ${currentWord}`;
     document.querySelectorAll('.key').forEach(key => key.removeEventListener('click', handleKey));
-    updateScorecard();
 }
 
 function displayMessage(text) {
@@ -155,22 +168,30 @@ function displayMessage(text) {
     }, 2000);
 }
 
+function createScorecard() {
+    const scorecard = document.getElementById('scorecard');
+    scorecard.innerHTML = `
+        <h2>Scorecard</h2>
+        <p>Wins: <span id="wins">0</span></p>
+        <p>Losses: <span id="losses">0</span></p>
+        <p>Current Streak: <span id="currentStreak">0</span></p>
+        <p>Max Streak: <span id="maxStreak">0</span></p>
+    `;
+}
+
 function updateScore(win) {
     if (win) {
         wins++;
-        streak++;
-        if (streak > maxStreak) {
-            maxStreak = streak;
+        currentStreak++;
+        if (currentStreak > maxStreak) {
+            maxStreak = currentStreak;
         }
     } else {
         losses++;
-        streak = 0;
+        currentStreak = 0;
     }
-}
-
-function updateScorecard() {
     document.getElementById('wins').textContent = wins;
     document.getElementById('losses').textContent = losses;
-    document.getElementById('streak').textContent = streak;
+    document.getElementById('currentStreak').textContent = currentStreak;
     document.getElementById('maxStreak').textContent = maxStreak;
 }

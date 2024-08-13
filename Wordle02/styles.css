@@ -11,12 +11,7 @@ body {
 
 .container {
     text-align: center;
-}
-
-#game-container {
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
+    position: relative;
 }
 
 #game {
@@ -24,19 +19,7 @@ body {
     grid-template-columns: repeat(5, 60px);
     grid-gap: 10px;
     margin-bottom: 20px;
-}
-
-#scorecard {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    width: 150px;
-    height: 150px;
-    background-color: #333;
-    border: 2px solid #ddd;
-    padding: 10px;
-    margin-left: 20px;
-    text-align: left;
+    justify-content: center;
 }
 
 .tile {
@@ -74,59 +57,43 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    margin: 20px 0;
+    margin-top: 20px;
 }
 
 .keyboard-row {
     display: flex;
     justify-content: center;
-    margin-bottom: 8px;
+    margin: 5px 0;
 }
 
 .key {
-    width: 43px;
-    height: 58px;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
     background-color: #eee;
     border: 2px solid #ccc;
-    font-size: 1.1rem;
+    font-size: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
     text-transform: uppercase;
-    color: #000000;
-    margin: 3px;
+    color: #000;
 }
 
-.key.enter {
-    width: 90px;
+.key.enter, .key.delete {
+    width: 80px;
+    font-size: 1rem;
 }
 
-.key.delete {
-    width: 90px;
-}
-
-.key.correct {
-    background-color: #6aaa64;
-    border-color: #6aaa64;
-    color: white;
-}
-
-.key.present {
-    background-color: #c9b458;
-    border-color: #c9b458;
-    color: white;
-}
-
-.key.absent {
-    background-color: #787c7e;
-    border-color: #787c7e;
-    color: white;
-}
-
-#message {
-    margin-top: 20px;
-    font-size: 1.2rem;
-    color: #ffffff;
+#scorecard {
+    border: 2px solid #ddd;
+    padding: 20px;
+    width: 200px;
+    position: absolute;
+    right: 10px;
+    top: 50px;
+    background-color: #333;
+    color: #fff;
+    text-align: left;
 }
