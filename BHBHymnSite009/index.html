@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Believers Hymn Book</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Believers Hymn Book</h1>
+        </header>
+        <nav>
+            <input type="text" id="search" placeholder="Search Phrase or Number">
+            <div class="button-group">
+                <button id="sort-number">Sort by Number</button>
+                <button id="sort-title">Sort by Title</button>
+                <button id="view-favorites">View Favorites</button>
+                <button id="switch-theme">Switch Theme</button>
+                <button id="back-to-list">Back to List</button>
+            </div>
+        </nav>
+        <main>
+            <ul id="hymn-list">
+                <!-- Hymns will be dynamically inserted here -->
+            </ul>
+            <div id="hymn-detail" class="hidden">
+                <h2 id="hymn-detail-title"></h2>
+                <p id="hymn-detail-lyrics"></p>
+                <div id="hymn-detail-author"></div>
+                <div id="hymn-detail-meter"></div>
+                <div id="hymn-detail-tuneName"></div>
+                <div id="hymn-detail-chorus"></div>
+                <div id="hymn-detail-addedChorus"></div>
+            </div>
+        </main>
+        <footer>
+            <div class="button-group">
+                <button id="sort-number-bottom">Sort by Number</button>
+                <button id="sort-title-bottom">Sort by Title</button>
+                <button id="view-favorites-bottom">View Favorites</button>
+                <button id="switch-theme-bottom">Switch Theme</button>
+                <button id="back-to-list-footer">Back to List</button>
+            </div>
+        </footer>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
