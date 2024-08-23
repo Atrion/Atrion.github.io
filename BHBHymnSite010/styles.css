@@ -96,6 +96,11 @@ p {
     color: var(--text-secondary-color, #ccc);
 }
 
+/* Add margin for hymn details */
+#hymn-detail p {
+    margin-bottom: 1em;
+}
+
 /* Hidden class for toggling visibility */
 .hidden {
     display: none;
@@ -139,9 +144,4 @@ body.light-theme {
     --button-text: #000;
     --main-background: #f5f5f5;
     --text-secondary-color: #333;
-}
-
-/* Add additional spacing between elements */
-#hymn-detail p + p {
-    margin-top: 15px;
 }
