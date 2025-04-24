@@ -66,3 +66,11 @@ body{
     transform: scale(1.05);
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.5);
 }
+
+.icon {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin-right: 10px;
+    border-radius: 4px;
+}
