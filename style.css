@@ -94,3 +94,35 @@ body{
     transform: scale(1.05);
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
+
+#contact-buttons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 15px;
+    max-width: 675px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact-button {
+    background-color: var(--accentColor);
+    color: var(--bgColor);
+    font-family: var(--font);
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 10px;
+    transition: all .25s cubic-bezier(.08,.59,.29,.99);
+    display: inline-block;
+    flex: 1 1 45%;
+    max-width: 300px;
+    box-sizing: border-box;
+}
+.contact-button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
