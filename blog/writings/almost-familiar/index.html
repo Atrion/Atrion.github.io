@@ -5,29 +5,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Almost Familiar | Atrion's Blog</title>
   <link rel="stylesheet" href="/blog/assets/css/style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/simple-jekyll-search/1.10.0/simple-jekyll-search.min.js" defer></script>
 </head>
 <body>
   <header>
   </header>
 
-    <nav class="navbar">
-      <a href="/">Linktree</a> |
-      <a href="/blog/index">Home</a> |
-      <a href="/blog/blog">Blog Archive</a> |
-      <a href="/blog/manifesto">Manifesto</a> |
-      <a href="/blog/writings">Writings</a> |
-      <a href="/blog/tags">Tags</a> |
-      <a href="/blog/about">About</a> |
-      <a href="/blog/links">Links</a> 
-    </nav>
-
+  <nav class="navbar">
+    <a href="/">Linktree</a> |
+    <a href="/blog/index">Home</a> |
+    <a href="/blog/blog">Blog Archive</a> |
+    <a href="/blog/manifesto">Manifesto</a> |
+    <a href="/blog/writings">Writings</a> |
+    <a href="/blog/tags">Tags</a> |
+    <a href="/blog/about">About</a> |
+    <a href="/blog/links">Links</a> |
+    <input type="text" id="search-input" placeholder="Search..." style="margin-left: 1rem; padding: 0.25rem;">
+  </nav>
 
   <main class="container">
     
-  <header class="page-header">
-    <h1 class="page-title">Almost Familiar</h1>
-  </header>
-  
+    <header class="page-header">
+      <h1 class="page-title">Almost Familiar</h1>
+    </header>
+    
+
+    <div id="results-container"></div>
     <main class="page-content">
   <article class="post">
 <!--    <h1 class="post-title">Almost Familiar</h1>
@@ -58,7 +61,18 @@ Like something I used to know.</p>
     <p>© Atrion Darnay 2025. All rights reserved.</p>
   </footer>
 
-  
-
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+      });
+    });
+  </script>
 </body>
 </html>
