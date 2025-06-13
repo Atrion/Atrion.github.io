@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+  </header>
+
+<div class="site-header">
+  <img src="{{ '/assets/images/lantern.png' | relative_url }}" alt="Lantern icon" class="site-icon" />
+  <div class="icon-title">
+    <h1 class="site-title">
+      Musings <span class="italic-word">from</span> Gravel Hill
+    </h1>
+    <p class="site-subtitle" id="subtitle"></p>
+  </div>
+</div>
+
+
+    <nav class="navbar">
+      <a href="/index">Home</a> |
+      <a href="/blog">Blog Archive</a> |
+      <a href="/manifesto">Manifesto</a> |
+      <a href="/writings">Writings</a> |
+      <a href="/tags">Tags</a> |
+      <a href="/about">About</a> |
+      <a href="/links">Links</a> |
+      <a href="/projects">Projects</a> 
+    </nav>
+
+
+  <main class="container">
+    {% if page.title %}
+  <header class="page-header">
+    <h1 class="page-title">{{ page.title }}</h1>
+  </header>
+  {% endif %}
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>© Atrion Darnay {{ "now" | date: "%Y" }}. All rights reserved.</p>
+  </footer>
+
+  
+<script src="{{ '/assets/js/subtitles.js' | relative_url }}"></script>
+</body>
+</html>

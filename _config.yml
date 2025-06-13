@@ -1,0 +1,25 @@
+title: Musings from Gravel Hill
+description: A Blog About Ssland Heritage, Projects, and Spiritual Thoughts.
+baseurl: ""
+url: "https://atrion.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+paginate: 5
+paginate_path: "/page:num"
+author: "Marc MacArthur"
+permalink: /:title/
+google_analytics: "" # Add your GA ID later
+markdown: kramdown
+kramdown:
+  input: GFM
+collections:
+  writings:
+    output: true
+    permalink: /writings/:title/
+  projects:
+    output: true
+    permalink: /projects/:title/
+excerpt_separator: "<!--more-->"
