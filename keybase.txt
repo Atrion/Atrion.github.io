@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/atrion
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://atrion.github.io
+  * I am atrion (https://keybase.io/atrion) on keybase.
+  * I have a public key with fingerprint 5A4C 1057 D5F7 33B4 658C  608B 7507 B1B6 15A3 8341
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e2b21cf5bfdfbc63249160031f2d2fe891765d4aac32bf6e5a219517dfb0db710a",
+      "fingerprint": "5a4c1057d5f733b4658c608b7507b1b615a38341",
+      "host": "keybase.io",
+      "key_id": "7507b1b615a38341",
+      "kid": "010173e9f99f874f28905cbc1e6e62701f454cb61afa3656e34115ed8087493bf16c0a",
+      "uid": "f0fb3265aff72eab6b810db3564fc119",
+      "username": "atrion"
+    },
+    "service": {
+      "hostname": "atrion.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1709423492,
+  "expire_in": 157680000,
+  "prev": "c6896b9d3e9f9c2207b8bb491d1386d734530b7407e21958ccf1b0ef840568cd",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNtAnicbVJrTBRXFN61ijxqQIkgNYJMiQFDyNx53JnZggVCQBNpakC2Qck6jzvL
+FNhdd2cRH9vHVgxtiKW8CrZQhdQixVIhQe2KcYUQigmWKrbQlqSFSqjKo2BNK9HO
+0PqjSe+fm3vO933nO+fc/nXPGYKN7rUXeja2vpNmvOE/5TagSd/xo5hglw5jpqNY
+EVq5ULGEXKqlSJEwE4YDAkeEQABRpgVZkgURkgTFAYjjJJAJiZARywEG0hLF8yJJ
+CDJENE8AjgaMhsYlgQE4jyVismKzIqfDqdhUTZbmKRHgNCPRMkOSAgVpVoQ4KzA0
+zghAgIDmSZakgEYstLt0hmZO4F0oSbFrMe1hWbH3P/hnvnHAkIiTOU5mGUomWA6n
+RUEECCJIMDiQKZoSNSIv8ySkIdLIgEYSi2tojhRkAMUV3+4VORmXBZKANC/LDIF4
+AQos0HojaUjJIgCcDnQhp40vQRqaV52K3YZ5EjEtVqqISB+r3sd/8klWRS10C/90
+5HDaVbtoL9ayharqcJl0tnrYocMPIcHyr5BFUGySNkmNUYqcLr2KCWhIUVV0ZcDg
+HEWQFEckYqjMoTiRRdERNANZXDt6HVSqSYqQ5aDASSsTEglCmyIrCNpeJUCyUGJI
+iiZxgaFwBum7ZEVRBgKOZJbCaciKEqa3dtBmx0y0JqryVk3TpVhtvOp2Isxz3b9/
+tcEYbAhYs0r/YobgoLBnH+/P98MMH5YPRs+k9gzVZM48uJUSctKXlfNJ8+txEexs
+V+e5rg+q51BFe/emfUMPjNX3gkcyW4wwP33Gih3zDhb4KsmdD6earTnxdRFb+PFX
+NoZmhBkG7h6xFLSUT37qW3/+1XbTT/WhRFDTjwP9D2MD3xw036wZ7O+4+m6fb7US
+3heF07t+y31t2+m2+NjlN2L3Vqj5c3infKO293x36u6EtIK3pJGsO974ynXlmcl1
+G7bOvzzlnfiyIzvXz/wSktF97syOcf/01/DJqPH6NxvSh92bL89G3h+w5TV1JC4N
+V2V3cicaRE/Ux3LE8Zt/JL29r8XT+EOy33u6eezA4yX6pDnDerHJ8t6Fa1sjAiVT
+Qkwjgb/EL1Y93bXYMbbHNDvUdeyL6YuJgWEe/ws7AsivGHgmI21ndtz+lPjCxhhz
+9aU1wXkdqalt+UVP8h2Lt0dHjuAJcfmB8S/mlS3fIyeq5utH7f7Whdk6Y/vaK0uX
+mHnYcPDXPd6AsVW1kSGlXt96b8Xz9u97Y6LFxe+e3rnv44ZSAq4Udy9s/2uLvy0c
+Rs6lN/Nxl7tDft88sbx8d2FmuyEno3bvlKvEEdBDq2czY2xDmyzTWcVNn30UHrq7
+73F9b9q3jzzFs5O3xs+eMn9eEuRqHc7N66+JomorG4gT11I7m5OuHkrzm80/H0hO
+GA0b3Ha7p0yJfvQ3+/C/RA==
+=bgJS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/atrion
+
+==================================================================
