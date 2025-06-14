@@ -7,6 +7,7 @@ permalink: /projects/
 <div class="projects-container">
   {% assign sorted_projects = site.projects | sort: "updated" | reverse %}
   {% for project in sorted_projects %}
+  {% unless project.hidden %}
     <div class="project-card">
       <a href="{{ project.url | relative_url }}">
         {% if project.image %}
@@ -15,5 +16,6 @@ permalink: /projects/
         <h3>{{ project.title }}</h3>
       </a>
     </div>
+  {% endunless %}
   {% endfor %}
 </div>

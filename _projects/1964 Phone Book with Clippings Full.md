@@ -6,6 +6,7 @@ layout: project
 image: /assets/images/projects/phonebook/phonebook_cover.jpg
 tags: [history, restoration, PEI]
 type: "Project"
+hidden: true
 ---
 
 This is a Set of digital photos of a damaged Phone Book dating back to around 1964. 
@@ -15,15 +16,17 @@ This Phonebook belonged to Lilla MacNiell (Kevin MacNeill's Grandmother) of Milb
 
 This item was graciously loaned to me by Glenwood resident Kevin MacNeill.
 
+This Page contains the full scans of the entire Book.
+
 
 <div class="gallery">
-  <a href="{{ '/projects/1964-Phone-Book-with-Clippings-Articles/' | relative_url }}">
-    <img src="{{ '/assets/images/projects/phonebook/thumbnails/clippings_cover.jpg' | relative_url }}" alt="Article CLippings">
+  <a href="{{ '/assets/images/projects/phonebook/.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/projects/phonebook/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
-  <a href="{{ '/projects/1964-Phone-Book-with-Clippings-Oleary/' | relative_url }}">
-    <img src="{{ '/assets/images/projects/phonebook/thumbnails/oleary_cover.jpg' | relative_url }}" alt="O'Leary Pages">
+  <a href="{{ '/assets/images/projects/phonebook/.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/projects/phonebook/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
-  <a href="{{ '/projects/1964-Phone-Book-with-Clippings-Full/' | relative_url }}">
-    <img src="{{ '/assets/images/projects/phonebook/thumbnails/phonebook_cover.jpg' | relative_url }}" alt="Full Book">
+  <a href="{{ '/assets/images/projects/phonebook/.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/projects/phonebook/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
 </div>
