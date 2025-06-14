@@ -1,5 +1,5 @@
 ---
-title: "1964 Phone Book with Clippings"
+title: "1964 Phone Book with Clippings - Full Book"
 date: 2025-06-01 12:00:00 -0400
 updated: 2025-06-12 13:00:00
 layout: project
