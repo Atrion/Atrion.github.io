@@ -24,6 +24,6 @@ This item was graciously loaned to me by Glenwood resident Kevin MacNeill.
     <img src="{{ '/assets/images/projects/phonebook/thumbnails/oleary_cover.jpg' | relative_url }}" alt="O'Leary Pages">
   </a>
   <a href="{{ '/projects/1964-Phone-Book-with-Clippings-Full/' | relative_url }}">
-    <img src="{{ '/assets/images/projects/phonebook/thumbnails/phonebook_cover.jpg' | relative_url }}" alt="Full Book">
+    <img src="{{ '/assets/images/projects/phonebook/phonebook_cover.jpg' | relative_url }}" alt="Full Book">
   </a>
 </div>
