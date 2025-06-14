@@ -16,5 +16,5 @@ permalink: /
 {% endfor %}
 
 <p style="text-align: center;">
-  <a href="/blog/blog/" style="text-decoration: none; font-weight: bold;">&lt; View All Posts &gt;</a>
+  <a href="/blog/" style="text-decoration: none; font-weight: bold;">&lt; View All Posts &gt;</a>
 </p>
