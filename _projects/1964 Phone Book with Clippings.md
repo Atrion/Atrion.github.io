@@ -17,13 +17,13 @@ This item was graciously loaned to me by Glenwood resident Kevin MacNeill.
 
 
 <div class="gallery">
-  <a href="{{ '/assets/images/projects/phonebook/.jpg' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/images/projects/phonebook/.jpg' | relative_url }}">
     <img src="{{ '/assets/images/projects/phonebook/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
-  <a href="{{ '/assets/images/projects/phonebook/.jpg' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/images/projects/phonebook/.jpg' | relative_url }}">
     <img src="{{ '/assets/images/projects/phonebook/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
-  <a href="{{ '/assets/images/projects/phonebook/.jpg' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/images/projects/phonebook/.jpg' | relative_url }}">
     <img src="{{ '/assets/images/projects/phonebook/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
 </div>

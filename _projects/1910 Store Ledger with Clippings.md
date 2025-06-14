@@ -17,13 +17,13 @@ This item was graciously loaned to me by West Point resident Audrey MacDonald.
 
 
 <div class="gallery">
-  <a href="{{ '/assets/images/projects/ledger/.jpg' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/images/projects/ledger/.jpg' | relative_url }}">
     <img src="{{ '/assets/images/projects/ledger/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
-  <a href="{{ '/assets/images/projects/ledger/.jpg' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/images/projects/ledger/.jpg' | relative_url }}">
     <img src="{{ '/assets/images/projects/ledger/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
-  <a href="{{ '/assets/images/projects/ledger/.jpg' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/images/projects/ledger/.jpg' | relative_url }}">
     <img src="{{ '/assets/images/projects/ledger/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
 </div>
