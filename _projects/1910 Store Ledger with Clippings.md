@@ -3,7 +3,7 @@ title: "1910 Store Ledger with Clippings"
 date: 2025-06-01 12:00:00 -0400
 updated: 2025-06-12 14:00:00
 layout: project
-image: /assets/images/projects/ledger/Ledger_Cover.jpg
+image: /assets/images/projects/ledger/ledger_cover.jpg
 tags: [history, restoration, PEI]
 type: "Project"
 ---
