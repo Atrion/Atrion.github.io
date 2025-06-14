@@ -5,25 +5,12 @@ permalink: /about/
 custom_css: /assets/css/about.css
 ---
 
-Welcome! You might know me as Marc MacArthur, or maybe even Atrion Darnay, a lifelong Islander from beautiful Prince Edward Island, Canada. I strive to balance the digital world with an appreciation for where I come from.
-
-<!-- Insert original HTML Linktree content here -->
 <img id="userPhoto" src="/assets/images/Atrion.jpg" alt="User Photo" />
-
-<a href="https://atrion.github.io/" id="userName">Marc MacArthur</a>  
-<a href="https://atrion.github.io/" id="userName">aka Atrion Darnay</a>
-
-<div id="contact-buttons">
-  <a class="contact-button" href="mailto:atrion@gmail.com"><img class="icon" src="/assets/icons/google.png" />Gmail</a>
-  <a class="contact-button" href="https://wa.me/19023145613"><img class="icon" src="/assets/icons/whatsapp.png" />WhatsApp</a>
-</div>
-
-<div id="contact-buttons">
-  <a class="contact-button" href="https://atrion.github.io/blog"><img class="icon" src="/assets/icons/ink.png" />Journal</a>
-  <a class="contact-button" href="https://discord.com/users/208352414984568842"><img class="icon" src="/assets/icons/discord.png" />Discord</a>
-</div>
-
+You might know me as Marc MacArthur, or maybe even Atrion Darnay, a lifelong Islander from beautiful Prince Edward Island, Canada. I strive to balance the digital world with an appreciation for where I come from.
 <div id="links">
+  <a class="link" href="mailto:atrion@gmail.com"><img class="icon" src="/assets/icons/google.png" />Gmail</a>
+  <a class="link" href="https://wa.me/19023145613"><img class="icon" src="/assets/icons/whatsapp.png" />Whatsapp</a>
+  <a class="link" href="https://discord.com/users/208352414984568842"><img class="icon" src="/assets/icons/discord.png" />Discord</a>
   <a class="link" href="https://heaven4sure.com/my-journey-to-christ-marc-macarthur/"><img class="icon" src="/assets/icons/bible.png" /><b>My Journey to Christ</b></a>
   <a class="link" href="https://keybase.io/atrion"><img class="icon" src="/assets/icons/keybase.png" />Keybase</a>
   <a class="link" href="https://archive.org/details/@atrion84"><img class="icon" src="/assets/icons/internetarchive.png" />Internet Archive</a>
