@@ -182,6 +182,21 @@ img {
   transform: scale(1.05);
 }
 
+.gallery-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.gallery-item p {
+  margin: 0 0 0.5rem;
+  font-size: 0.9rem;
+  color: #ccc;
+  line-height: 1.4;
+  max-width: 100%;
+}
+
 /* For the Projects Pages */
 .projects-container {
   display: grid;
