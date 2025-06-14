@@ -6,7 +6,7 @@ custom_css: /assets/css/about.css
 ---
 
 <img id="userPhoto" src="/assets/images/Atrion.jpg" alt="User Photo" />
-You might know me as Marc MacArthur, or maybe even Atrion Darnay, a lifelong Islander from beautiful Prince Edward Island, Canada. I strive to balance the digital world with an appreciation for where I come from, and to try and live a modern Christian life. Welcome here, Enjoy, feel free to contact me.
+<p style="text-align: center;">You might know me as Marc MacArthur, or maybe even Atrion Darnay, a lifelong Islander from beautiful Prince Edward Island, Canada. I strive to balance the digital world with an appreciation for where I come from, and to try and live a modern Christian life. Welcome here, Enjoy, feel free to contact me.</p>
 <div id="links">
   <a class="link" href="mailto:atrion@gmail.com"><img class="icon" src="/assets/icons/google.png" />Gmail</a>
   <a class="link" href="https://wa.me/19023145613"><img class="icon" src="/assets/icons/whatsapp.png" />Whatsapp</a>
