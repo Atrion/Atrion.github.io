@@ -1,11 +1,11 @@
 // /assets/js/subtitles.js
 document.addEventListener("DOMContentLoaded", function () {
   const subtitles = [
-    "Thoughts in the quiet",
-    "Walking the narrow way",
-    "Poems, prayers, and ponderings",
-    "Faith, land, and life on the Hill",
-    "Where ink meets eternity"
+    "Thoughts in the Quiet",
+    "Walking the Narrow Way",
+    "Poems, Prayers, and Ponderings",
+    "Faith, Land, and Life on the Hill",
+    "Where Ink Meets Eternity"
   ];
   const random = Math.floor(Math.random() * subtitles.length);
   const subtitleElement = document.getElementById("subtitle");
