@@ -1,11 +1,12 @@
 ---
-title: "1910 Store Ledger with Clippings"
+title: "1910 Store Ledger with Clippings - Full Book"
 date: 2025-06-01 12:00:00 -0400
 updated: 2025-06-12 14:00:00
 layout: project
 image: /assets/images/projects/ledger/Ledger_Cover.jpg
 tags: [history, restoration, PEI]
 type: "Project"
+hidden: true
 ---
 
 This is a Set of digital photos of a damaged store ledger dating back to around 1910. 
@@ -15,12 +16,17 @@ It is beleived that this ledger my have belonged to an old store that was in Gle
 
 This item was graciously loaned to me by West Point resident Audrey MacDonald.
 
+This Page contains the full photos of the entire Book.
+
 
 <div class="gallery">
-  <a href="{{ '/projects/1910-Store-Ledger-with-Clippings-Articles/' | relative_url }}">
-    <img src="{{ '/assets/images/projects/ledger/thumbnails/clippings_cover.jpg' | relative_url }}" alt="Article CLippings">
+  <a href="{{ '/assets/images/projects/ledger/.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/projects/ledger/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
-  <a href="{{ '/projects/1910-Store-Ledger-with-Clippings-Full/' | relative_url }}">
-    <img src="{{ '/assets/images/projects/ledger/thumbnails/Ledger_Cover.jpg' | relative_url }}" alt="Full Book">
+  <a href="{{ '/assets/images/projects/ledger/.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/projects/ledger/thumbnails/.jpg' | relative_url }}" alt="Description">
+  </a>
+  <a href="{{ '/assets/images/projects/ledger/.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/projects/ledger/thumbnails/.jpg' | relative_url }}" alt="Description">
   </a>
 </div>

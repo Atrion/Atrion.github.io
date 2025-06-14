@@ -16,7 +16,7 @@ This Phonebook belonged to Lilla MacNiell (Kevin MacNeill's Grandmother) of Milb
 
 This item was graciously loaned to me by Glenwood resident Kevin MacNeill.
 
-This Page contains just scans of the Full Pages of the O'Leary Section of the Book.
+This Page contains just photos of the Full Pages of the O'Leary Section of the Book.
 
 
 <div class="gallery">
