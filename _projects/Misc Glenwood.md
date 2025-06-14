@@ -13,8 +13,8 @@ This items are not files under a specific project, but are kept here for easy re
 
 
 <div class="gallery">
-  <a href="{{ '/assets/images/projects/glenwood/.jpg' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/images/projects/glenwood/thumbnails/.jpg' | relative_url }}" alt="Description">
+  <a href="{{ '/assets/images/projects/glenwood/5328-6.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/projects/glenwood/thumbnails/5328-6.jpg' | relative_url }}" alt="Description">
   </a>
   <a href="{{ '/assets/images/projects/glenwood/.jpg' | relative_url }}" target="_blank">
     <img src="{{ '/assets/images/projects/glenwood/thumbnails/.jpg' | relative_url }}" alt="Description">

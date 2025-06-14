@@ -13,8 +13,8 @@ This items are not files under a specific project, but are kept here for easy re
 
 
 <div class="gallery">
-  <a href="{{ '/assets/images/projects/lot8/.jpg' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/images/projects/lot8/thumbnails/.jpg' | relative_url }}" alt="Description">
+  <a href="{{ '/assets/images/projects/lot8/Cummins Map Co - Atlas of Province of Prince Edward Island, Canada and the World - PEI Lot 8 (1927).png' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/projects/lot8/thumbnails/Cummins Map Co - Atlas of Province of Prince Edward Island, Canada and the World - PEI Lot 8 (1927).png' | relative_url }}" alt="Description">
   </a>
   <a href="{{ '/assets/images/projects/lot8/.jpg' | relative_url }}" target="_blank">
     <img src="{{ '/assets/images/projects/lot8/thumbnails/.jpg' | relative_url }}" alt="Description">
