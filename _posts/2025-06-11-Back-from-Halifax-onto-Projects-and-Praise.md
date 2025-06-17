@@ -10,7 +10,7 @@ permalink: /blog/Back-from-Halifax-onto-Projects-and-Praise/
 
 This past weekend was the Halifax Bible Conference, and I came away both refreshed and challenged. The focus of the Bible study and ministry was 2 Corinthians chapters 1 through 6. These chapters are rich with instruction and comfort, and the ministry was both clear and deeply rooted in Scripture. As usual, the conference delivered on all fronts; spiritually uplifting messages, good food, far too many sweets, and wonderful fellowship with believers from across the region.
 
-For me, it was also a new experience. I traveled with several from my local assembly that I haven’t spent much time with before. A mix of adults and teens, a little convoy in five vehicles. Our group stayed in the home of one of their friends, a beautiful place tucked just off the water and only twenty minutes from the Gospel Hall.
+For me it was also a new experience. I traveled with several from my local assembly that I haven’t spent much time with before. A mix of adults and teens, a little convoy in five vehicles. Our group stayed in the home of one of their friends, a beautiful place tucked just off the water and only twenty minutes from the Gospel Hall.
 
 <!--more-->
 
