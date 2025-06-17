@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post-Weekend Reflections and Projects in Motion"
+title: "Post Weekend Reflections and Projects in Motion"
 date: 2025-06-17 01:20:00 -0400
 tags: [bike-ride, gospel-message, island-books, scanning, poetry, personal]
 categories: blog
