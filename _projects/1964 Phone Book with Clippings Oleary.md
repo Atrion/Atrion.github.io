@@ -32,5 +32,4 @@ This Page contains just photos of the Full Pages of the O'Leary Section of the B
   <a href="{ '/assets/images/projects/phonebook/photo084.jpg' | relative_url }">
     <img src="{ '/assets/images/projects/phonebook/thumbnails/photo084.png' | relative_url }" alt="O'Leary_Page_004">
   </a>
-
 </div>
