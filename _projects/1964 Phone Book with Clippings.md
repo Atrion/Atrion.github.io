@@ -18,10 +18,10 @@ This item was graciously loaned to me by Glenwood resident Kevin MacNeill.
 
 <div class="gallery">
   <a href="{{ '/projects/1964-Phone-Book-with-Clippings-Articles/' | relative_url }}">
-    <img src="{{ '/assets/images/projects/phonebook/thumbnails/clippings_cover.png' | relative_url }}" alt="Article CLippings">
+    <img src="{{ '/assets/images/projects/phonebook/clippings_cover.png' | relative_url }}" alt="Article CLippings">
   </a>
   <a href="{{ '/projects/1964-Phone-Book-with-Clippings-Oleary/' | relative_url }}">
-    <img src="{{ '/assets/images/projects/phonebook/thumbnails/oleary_cover.png' | relative_url }}" alt="O'Leary Pages">
+    <img src="{{ '/assets/images/projects/phonebook/oleary_cover.png' | relative_url }}" alt="O'Leary Pages">
   </a>
   <a href="{{ '/projects/1964-Phone-Book-with-Clippings-Full/' | relative_url }}">
     <img src="{{ '/assets/images/projects/phonebook/phonebook_cover.jpg' | relative_url }}" alt="Full Book">
