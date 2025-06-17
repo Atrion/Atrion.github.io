@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Post Weekend Reflections and Projects in Motion"
-date: 2025-06-17 12:20:00 -0400
+date: 2025-06-16 23:20:00 -0400
 tags: [bike-ride, gospel-message, island-books, scanning, poetry, personal]
 categories: blog
 author: Marc MacArthur
