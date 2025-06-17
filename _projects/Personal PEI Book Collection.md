@@ -1,7 +1,7 @@
 ---
 title: "Personal PEI Book Collection"
 date: 2025-06-01 12:00:00 -0400
-updated: 2025-06-12 12:00:00
+updated: 2025-06-17 12:52:00 -0400
 layout: project
 image: /assets/images/projects/peibooks/peibooks_cover.png
 tags: [history, restoration, PEI]
