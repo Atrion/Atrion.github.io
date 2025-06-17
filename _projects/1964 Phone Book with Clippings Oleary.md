@@ -20,17 +20,17 @@ This Page contains just photos of the Full Pages of the O'Leary Section of the B
 
 
 <div class="gallery">
-  <a href="{ '/assets/images/projects/phonebook/Photo081.jpg' | relative_url }">
-    <img src="{ '/assets/images/projects/phonebook/thumbnails/Photo081.png' | relative_url }" alt="O'Leary_Page_001">
+  <a href="{ '/assets/images/projects/phonebook/photo081.jpg' | relative_url }">
+    <img src="{ '/assets/images/projects/phonebook/thumbnails/photo081.png' | relative_url }" alt="O'Leary_Page_001">
   </a>
-  <a href="{ '/assets/images/projects/phonebook/Photo082.jpg' | relative_url }">
-    <img src="{ '/assets/images/projects/phonebook/thumbnails/Photo082.png' | relative_url }" alt="O'Leary_Page_002">
+  <a href="{ '/assets/images/projects/phonebook/photo082.jpg' | relative_url }">
+    <img src="{ '/assets/images/projects/phonebook/thumbnails/photo082.png' | relative_url }" alt="O'Leary_Page_002">
   </a>
-  <a href="{ '/assets/images/projects/phonebook/Photo083.jpg' | relative_url }">
-    <img src="{ '/assets/images/projects/phonebook/thumbnails/Photo083.png' | relative_url }" alt="O'Leary_Page_003">
+  <a href="{ '/assets/images/projects/phonebook/photo083.jpg' | relative_url }">
+    <img src="{ '/assets/images/projects/phonebook/thumbnails/photo083.png' | relative_url }" alt="O'Leary_Page_003">
   </a>
-  <a href="{ '/assets/images/projects/phonebook/Photo084.jpg' | relative_url }">
-    <img src="{ '/assets/images/projects/phonebook/thumbnails/Photo084.png' | relative_url }" alt="O'Leary_Page_004">
+  <a href="{ '/assets/images/projects/phonebook/photo084.jpg' | relative_url }">
+    <img src="{ '/assets/images/projects/phonebook/thumbnails/photo084.png' | relative_url }" alt="O'Leary_Page_004">
   </a>
 
 </div>
