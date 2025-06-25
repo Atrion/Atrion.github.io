@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "The Book"
 date: 2025-06-25 13:00:00 -0300
 tags: [poetry, gospel, judgment, salvation]
