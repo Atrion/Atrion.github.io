@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "After the Change"
 date: 2025-06-19 01:05:00 -0300
 tags: [poem, faith, change, testimony]
