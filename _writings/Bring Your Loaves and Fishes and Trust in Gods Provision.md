@@ -13,7 +13,7 @@ In the Gospel, we find this story of provision and faith, a story that resonates
 
 > **Matthew 14:17-20a KJV**  
 > *[17] And they say unto him, We have here but five loaves, and two fishes.*  
-> *[18] He said, Bring them hither to me. *  
+> *[18] He said, Bring them hither to me.*  
 > *[19] And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude.*  
 > *[20] And they did all eat, and were filled: ...*
 
