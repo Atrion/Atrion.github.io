@@ -10,6 +10,8 @@ permalink: /blog/bits-bolts-and-book-piles/
 
 Trying to keep up and clear the clutter, physically and mentally. Today’s been one of those day's of playing catch-up with the random list of to-dos that always seems to grow faster than it shrinks.
 
+<!--more-->
+
 First up was some bike maintenance. I pulled the rear tire off to adjust the bearings, its been a little loose. But the real headache is the pedal arm bolt. It’s been coming loose nearly every ride, and while I’ve been tightening it with an Allen key every time, it’s finally starting to strip. That’ll be fun to replace...
 
 Meal prep got done as well, nothing elaborate, just boiled eggs, some chicken and bacon, and a few freezer bags of food for the days ahead. I’ve strayed a little from the strict carnivore approach lately, but I’m still down 4 lbs this week, so I’m not worried. Skipping lunches while head-down in accounting probably didn’t hurt either. Small wins.

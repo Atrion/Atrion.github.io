@@ -12,6 +12,8 @@ Tomorrow is the Lord’s Day. Am I ready for worship, for praise, for rememberin
 
 He asks so little, and I still manage to give even less.
 
+<!--more-->
+
 I'm behind on just about everything: the regular Bible study readings for our hall, the yearly reading plan Timmy and I developed before he passed, and the writing I keep telling myself I'll do, devotional thoughts, Gospel messages, articles. It’s all fallen behind. And now, on top of that, I’ve been asked to speak in the Gospel meeting next week.
 
 Technically, I was supposed to speak this week, but family events, then work, distracted me, and I forgot to reply. Someone else was slotted in, and I got bumped to next week. Maybe that’s for the better. Maybe it was the Lord’s timing.
