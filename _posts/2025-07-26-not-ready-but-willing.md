@@ -30,4 +30,4 @@ This post is short, and honestly, mostly just to admit where I’m at. I know so
 
 I pray the way ahead becomes clearer. I pray I walk more closely with the Lord, not just saying I will but doing it. I know He gives trials to strengthen us, and while I don’t invite them, I understand why they come.
 
-Till later... (Really should come up with a proper sign-off one of these days.)
+Till later... (Really should come up with a proper sign-off one of these days)
