@@ -12,6 +12,8 @@ The bookkeeping is officially caught up.
 
 Three weeks of (semi-)solid focus and effort brought the entire previous year up to datem along with a bit of housekeeping along the way. I’m grateful for the opportunity, especially considering how new I was to this. It helped that someone was brought in on two separate days to show me the ropes, and it made all the difference. Now that the heavy lifting is done, I’ll be shifting to just a few days a month to stay on top of things. It should be a much easier pace than the sprint I just finished. I look forward to getting better at it, step by step.
 
+<!--more-->
+
 The auction items have been dealt with. Well, mostly. I still have a stack of books I don’t want and no clear idea of what to do with them. A few will likely end up in the local “little libraries,” but the rest? Not sure yet. For now, they’re boxed up and tucked away, out of sight, at least.
 
 I finally got around to setting up the new bed. I bought it before everything in my life changed near the end of 2022, and it sat untouched in the basement until now. My back had enough of the old mattress, so I assembled the frame and let the compressed mattress expand. I’m so glad I did. It’s already better to sleep on, and while it hasn’t cured the sleeplessness, it hasn’t made things worse either, small wins matter.
