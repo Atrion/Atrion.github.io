@@ -1,7 +1,8 @@
 title: Musings from Gravel Hill
 description: A Blog About Ssland Heritage, Projects, and Spiritual Thoughts.
 baseurl: ""
-url: "https://atrion.github.io"
+# url: "https://atrion.github.io"
+url: "http://blog.fromgravelhill.ca"
 theme: minima
 plugins:
   - jekyll-feed
