@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>From Gravel Hill — Marc MacArthur</title>
-  <meta name="description" content="From Gravel Hill: the hub for Marc MacArthur’s projects, writing, and resources." />
+  <meta name="description" content="From Gravel Hill: The hub for Marc MacArthur’s projects, writing, and resources." />
   <meta property="og:title" content="From Gravel Hill" />
   <meta property="og:description" content="The hub for my projects, writing, and resources." />
   <meta property="og:type" content="website" />
@@ -43,7 +43,7 @@
     }
     .wrap { max-width: 1100px; margin: 0 auto; padding: 56px 20px 32px; }
     header { text-align: center; margin-bottom: 28px; }
-    .badge { display:inline-block; letter-spacing:.08em; font-weight:600; font-size:.75rem; padding:.25rem .5rem; border:1px solid var(--accent); color:var(--accent); border-radius:9999px; }
+/*    .badge { display:inline-block; letter-spacing:.08em; font-weight:600; font-size:.75rem; padding:.25rem .5rem; border:1px solid var(--accent); color:var(--accent); border-radius:9999px; } */
     h1 { margin: 10px 0 6px; font-size: clamp(1.6rem, 3.2vw, 2.4rem); line-height: 1.2; }
     .lead { margin: 0 auto; max-width: 70ch; color: var(--muted); }
     .grid {
@@ -86,7 +86,7 @@
   <a href="#content" class="sr-only">Skip to content</a>
   <div class="wrap">
     <header>
-      <span class="badge">From Gravel Hill</span>
+      <img src="assets/images/landing.png" alt="From Gravel Hill" style="height: 2rem;">
       <h1>Welcome — I’m Marc MacArthur</h1>
       <p class="lead">This is the hub for my projects. Pick a destination below to explore my Writing, Gospel resources, History Projects and other items hosted on subdomains.</p>
     </header>
@@ -99,7 +99,7 @@
     <main id="content" class="grid" aria-live="polite"></main>
 
     <footer>
-      &copy; <span id="year"></span> FromGravelHill.ca · <a href="mailto:hello@fromgravelhill.ca">Contact</a>
+      &copy; <span id="year"></span> FromGravelHill.ca · <a href="mailto:info@fromgravelhill.ca">Contact</a>
     </footer>
   </div>
 
@@ -140,7 +140,6 @@
           <div class="meta">${s.subdomain}</div>
           <div class="actions">
             <a class="btn" href="${s.url}" rel="noopener">Visit</a>
-            <a class="btn ghost" href="${s.url}" rel="noopener" aria-label="Open ${s.name} (same)">Open</a>
           </div>
         </article>
       `).join("");
