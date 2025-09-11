@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Atrion (Marc) — From Gravel Hill">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7f7f5"/>
+      <stop offset="100%" stop-color="#f0f2ef"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#3f9f8f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- Accent bar -->
+  <rect x="0" y="210" width="1200" height="6" fill="url(#accent)" />
+
+  <!-- Subtle wave (evokes shoreline) -->
+  <path d="M0,210 C150,195 300,225 450,210 C600,195 750,225 900,210 C1050,195 1125,220 1200,210 L1200,260 L0,260 Z"
+        fill="#dfe9e6" opacity="0.6"/>
+
+  <!-- Title -->
+  <text x="50%" y="110" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="700" font-size="44" fill="#222">
+    Atrion (Marc) — From Gravel Hill
+  </text>
+
+  <!-- Tagline / verse -->
+  <text x="50%" y="150" text-anchor="middle" font-family="Georgia, 'PT Serif', serif" font-size="18" fill="#444">
+    “And whatsoever ye do, do it heartily, as to the Lord…” — Colossians 3:23 (KJV)
+  </text>
+
+  <!-- Links row (editable text for quick recognition; keep short) -->
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" fill="#2d3a35">
+    <text x="50%" y="182" text-anchor="middle">fromgravelhill.ca  •  blog.fromgravelhill.ca  •  gospel.fromgravelhill.ca  •  hymns.fromgravelhill.ca</text>
+  </g>
+</svg>
