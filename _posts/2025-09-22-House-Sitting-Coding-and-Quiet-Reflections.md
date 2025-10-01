@@ -29,11 +29,11 @@ That verse is a needed reminder for me, that even though the noise of the world 
 So, life right now is a mix of simple responsibilities, quiet projects, and the usual battles with my own thoughts. Some projects sit untouched, others get bursts of energy, and plenty hover somewhere in between. That’s just the way I seem to operate.  
 
 <div style="text-align:center; margin: 20px 0;">
-  <a href="{{ '/assets/images/2025-09-22/lego1.jpg' | relative_url }}">
-    <img src="{{ '/assets/images/2025-09-22/thumbnails/lego1.jpg' | relative_url }}" alt="Lego build 1" style="width:200px; margin:0 10px;">
+  <a href="{{ '/assets/images/2025-09-22/Lego1.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/2025-09-22/thumbnails/Lego1.jpg' | relative_url }}" alt="Lego build 1" style="width:200px; margin:0 10px;">
   </a>
-  <a href="{{ '/assets/images/2025-09-22/lego2.jpg' | relative_url }}">
-    <img src="{{ '/assets/images/2025-09-22/thumbnails/lego2.jpg' | relative_url }}" alt="Lego build 2" style="width:200px; margin:0 10px;">
+  <a href="{{ '/assets/images/2025-09-22/Lego2.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/2025-09-22/thumbnails/Lego2.jpg' | relative_url }}" alt="Lego build 2" style="width:200px; margin:0 10px;">
   </a>
 </div>
 
