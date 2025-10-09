@@ -6,6 +6,7 @@ tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-2]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-2-Obstinate-and-Pliable/
+comments: true
 ---
 
 As the story continues, we’re introduced to two neighbours who chase after Christian, men who reveal very different hearts when confronted with the call to leave the City of Destruction.  

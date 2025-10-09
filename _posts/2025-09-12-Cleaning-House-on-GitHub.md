@@ -6,6 +6,7 @@ tags: [github, coding, projects, cleanup, organization, tech]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Cleaning-House-on-GitHub/
+comments: true
 ---
 
 Every now and then I hit that point where the digital clutter builds up too much and it needs a proper cleaning. This past week I finally turned my attention to GitHub, which I’ve been neglecting for years. It’s been a graveyard of old forks, abandoned projects, and random experiments that no longer served any purpose.  

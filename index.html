@@ -1,0 +1,43 @@
+---
+layout: page
+title: "Latest Blog Posts"
+---
+
+{% if paginator.posts %}
+  {% for post in paginator.posts %}
+  <div class="post-preview">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p class="post-date">{{ post.date | date: "%B %d, %Y at %I:%M %p" }}</p>
+    <div class="post-content">
+      {{ post.excerpt }}
+    </div>
+    <p><a href="{{ post.url | relative_url }}">Read more...</a></p>
+  </div>
+  {% endfor %}
+
+  <nav class="pagination" role="navigation" aria-label="Pagination" style="text-align:center; margin: 1.5rem 0;">
+    {% if paginator.previous_page %}
+      <a class="newer" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer</a>
+    {% endif %}
+    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a class="older" href="{{ paginator.next_page_path | relative_url }}">Older &rarr;</a>
+    {% endif %}
+  </nav>
+{% else %}
+  {# Fallback if paginator not present (first build misconfig) #}
+  {% for post in site.posts limit:5 %}
+  <div class="post-preview">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p class="post-date">{{ post.date | date: "%B %d, %Y at %I:%M %p" }}</p>
+    <div class="post-content">
+      {{ post.excerpt }}
+    </div>
+    <p><a href="{{ post.url | relative_url }}">Read more...</a></p>
+  </div>
+  {% endfor %}
+{% endif %}
+
+<p style="text-align: center;">
+  <a href="/blog/" style="text-decoration: none; font-weight: bold;">&lt; View All Posts &gt;</a>
+</p>

@@ -6,6 +6,7 @@ tags: [gospel-message, poetry, personal, bike-riding, publishing, community]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Heatwaves-Hymns-and-Hopes/
+comments: true
 ---
 
 The heat… it's been unrelenting this week. Temperatures hovering in the low 30s, and with the humidity it feels even higher. My upstairs room in this old house holds onto the warmth, despite the fan doing its best, 29 to 30 degrees seems to be the best I can get.

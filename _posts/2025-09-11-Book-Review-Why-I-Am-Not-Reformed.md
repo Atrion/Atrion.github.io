@@ -6,6 +6,7 @@ tags: [book-review, reformed-theology, gospel, bible, local-church, faith]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Book-Review-Why-I-Am-Not-Reformed/
+comments: true
 ---
 
 <p align="center">

@@ -6,6 +6,7 @@ tags: [books, pilgrims-progress, reading, gospel, faith, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-An-Invitation-to-Read-Together/
+comments: true
 ---
 
 I know many have already read *The Pilgrim’s Progress*. My own copy came from Timmy, though to be honest I never got past the first chapter until now.  

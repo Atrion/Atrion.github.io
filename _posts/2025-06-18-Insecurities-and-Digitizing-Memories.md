@@ -6,6 +6,7 @@ tags: [island-books, family-history, collecting, writing, personal, podcasts, bi
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Insecurities-and-Digitizing-Memories/
+comments: true
 ---
 
 With this blog being public facing, I know that anyone could potentially read it. It’s an odd concept to be sure. I'm trying not to let that affect what I write or don’t write here. My goal is to be open and transparent with my thought process, both the good and the bad.

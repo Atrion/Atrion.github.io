@@ -6,6 +6,7 @@ tags: [conference, island-books, gospel-message, writing, projects, personal]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Back-from-Halifax-onto-Projects-and-Praise/
+comments: true
 ---
 
 This past weekend was the Halifax Bible Conference, and I came away both refreshed and challenged. The focus of the Bible study and ministry was 2 Corinthians chapters 1 through 6. These chapters are rich with instruction and comfort, and the ministry was both clear and deeply rooted in Scripture. As usual, the conference delivered on all fronts; spiritually uplifting messages, good food, far too many sweets, and wonderful fellowship with believers from across the region.

@@ -6,6 +6,7 @@ tags: [journal, worship, writing, poetry, diet, reflection]
 categories: [journal]
 author: Atrion Darnay
 permalink: /blog/Running-on-Fumes-and-Thoughts/
+comments: true
 ---
 
 Running into Sunday with absolutely zero sleep is a special kind of disorientation. I’m not sure how I managed to function, but I did. And somehow, the Lord’s Day worship and breaking of bread was good, peaceful, weighty, needed.

@@ -5,6 +5,7 @@ date: 2025-04-28 1:2:00 -0400
 categories: [Projects]
 tags: [projects, ideas, planning]
 author: Atrion Darnay
+comments: true
 ---
 
 Here's a few things on my mind lately:
