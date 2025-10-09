@@ -6,6 +6,7 @@ tags: [projects, life-update, diet, gospel-audio]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/bits-bolts-and-book-piles/
+comments: true
 ---
 
 Trying to keep up and clear the clutter, physically and mentally. Today’s been one of those day's of playing catch-up with the random list of to-dos that always seems to grow faster than it shrinks.

@@ -6,6 +6,7 @@ tags: [weight loss, personal, obsidian, bible study, gospel hall]
 categories: [personal]
 author: Atrion Darnay
 permalink: /blog/Six-Months-Down/
+comments: true
 ---
 
 Today marks **six months** since I started changing my diet.

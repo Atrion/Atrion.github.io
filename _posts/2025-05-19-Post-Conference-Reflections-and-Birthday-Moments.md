@@ -6,6 +6,7 @@ tags: [conference, gospel, ministry, fellowship, birthday, reflection, weight-lo
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Post-Conference-Reflections-and-Birthday-Moments/
+comments: true
 ---
 
 So, it’s been a bit since the last post.

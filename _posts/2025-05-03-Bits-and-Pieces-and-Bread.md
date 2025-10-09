@@ -6,6 +6,7 @@ categories: [journal]
 tags: [journal, projects, photos, writing, gospel, Bible]
 author: Atrion Darnay
 permalink: /blog/Bits-and-Pieces-and-Bread/
+comments: true
 ---
 
 It's one of those days where everything I own seems to be in a different pile. Notes tucked into old folders, ideas scribbled on scraps I barely remember writing, photos scanned but never sorted, there's just a little bit of everything and a whole lot of nowhere to put it.

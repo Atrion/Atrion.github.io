@@ -6,6 +6,7 @@ categories: [Rants]
 tags: [rant, thoughts]
 author: Atrion Darnay
 permalink: /blog/Website-Rant/
+comments: true
 ---
 
 Let's be honest, some days the world feels a little broken.

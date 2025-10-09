@@ -6,6 +6,7 @@ tags: [writing, poetry, reflection, late-night]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/late-night-lines-and-lingering-thoughts/
+comments: true
 ---
 
 It’s been a long evening, the kind where sleep stays just out of reach and your mind won’t quiet down. So instead of forcing it, I sat with the thoughts and let them come out the only way they know how to sometimes: as poetry.

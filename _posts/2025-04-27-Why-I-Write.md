@@ -5,6 +5,7 @@ date: 2025-04-27 15:45:00 -0400
 categories: [Personal]
 tags: [writing, personal, beginning]
 author: Atrion Darnay
+comments: true
 ---
 
 Writing has always been a strange thing for me.

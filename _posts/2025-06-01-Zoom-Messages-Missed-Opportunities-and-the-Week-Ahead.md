@@ -6,6 +6,7 @@ tags: [zoom-message, gospel, ministry-prep, personal-struggle, conference, devot
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Zoom-Messages-Missed-Opportunities-and-the-Week-Ahead/
+comments: true
 ---
 
 Saturday morning I had the opportunity to share the Gospel during a Zoom meeting for the Philippines. The whole session ran about 30 minutes, with my portion taking around 15. I tried something new this time: instead of just a single camera feed, I used a dual-window setup. My video was in the lower-left corner, and the main screen displayed Bible verses in both English and Tagalog. I used **FreeShow** for the Scripture display and **OBS** to tie everything together. 

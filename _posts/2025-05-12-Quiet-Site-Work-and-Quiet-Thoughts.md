@@ -6,6 +6,7 @@ tags: [updates, poetry, site changes]
 categories: [personal]
 author: Atrion Darnay
 permalink: /blog/Quiet-Site-Work-and-Quiet-Thoughts/
+comments: true
 ---
 
 Just a short note for now, nothing major to update, but still a few small things in progress behind the scenes.

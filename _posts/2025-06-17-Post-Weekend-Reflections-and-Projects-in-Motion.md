@@ -6,6 +6,7 @@ tags: [bike-ride, gospel-message, island-books, scanning, poetry, personal]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Post-Weekend-Reflections-and-Projects-in-Motion/
+comments: true
 ---
 
 Sunday afternoon’s Gospel message at The Willows went reasonably well. I did get a bit flustered partway through, but I managed to recover without too much issue. I veered off my self-written script a little, which I actually see as progress, I'd rather move toward speaking from notes than relying entirely on a word-for-word draft. It ran a little shorter than usual, around 10 minutes, but those in attendance seemed to be listening attentively.

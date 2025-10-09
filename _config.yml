@@ -7,9 +7,7 @@ url: "https://blog.fromgravelhill.ca"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-#  - jekyll-paginate
-#paginate: 5
-#paginate_path: "/page:num"
+  - jekyll-paginate
 author: "Marc MacArthur"
 permalink: /:title/
 google_analytics: "" # Add your GA ID later
@@ -26,3 +24,30 @@ collections:
 excerpt_separator: "<!--more-->"
 #sass:
 #  quiet_deps: true
+
+# --- Pagination (GitHub Pages built-in jekyll-paginate) ---
+paginate: 10
+paginate_path: "/page:num/"
+
+# --- Comments (choose one provider below) ---
+comments:
+  provider: giscus   # or: utterances
+
+  # giscus (GitHub Discussions)
+  giscus:
+    repo: "Atrion/blog-comments"  # repo that will store discussions
+    repo_id: "R_kgDOP7X7pw"        # <-- giscus configurator
+    category: "Comments"          # create this category in Discussions
+    category_id: "DIC_kwDOP7X7p84CwatT"    # <-- giscus configurator
+    mapping: "pathname"
+    strict: 0
+    reactions: 1
+    theme: "preferred_color_scheme"
+    lang: "en"
+
+  # utterances (GitHub Issues) — OPTIONAL alternative
+#  utterances:
+#    repo: "Atrion/blog-comments"
+#    issue_term: "pathname"
+#    label: "💬 comment"
+#    theme: "preferred-color-scheme"

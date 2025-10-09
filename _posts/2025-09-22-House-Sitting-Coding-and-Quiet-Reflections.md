@@ -6,6 +6,7 @@ tags: [gospel, github, coding, house-sitting, reflections, online-world, project
 categories: blog
 author: Marc MacArthur
 permalink: /blog/House-Sitting-Coding-and-Quiet-Reflections/
+comments: true
 ---
 
 This past Sunday I spoke at the Willows: Just a short 10–15 minute Gospel message. It went… okay. I managed to get my main point across, though I didn’t feel like I delivered it as well as I could have. Others told me it came across fine, which I’m grateful for, but speaking has never been my strong suit. I rely heavily on my writing, and what works on paper doesn’t always flow the same way when spoken aloud. Still, by God’s grace the message was given, and that’s what matters most.  

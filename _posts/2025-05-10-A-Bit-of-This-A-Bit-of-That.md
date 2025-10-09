@@ -6,6 +6,7 @@ tags: [personal, updates, obsidian, family, writing, gospel]
 categories: [personal]
 author: Atrion Darnay
 permalink: /blog/A-Bit-of-This-A-Bit-of-That/
+comments: true
 ---
 
 Not a whole lot to report today, but I’ll put a few things down while I’ve got the time and clarity.
