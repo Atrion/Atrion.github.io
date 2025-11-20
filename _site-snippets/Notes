@@ -9,3 +9,17 @@ bundle exec jekyll serve --host X.Y.Z.W --port 4000
 
 Build for regular site
 python -m http.server 4000
+
+
+
+<div style="text-align: center;">
+<a href="/assets/images/2025-10-21/.jpg">
+  <img src="/assets/images/2025-10-21/thumbnails/.jpg" alt="" />
+</a>
+</div>
+
+Adding description under photo, will be full width of screen not images
+
+<div style="font-size: 0.7em; margin-top: 0.4rem;">
+Left to right: Penny Ramsay, Cameron Ramsay, Albert Burton, June Burton,Gerald Burton, Marc MacArthur, Hayden Faviere, Ralph Ramsay, Tim Burton, Micheal Ramsay
+</div>
