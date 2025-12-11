@@ -7,6 +7,7 @@ tags: [introduction, beginning, personal]
 author: Atrion Darnay
 permalink: /blog/first-blog/
 excerpt: "So here we are"
+comments: true
 ---
 
 So here we are.

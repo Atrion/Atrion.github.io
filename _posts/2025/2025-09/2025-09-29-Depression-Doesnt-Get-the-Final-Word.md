@@ -6,6 +6,7 @@ tags: [faith, depression, mental-health, christian-life, blog, struggles, psalms
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Depression-Doesnt-Get-the-Final-Word/
+comments: true
 ---
 
 Depression is a real struggle, and yes, I’ll say it plainly: depression is a bitch. Sorry for the moderate language, but honestly, it feels appropriate. It sneaks up on me, sometimes out of nowhere, sometimes triggered by something small, and sometimes by nothing I can even name. While I’ve never been formally diagnosed, I’ve lived with this on-again, off-again cycle long enough, done the research, and felt the weight of it enough to know what it is: depression.  

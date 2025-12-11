@@ -6,6 +6,7 @@ tags: [domains, gospel, blog, website, friends, speaking, faith, personal projec
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Domains-Projects-and-Plenty-on-My-Plate/
+comments: true
 ---
 
 Over the past few days, I’ve been getting familiar with Porkbun’s domain management. It’s fairly straightforward, but some settings are labelled differently than I’m used to. Still, I’m finding my way around.  

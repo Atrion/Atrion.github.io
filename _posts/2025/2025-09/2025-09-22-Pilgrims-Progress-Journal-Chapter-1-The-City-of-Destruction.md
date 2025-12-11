@@ -6,6 +6,7 @@ tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-1]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-1-The-City-of-Destruction/
+comments: true
 ---
 
 I’ve begun the journey through *Pilgrim’s Progress*, and the first chapter wastes no time in laying a foundation. It’s sobering, but also powerful.  

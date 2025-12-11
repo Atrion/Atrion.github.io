@@ -6,6 +6,7 @@ tags: [life-update, accounting, faith, writing, friendships]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/wandering-thoughts-and-lingering-tasks/
+comments: true
 ---
 
 Time passes. My mind wanders. Things get left behind. I’ve said all this before, probably too many times, and I know I sound like a broken record by now. The truth is I forget, or worse, I don’t always care enough in the moment to sit down and write. But here I am again, doing what I should have done a while ago. Trying, at least, to catch the trail before it goes cold.

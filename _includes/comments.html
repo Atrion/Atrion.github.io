@@ -1,0 +1,36 @@
+{% comment %}
+Reusable comments include for posts.
+Enable per-post with:  comments: true  in front matter
+Provider configured in _config.yml under `comments`.
+{% endcomment %}
+
+{% if page.comments != false %}
+  {% if site.comments.provider == "giscus" %}
+    <script
+      src="https://giscus.app/client.js"
+      data-repo="{{ site.comments.giscus.repo }}"
+      data-repo-id="{{ site.comments.giscus.repo_id }}"
+      data-category="{{ site.comments.giscus.category }}"
+      data-category-id="{{ site.comments.giscus.category_id }}"
+      data-mapping="{{ site.comments.giscus.mapping | default: 'pathname' }}"
+      data-strict="{{ site.comments.giscus.strict | default: 0 }}"
+      data-reactions-enabled="{{ site.comments.giscus.reactions | default: 1 }}"
+      data-emit-metadata="0"
+      data-input-position="bottom"
+      data-theme="{{ site.comments.giscus.theme | default: 'preferred_color_scheme' }}"
+      data-lang="{{ site.comments.giscus.lang | default: 'en' }}"
+      crossorigin="anonymous"
+      async>
+    </script>
+
+  {% elsif site.comments.provider == "utterances" %}
+    <script src="https://utteranc.es/client.js"
+      repo="{{ site.comments.utterances.repo }}"
+      issue-term="{{ site.comments.utterances.issue_term | default: 'pathname' }}"
+      label="{{ site.comments.utterances.label | default: '💬 comment' }}"
+      theme="{{ site.comments.utterances.theme | default: 'preferred-color-scheme' }}"
+      crossorigin="anonymous"
+      async>
+    </script>
+  {% endif %}
+{% endif %}

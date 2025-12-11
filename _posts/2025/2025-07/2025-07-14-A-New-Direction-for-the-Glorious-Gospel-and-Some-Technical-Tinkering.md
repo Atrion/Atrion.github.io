@@ -6,6 +6,7 @@ tags: [glorious-gospel, tech-projects, children's-meetings, personal]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/A-New-Direction-for-the-Glorious-Gospel-and-Some-Technical-Tinkering/
+comments: true
 ---
 
 Sometimes ideas need space to grow. That’s where I’ve found myself this week—thinking, building, and adapting.

@@ -6,6 +6,7 @@ tags: [faith, struggle, preparation, gospel]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/not-ready-but-willing/
+comments: true
 ---
 
 Tomorrow is the Lord’s Day. Am I ready for worship, for praise, for remembering Him? Yes. But have I done enough this week: enough study, enough prayer, enough giving of thanks to God? No. Not even close.

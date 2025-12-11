@@ -6,10 +6,11 @@ tags: [book-review, reformed-theology, gospel, bible, local-church, faith]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Book-Review-Why-I-Am-Not-Reformed/
+comments: true
 ---
 
 <p align="center">
-  <img src="/assets/images/books/why-i-am-not-reformed-cover.jpg" alt="Book Cover: Why I Am Not Reformed" style="max-width: 300px; height: auto;" />
+  <img src="/assets/images/books/why-i-am-not-reformed-cover.jpg" alt="Book Cover: Why I Am Not Reformed" style="max-width: 100px; height: auto;" />
 </p>
 
 I recently finished reading *Why I Am Not Reformed* by Matthew Cain, a short but direct little book that does exactly what the title suggests. Cain takes the time to lay out why he cannot align himself with the Reformed system, even while appreciating the good that came out of the Protestant Reformation.  

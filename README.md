@@ -28,6 +28,11 @@ Personal site and knowledge garden — posts, projects, writings, tags, and link
 > **Prereqs**: Ruby and Bundler installed. On Windows, WSL is recommended; on macOS/Linux use system Ruby or a version manager (e.g., `rbenv`).
 
 ```bash
+# If not synced properly
+git fetch --all --prune
+git switch master
+git reset --hard origin/master
+
 # Install dependencies
 gem install bundler
 bundle install

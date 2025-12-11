@@ -6,6 +6,7 @@ tags: [gospel, fromgravelhill, conferences, audio, friendship, writing, bike, fa
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Shifting-Focus-Audio-Archives-and-a-Few-Reminders/
+comments: true
 ---
 
 It feels like I start every update the same way, by admitting that I’ve let too much time slip by. Maybe I should set myself a reminder that tells me to write even when I feel I have nothing of value to share. At least then I’d be forming the habit of putting words down instead of letting things drift.  

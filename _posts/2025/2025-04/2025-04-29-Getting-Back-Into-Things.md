@@ -6,6 +6,7 @@ tags: [personal, site-update, daily-life, obsidian, biking, doctor-who]
 categories: [blog]
 author: Atrion Darnay
 permalink: /blog/Getting-Back-Into-Things/
+comments: true
 ---
 
 Today felt like one of those quiet resets, not because anything grand happened, but because a few things finally moved forward.

@@ -6,6 +6,7 @@ tags: [life-update, bookkeeping, gospel, tech, health, projects]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/getting-things-done-one-step-at-a-time/
+comments: true
 ---
 
 The bookkeeping is officially caught up.

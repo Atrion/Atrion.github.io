@@ -6,6 +6,7 @@ tags: [pugwash-conference, personal, travel, gospel-technology, reflections]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/On-the-Road-to-Pugwash-and-Other-Wandering-Thoughts/
+comments: true
 ---
 
 Didn’t I say I was going to fall behind on writing these posts?
