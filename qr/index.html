@@ -1,0 +1,372 @@
+---
+layout: default
+title: "QR Code Generator"
+permalink: /qr/
+---
+
+<style>
+    :root {
+      --gap: 12px;
+      --font: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    .qr-app, .qr-app * { box-sizing: border-box; }
+
+    .qr-app {
+      font-family: var(--font);
+      line-height: 1.35;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    .qr-app .card {
+      border-radius: 14px;
+      padding: 20px 18px 22px;
+      box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+    }
+
+    .qr-app .row {
+      display: grid;
+      grid-template-columns: 140px 1fr;
+      gap: var(--gap);
+      align-items: center;
+      margin-bottom: var(--gap);
+    }
+
+    .qr-app .row > label {
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+
+    .qr-app .row .inline {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .qr-app input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      border: 1px;
+      border-radius: 8px;
+      font-size: 0.95rem;
+    }
+
+    .qr-app input[type="number"] {
+      width: 120px;
+      padding: 6px;
+      border: 1px;
+      border-radius: 8px;
+      font-size: 0.95rem;
+    }
+
+    .qr-app select, .qr-app input[type="color"] {
+      padding: 6px;
+      border: 1px;
+      border-radius: 8px;
+      font-size: 0.95rem;
+    }
+
+    .qr-app button {
+      cursor: pointer;
+      padding: 9px 14px;
+      border-radius: 10px;
+      border: 1px;
+      font-weight: 600;
+      background: #111827;
+      color: #ffffff;
+      font-size: 0.9rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .qr-app button.secondary {
+      background: #ffffff;
+      color: #111827;
+    }
+
+    .qr-app button:disabled {
+      opacity: 0.5;
+      cursor: default;
+    }
+
+    .qr-app .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin: 14px 0 8px;
+    }
+
+    .qr-app .preview-wrap {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 18px;
+      align-items: start;
+      margin-top: 18px;
+    }
+
+    @media (max-width: 780px) {
+      .qr-app .row {
+        grid-template-columns: 1fr;
+      }
+      .qr-app .preview-wrap {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .qr-app .pad-preview {
+      border: 1px dashed #d1d5db;
+      padding: 10px;
+      border-radius: 10px;
+      background: #f9fafb;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 280px;
+    }
+
+    .qr-app #qrcode {
+      display: inline-block;
+    }
+
+    .qr-app small.mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.8rem;
+    }
+
+    .qr-app ul {
+      margin: 6px 0 0;
+      padding-left: 18px;
+      font-size: 0.9rem;
+    }
+
+    .qr-app .footer-note {
+      margin-top: 14px;
+      font-size: 0.8rem;
+    }
+</style>
+
+<div class="qr-app">
+  <div class="card">
+    <h1>
+      QR Code Generator
+    </h1>
+
+    <div class="row">
+      <label for="text">Content</label>
+      <input id="text" type="text" placeholder="Paste URL or text…" />
+    </div>
+
+    <div class="row">
+      <label for="size">Size (px)</label>
+      <div class="inline">
+        <input id="size" type="number" min="64" max="2048" step="8" value="256" />
+        <small class="mono">Recommended ≥ 256 for print</small>
+      </div>
+    </div>
+
+    <div class="row">
+      <label for="ecl">Error correction</label>
+      <select id="ecl">
+        <option value="L">L (7%)</option>
+        <option value="M" selected>M (15%)</option>
+        <option value="Q">Q (25%)</option>
+        <option value="H">H (30%)</option>
+      </select>
+    </div>
+
+    <div class="row">
+      <label for="fg">Foreground</label>
+      <div class="inline">
+        <input id="fg" type="color" value="#111827" />
+        <small class="mono">Dark colour recommended</small>
+      </div>
+    </div>
+
+    <div class="row">
+      <label for="bg">Background</label>
+      <div class="inline">
+        <input id="bg" type="color" value="#ffffff" />
+        <small class="mono">Use high contrast</small>
+      </div>
+    </div>
+
+    <div class="row">
+      <label for="margin">Quiet zone</label>
+      <div class="inline">
+        <input id="margin" type="number" min="0" max="24" step="1" value="4" />
+        <small class="mono">Module margin around the code</small>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button id="generate">Generate</button>
+      <button id="download" class="secondary" disabled>Download PNG</button>
+      <button id="copy" class="secondary" disabled>Copy PNG</button>
+      <button id="clear" class="secondary">Clear</button>
+    </div>
+
+    <div class="preview-wrap">
+      <div>
+        <div class="pad-preview">
+          <div id="qrcode"></div>
+        </div>
+        <div class="footer-note">
+          <small class="mono" id="status">Ready</small>
+        </div>
+      </div>
+
+      <div>
+        <strong>Tips for reliable scanning</strong>
+        <ul>
+          <li>Use short, simple URLs where possible.</li>
+          <li>Avoid very light foreground colours.</li>
+          <li>Keep strong contrast between dark and light colours.</li>
+          <li>Use a quiet zone (margin) so scanners can detect the code easily.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Load qrcode.min.js from your fork's GitHub Pages site -->
+<script src="https://atrion.github.io/qrcodejs/qrcode.min.js"></script>
+<script>
+  const elText = document.getElementById('text');
+  const elSize = document.getElementById('size');
+  const elECL = document.getElementById('ecl');
+  const elFG = document.getElementById('fg');
+  const elBG = document.getElementById('bg');
+  const elMargin = document.getElementById('margin');
+  const elGenerate = document.getElementById('generate');
+  const elDownload = document.getElementById('download');
+  const elCopy = document.getElementById('copy');
+  const elClear = document.getElementById('clear');
+  const elQR = document.getElementById('qrcode');
+  const elStatus = document.getElementById('status');
+
+  let qr = null;
+
+  function setStatus(msg) {
+    elStatus.textContent = msg;
+  }
+
+  function clearQR() {
+    elQR.innerHTML = '';
+    qr = null;
+    elDownload.disabled = true;
+    elCopy.disabled = true;
+    setStatus('Cleared.');
+  }
+
+  function generateQR() {
+    const text = (elText.value || '').trim();
+    const size = parseInt(elSize.value, 10) || 256;
+    const ecl = elECL.value || 'M';
+    const fg = elFG.value || '#111827';
+    const bg = elBG.value || '#ffffff';
+    const margin = parseInt(elMargin.value, 10) || 4;
+
+    if (!text) {
+      setStatus('Please enter content.');
+      clearQR();
+      return;
+    }
+
+    elQR.innerHTML = '';
+
+    try {
+      qr = new QRCode(elQR, {
+        text,
+        width: size,
+        height: size,
+        colorDark: fg,
+        colorLight: bg,
+        correctLevel: QRCode.CorrectLevel[ecl]
+      });
+
+      // Apply quiet zone by padding the generated img/canvas container.
+      elQR.style.padding = `${margin}px`;
+
+      elDownload.disabled = false;
+      elCopy.disabled = false;
+      setStatus('Generated.');
+    } catch (err) {
+      console.error(err);
+      setStatus('Error generating QR.');
+      elDownload.disabled = true;
+      elCopy.disabled = true;
+    }
+  }
+
+  function getQRDataURL() {
+    const img = elQR.querySelector('img');
+    if (img && img.src) return img.src;
+
+    const canvas = elQR.querySelector('canvas');
+    if (canvas) return canvas.toDataURL('image/png');
+
+    return null;
+  }
+
+  function downloadPNG() {
+    const dataUrl = getQRDataURL();
+    if (!dataUrl) {
+      setStatus('Nothing to download yet.');
+      return;
+    }
+
+    const a = document.createElement('a');
+    a.href = dataUrl;
+    a.download = 'qr-code.png';
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+
+    setStatus('Downloaded PNG.');
+  }
+
+  async function copyPNG() {
+    const dataUrl = getQRDataURL();
+    if (!dataUrl) {
+      setStatus('Nothing to copy yet.');
+      return;
+    }
+
+    try {
+      const res = await fetch(dataUrl);
+      const blob = await res.blob();
+      await navigator.clipboard.write([
+        new ClipboardItem({ 'image/png': blob })
+      ]);
+      setStatus('Copied PNG to clipboard.');
+    } catch (err) {
+      console.error(err);
+      setStatus('Copy failed (browser permissions?).');
+    }
+  }
+
+  elGenerate.addEventListener('click', generateQR);
+  elDownload.addEventListener('click', downloadPNG);
+  elCopy.addEventListener('click', copyPNG);
+  elClear.addEventListener('click', () => {
+    elText.value = '';
+    clearQR();
+    setStatus('Ready.');
+  });
+
+  // Generate when pressing Enter inside the content field
+  elText.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') generateQR();
+  });
+
+  // Auto-regenerate on option changes if content exists
+  [elSize, elECL, elFG, elBG, elMargin].forEach(el => {
+    el.addEventListener('change', () => {
+      if ((elText.value || '').trim()) generateQR();
+    });
+  });
+</script>
+
