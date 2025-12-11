@@ -6,6 +6,7 @@ tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-3]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-4-Mr-Worldly-Wiseman/
+comments: true
 ---
 
 As Christian continues his journey it doesn’t take long for another voice to offer “better” advice. A man called **Mr. Worldly Wiseman** appears with a more comfortable, respectable alternative to the hard road Christian has begun to walk.
