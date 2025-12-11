@@ -4,8 +4,14 @@ title: "Blog Posts Archive"
 permalink: /blog/
 ---
 
-{% assign current_year  = site.time | date: '%Y' %}
-{% assign current_month = site.time | date: '%B' %}
+{% if site.posts.size > 0 %}
+  {% assign latest_post = site.posts | first %}
+  {% assign current_year  = latest_post.date | date: '%Y' %}
+  {% assign current_month = latest_post.date | date: '%B' %}
+{% else %}
+  {% assign current_year  = site.time | date: '%Y' %}
+  {% assign current_month = site.time | date: '%B' %}
+{% endif %}
 
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {%- comment -%}
