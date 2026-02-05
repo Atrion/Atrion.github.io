@@ -45,7 +45,7 @@ Back at the dorm, a few of us crowded into one room and talked far too late. A m
 <div style="text-align: center; margin: 1.25rem 0;">
   <a href="/assets/images/2026/2026-02-04/PXL_20260201_023604105.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260201_023604105.jpg" alt="Hanging out in the dorm room" />
-  </a>
+  </a> <br>
   <a href="/assets/images/2026/2026-02-04/PXL_20260201_024109832.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260201_024109832.jpg" alt="Hanging out in the dorm room" />
   </a>
@@ -119,8 +119,8 @@ Over on the Gospel website — <https://gospel.fromgravelhill.ca/> — things ha
 It’s slow, picky work, but necessary if the site is going to be useful to anyone besides me.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/screenshottranscript.jpg">
-    <img src="/assets/images/2026/2026-02-04/thumbnails/screenshottranscript.jpg" alt="Screenshot of transcription software running" />
+  <a href="/assets/images/2026/2026-02-04/Screenshottranscript.jpg">
+    <img src="/assets/images/2026/2026-02-04/thumbnails/Screenshottranscript.jpg" alt="Screenshot of transcription software running" />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">The software that saves me from typing every word by hand.</div>
 </div>
