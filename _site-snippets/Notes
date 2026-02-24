@@ -13,8 +13,8 @@ python -m http.server 4000
 
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/.jpg" alt="" />
 </a>
 </div>
 

@@ -39,16 +39,16 @@ Till then, one step at a time.
 A Few Photos from my Bike ride last evening, I'm not a great photographer, but I do enjoy it.
 
 <div class="gallery">
-  <a href="{{ '/assets/images/2025-09-10/001.jpg' | relative_url }}">
-    <img src="{{ '/assets/images/2025-09-10/thumbnails/001.jpg' | relative_url }}" alt="Scenery">
+  <a href="{{ '/assets/images/2025/2025-09-10/001.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/2025/2025-09-10/thumbnails/001.jpg' | relative_url }}" alt="Scenery">
   </a>
-  <a href="{{ '/assets/images/2025-09-10/002.png' | relative_url }}">
-    <img src="{{ '/assets/images/2025-09-10/thumbnails/002.jpg' | relative_url }}" alt="Scenery">
+  <a href="{{ '/assets/images/2025/2025-09-10/002.png' | relative_url }}">
+    <img src="{{ '/assets/images/2025/2025-09-10/thumbnails/002.jpg' | relative_url }}" alt="Scenery">
   </a>
-  <a href="{{ '/assets/images/2025-09-10/003.png' | relative_url }}">
-    <img src="{{ '/assets/images/2025-09-10/thumbnails/003.jpg' | relative_url }}" alt="Praise">
+  <a href="{{ '/assets/images/2025/2025-09-10/003.png' | relative_url }}">
+    <img src="{{ '/assets/images/2025/2025-09-10/thumbnails/003.jpg' | relative_url }}" alt="Praise">
   </a>
-    <a href="{{ '/assets/images/2025-09-10/004.png' | relative_url }}">
-    <img src="{{ '/assets/images/2025-09-10/thumbnails/004.jpg' | relative_url }}" alt="Praise">
+    <a href="{{ '/assets/images/2025/2025-09-10/004.png' | relative_url }}">
+    <img src="{{ '/assets/images/2025/2025-09-10/thumbnails/004.jpg' | relative_url }}" alt="Praise">
   </a>
 </div>

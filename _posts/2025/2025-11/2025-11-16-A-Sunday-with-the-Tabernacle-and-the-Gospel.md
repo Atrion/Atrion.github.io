@@ -20,8 +20,8 @@ But by the end of the day, it had turned into something a little different, part
 The **breaking of bread** meeting was good, quiet, worshipful, with plenty of participation. Scott MacLeod was with us and gave a helpful word that tied in well with the hymns and prayers. Nothing dramatic, just solid, Christ–centred truth.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="/assets/images/2025-11-16/IMG-20251114-WA0004.jpg">
-    <img src="/assets/images/2025-11-16/thumbnails/IMG-20251114-WA0004.jpg" alt="O’Leary Gospel Hall with Tabernacle charts displayed at the front" />
+  <a href="/assets/images/2025/2025-11-16/IMG-20251114-WA0004.jpg">
+    <img src="/assets/images/2025/2025-11-16/thumbnails/IMG-20251114-WA0004.jpg" alt="O’Leary Gospel Hall with Tabernacle charts displayed at the front" />
   </a>
 </div>
 
@@ -34,14 +34,14 @@ Between meetings, I did what I often do and drifted toward the younger crowd. I�
 **Anna Hierlihy**, or *Miss Anna* as I usually call her, she came armed with her stuffed horse, **“Baby Hiccup”**, named after her real horse at home. At some point Baby Hiccup ended up perched on my shoulder for a photo, and that turned into a small photoshoot.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="/assets/images/2025-11-16/PXL_20251116_154536635.jpg">
-    <img src="/assets/images/2025-11-16/thumbnails/PXL_20251116_154536635.jpg" alt="Marc with Baby Hiccup the toy horse on his shoulder" />
+  <a href="/assets/images/2025/2025-11-16/PXL_20251116_154536635.jpg">
+    <img src="/assets/images/2025/2025-11-16/thumbnails/PXL_20251116_154536635.jpg" alt="Marc with Baby Hiccup the toy horse on his shoulder" />
   </a>
-  <a href="/assets/images/2025-11-16/PXL_20251116_175843311.jpg">
-    <img src="/assets/images/2025-11-16/thumbnails/PXL_20251116_175843311.jpg" alt="Miss Anna with Baby Hiccup on her shoulder" />
+  <a href="/assets/images/2025/2025-11-16/PXL_20251116_175843311.jpg">
+    <img src="/assets/images/2025/2025-11-16/thumbnails/PXL_20251116_175843311.jpg" alt="Miss Anna with Baby Hiccup on her shoulder" />
   </a>
-  <a href="/assets/images/2025-11-16/PXL_20251116_175819068.MP.jpg">
-    <img src="/assets/images/2025-11-16/thumbnails/PXL_20251116_175819068.MP.jpg" alt="Marc, Miss Anna, and Baby Hiccup smiling for the camera" />
+  <a href="/assets/images/2025/2025-11-16/PXL_20251116_175819068.MP.jpg">
+    <img src="/assets/images/2025/2025-11-16/thumbnails/PXL_20251116_175819068.MP.jpg" alt="Marc, Miss Anna, and Baby Hiccup smiling for the camera" />
   </a>
 </div>
 
@@ -54,16 +54,16 @@ The real focus of these days, though, is **Scott’s ministry on the Tabernacle*
 Scott has spent a lot of time building a detailed **model of the Tabernacle**, along with several of its key items, and a large chart that lays out the camp, the courts, and the holy places. For the next two weeks (with a break on Monday and Saturday nights), he’ll be in O’Leary giving nightly ministry on what all of this points to in Scripture, and especially how it points to Christ.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="/assets/images/2025-11-16/PXL_20251114_212208984.MP.jpg">
-    <img src="/assets/images/2025-11-16/thumbnails/PXL_20251114_212208984.MP.jpg" alt="O’Leary Hall set up with Tabernacle model pieces and charts" />
+  <a href="/assets/images/2025/2025-11-16/PXL_20251114_212208984.MP.jpg">
+    <img src="/assets/images/2025/2025-11-16/thumbnails/PXL_20251114_212208984.MP.jpg" alt="O’Leary Hall set up with Tabernacle model pieces and charts" />
   </a>
 </div>
 
 The first afternoon session was **well attended**. Chairs filled up quickly, and the room settled into that quiet, attentive mood that tells you people are really listening. Scott walked us through the layout of the camp, the structure of the Tabernacle, and the order of approach to God. There’s something powerful about seeing it laid out visually; curtains, courts, veils, and all; while hearing how each piece foreshadows the Lord Jesus.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="/assets/images/2025-11-16/PXL_20251116_190239236.jpg">
-    <img src="/assets/images/2025-11-16/thumbnails/PXL_20251116_190239236.jpg" alt="Scott MacLeod preaching on the Tabernacle while the congregation listens" />
+  <a href="/assets/images/2025/2025-11-16/PXL_20251116_190239236.jpg">
+    <img src="/assets/images/2025/2025-11-16/thumbnails/PXL_20251116_190239236.jpg" alt="Scott MacLeod preaching on the Tabernacle while the congregation listens" />
   </a>
 </div>
 
