@@ -36,14 +36,14 @@ After the Gospel meeting on Saturday evening, everyone packed up and walked just
 We had a **large hymn sing**, a short message, and then plenty of food; pizza, chips, and pop; the kind of simple spread that somehow tastes better when you’ve been singing your heart out.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="/assets/images/2025-11-10/PXL_20251109_002421194.MP.jpg">
-    <img src="/assets/images/2025-11-10/thumbnails/PXL_20251109_002421194.MP.jpg" alt="Group hymn sing at the Blues Mills Firehall" />
+  <a href="/assets/images/2025/2025-11-10/PXL_20251109_002421194.MP.jpg">
+    <img src="/assets/images/2025/2025-11-10/thumbnails/PXL_20251109_002421194.MP.jpg" alt="Group hymn sing at the Blues Mills Firehall" />
   </a>
-  <a href="/assets/images/2025-11-10/PXL_20251109_002848486.jpg">
-    <img src="/assets/images/2025-11-10/thumbnails/PXL_20251109_002848486.jpg" alt="Guitarists leading the singing" />
+  <a href="/assets/images/2025/2025-11-10/PXL_20251109_002848486.jpg">
+    <img src="/assets/images/2025/2025-11-10/thumbnails/PXL_20251109_002848486.jpg" alt="Guitarists leading the singing" />
   </a>
-  <a href="/assets/images/2025-11-10/PXL_20251109_002859129.MP.jpg">
-    <img src="/assets/images/2025-11-10/thumbnails/PXL_20251109_002859129.MP.jpg" alt="Singing together around the front of the hall" />
+  <a href="/assets/images/2025/2025-11-10/PXL_20251109_002859129.MP.jpg">
+    <img src="/assets/images/2025/2025-11-10/thumbnails/PXL_20251109_002859129.MP.jpg" alt="Singing together around the front of the hall" />
   </a>
 </div>
 
@@ -56,8 +56,8 @@ When the evening wrapped up, I travelled with **Ken Biddington** and his wife, a
 They were kind and welcoming. Ken and his wife had a room, and Josh and I were given a room with two beds.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="/assets/images/2025-11-10/PXL_20251109_022813268.jpg">
-    <img src="/assets/images/2025-11-10/thumbnails/PXL_20251109_022813268.jpg" alt="Guest room where we stayed for the weekend" />
+  <a href="/assets/images/2025/2025-11-10/PXL_20251109_022813268.jpg">
+    <img src="/assets/images/2025/2025-11-10/thumbnails/PXL_20251109_022813268.jpg" alt="Guest room where we stayed for the weekend" />
   </a>
 </div>
 
@@ -72,16 +72,16 @@ The sessions were solid and heart-searching, the kind that leave you with more t
 Downstairs, the meal tables filled up quickly, and the familiar rhythm took over: people shifting seats, catching up with old friends, being introduced to new ones, and doing their best to remember everyone’s names.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="/assets/images/2025-11-10/PXL_20251109_161644767.jpg">
-    <img src="/assets/images/2025-11-10/thumbnails/PXL_20251109_161644767.jpg" alt="Conference lunch crowd downstairs at Blues Mills" />
+  <a href="/assets/images/2025/2025-11-10/PXL_20251109_161644767.jpg">
+    <img src="/assets/images/2025/2025-11-10/thumbnails/PXL_20251109_161644767.jpg" alt="Conference lunch crowd downstairs at Blues Mills" />
   </a>
 </div>
 
 Upstairs, the meeting room slowly emptied and filled again as the day went on; chairs straightened, hymn numbers announced, Bibles opened and pages turned.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="/assets/images/2025-11-10/PXL_20251109_161851557.MP.jpg">
-    <img src="/assets/images/2025-11-10/thumbnails/PXL_20251109_161851557.MP.jpg" alt="Inside the Blues Mills Gospel Hall meeting room" />
+  <a href="/assets/images/2025/2025-11-10/PXL_20251109_161851557.MP.jpg">
+    <img src="/assets/images/2025/2025-11-10/thumbnails/PXL_20251109_161851557.MP.jpg" alt="Inside the Blues Mills Gospel Hall meeting room" />
   </a>
 </div>
 
@@ -120,14 +120,14 @@ I came home tired, but in the best way, with my heart stirred, my mind full, and
 Outside the hall, as the day was winding down, a couple of kids climbed into a nearby tree, enjoying the last bit of afternoon before the long ride home. It felt like the perfect snapshot of the weekend: simple, joyful, and full of life.
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="/assets/images/2025-11-10/PXL_20251109_162357272.MP.jpg">
-    <img src="/assets/images/2025-11-10/thumbnails/PXL_20251109_162357272.MP.jpg" alt="Side view of Blues Mills Gospel Hall" />
+  <a href="/assets/images/2025/2025-11-10/PXL_20251109_162357272.MP.jpg">
+    <img src="/assets/images/2025/2025-11-10/thumbnails/PXL_20251109_162357272.MP.jpg" alt="Side view of Blues Mills Gospel Hall" />
   </a>
-  <a href="/assets/images/2025-11-10/PXL_20251109_162706951.MP.jpg">
-    <img src="/assets/images/2025-11-10/thumbnails/PXL_20251109_162706951.MP.jpg" alt="Front of Blues Mills Gospel Hall and sign" />
+  <a href="/assets/images/2025/2025-11-10/PXL_20251109_162706951.MP.jpg">
+    <img src="/assets/images/2025/2025-11-10/thumbnails/PXL_20251109_162706951.MP.jpg" alt="Front of Blues Mills Gospel Hall and sign" />
   </a>
-  <a href="/assets/images/2025-11-10/PXL_20251109_163244796.MP.jpg">
-    <img src="/assets/images/2025-11-10/thumbnails/PXL_20251109_163244796.MP.jpg" alt="Children climbing a tree outside the hall" />
+  <a href="/assets/images/2025/2025-11-10/PXL_20251109_163244796.MP.jpg">
+    <img src="/assets/images/2025/2025-11-10/thumbnails/PXL_20251109_163244796.MP.jpg" alt="Children climbing a tree outside the hall" />
   </a>
 </div>
 

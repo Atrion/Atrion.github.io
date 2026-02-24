@@ -23,8 +23,8 @@ I was only a little ways from home when I felt it go loose again. So I stopped, 
 That’s the kind of sound that instantly makes your stomach drop. I hit the brakes, hopped off, and grabbed the tire. It was sitting crooked like it had just given up on life. When I pushed on it, it wasn’t just loose—it was *broken*. The entire centre section of the rim had failed. Completely unridable.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-11/PXL_20251015_151114484.jpg">
-  <img src="/assets/images/2025-10-11/thumbnails/PXL_20251015_151114484.jpg" alt="Broken rim bearings" />
+<a href="/assets/images/2025/2025-10-11/PXL_20251015_151114484.jpg">
+  <img src="/assets/images/2025/2025-10-11/thumbnails/PXL_20251015_151114484.jpg" alt="Broken rim bearings" />
 </a>
 </div>
 
@@ -33,8 +33,8 @@ That’s the kind of sound that instantly makes your stomach drop. I hit the bra
 Once I got home, I tore the wheel apart and could immediately see the problem: missing bearings and a broken cup. Basically, everything that could go wrong inside a hub seemed to have gone wrong.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-11/PXL_20251031_162011526.MP.jpg">
-  <img src="/assets/images/2025-10-11/thumbnails/PXL_20251031_162011526.MP.jpg" alt="Inside the damaged hub" />
+<a href="/assets/images/2025/2025-10-11/PXL_20251031_162011526.MP.jpg">
+  <img src="/assets/images/2025/2025-10-11/thumbnails/PXL_20251031_162011526.MP.jpg" alt="Inside the damaged hub" />
 </a>
 </div>
 
@@ -43,23 +43,23 @@ The hunt for replacement parts was not encouraging. I couldn’t find an identic
 And then I discovered I’d need a special tool to remove the gear cassette, a tool I most definitely did not own. The only one I could find was shipping from China with a long estimated arrival window. But I ordered it anyway, thinking: “Well, this will be sitting in the shed for a while.”
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-11/IMG-20251031-WA0001.jpg">
-  <img src="/assets/images/2025-10-11/thumbnails/IMG-20251031-WA0001.jpg" alt="Broken rim bearings" />
-</a> <a href="/assets/images/2025-10-11/IMG-20251031-WA0005.jpg">
-  <img src="/assets/images/2025-10-11/thumbnails/IMG-20251031-WA0005.jpg" alt="Tool ordered for removing cassette" />
+<a href="/assets/images/2025/2025-10-11/IMG-20251031-WA0001.jpg">
+  <img src="/assets/images/2025/2025-10-11/thumbnails/IMG-20251031-WA0001.jpg" alt="Broken rim bearings" />
+</a> <a href="/assets/images/2025/2025-10-11/IMG-20251031-WA0005.jpg">
+  <img src="/assets/images/2025/2025-10-11/thumbnails/IMG-20251031-WA0005.jpg" alt="Tool ordered for removing cassette" />
 </a>
 </div>
 
 Shockingly, that tool ended up showing up *much* earlier than expected. The replacement parts arrived first, and when I held everything up to the hub to try and eyeball the fit, it looked like it should work. Barely. There really isn’t much margin for error with this kind of thing.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-11/PXL_20251014_195351969.jpg">
-  <img src="/assets/images/2025-10-11/thumbnails/PXL_20251014_195351969.jpg" alt="Replacement bearings" />
-</a> <a href="/assets/images/2025-10-11/image-1761432049023.jpg">
-  <img src="/assets/images/2025-10-11/thumbnails/image-1761432049023.jpg" alt="Gear cassette removed" />
+<a href="/assets/images/2025/2025-10-11/PXL_20251014_195351969.jpg">
+  <img src="/assets/images/2025/2025-10-11/thumbnails/PXL_20251014_195351969.jpg" alt="Replacement bearings" />
+</a> <a href="/assets/images/2025/2025-10-11/image-1761432049023.jpg">
+  <img src="/assets/images/2025/2025-10-11/thumbnails/image-1761432049023.jpg" alt="Gear cassette removed" />
 </a>
-<a href="/assets/images/2025-10-11/PXL_20251031_165154365.jpg">
-  <img src="/assets/images/2025-10-11/thumbnails/PXL_20251031_165154365.jpg" alt="Gear cassette removed" />
+<a href="/assets/images/2025/2025-10-11/PXL_20251031_165154365.jpg">
+  <img src="/assets/images/2025/2025-10-11/thumbnails/PXL_20251031_165154365.jpg" alt="Gear cassette removed" />
 </a> 
 </div>
 
@@ -74,8 +74,8 @@ I’m afraid the part I ordered won’t hold, and I’ll go through all the effo
 Some kind of mental block has settled in. Not logical, just human.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-11/PXL_20251014_195326868.MP.jpg">
-  <img src="/assets/images/2025-10-11/thumbnails/PXL_20251014_195326868.MP.jpg" alt="Bike upside down in the shed" />
+<a href="/assets/images/2025/2025-10-11/PXL_20251014_195326868.MP.jpg">
+  <img src="/assets/images/2025/2025-10-11/thumbnails/PXL_20251014_195326868.MP.jpg" alt="Bike upside down in the shed" />
 </a>
 </div>
 

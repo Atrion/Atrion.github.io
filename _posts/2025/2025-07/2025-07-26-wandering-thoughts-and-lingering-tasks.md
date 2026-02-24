@@ -31,7 +31,7 @@ Until next time -- whenever that is
 
 
 <p align="center">
-  <img src="{{ '/assets/images/2025-07-26/Carebear_Style_Sitting.png' | relative_url }}" alt="Carebear Cousins Style Friends Image" />
+  <img src="{{ '/assets/images/2025/2025-07-26/Carebear_Style_Sitting.png' | relative_url }}" alt="Carebear Cousins Style Friends Image" />
 </p>
 
 

@@ -30,8 +30,8 @@ Everything fell into place with ease. It felt less like coincidence and more lik
 ## Summerside to Halifax – Conversations on the Road
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/Screenshot_20251024-135043.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/Screenshot_20251024-135043.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/Screenshot_20251024-135043.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/Screenshot_20251024-135043.jpg" alt="" />
 </a>
 </div>
 
@@ -42,8 +42,8 @@ Albert was in the back, happily watching VeggieTales and working through a colle
 Before this trip, I doubt I’d spent more than twenty or thirty minutes with Tim outside of listening to him give a Gospel or ministry message. Now we had a whole province to cross together. I learned a lot about him that day, and I hope he learned a bit about me too.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251016_202646100.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251016_202646100.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251016_202646100.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251016_202646100.jpg" alt="" />
 </a>
 </div>
 
@@ -56,8 +56,8 @@ The conversations on that stretch blur together when I try to recall specifics, 
 ## Night Ferry – Crossing to Newfoundland
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251017_004531891~2.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251017_004531891~2.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251017_004531891~2.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251017_004531891~2.jpg" alt="" />
 </a>
 </div>
 
@@ -72,8 +72,8 @@ It took me a while to fall asleep (no surprise there), but once I did, that was 
 ## Newfoundland Morning – Mountains, Miles, and a Decision to Take Photos
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/Screenshot_20251024-135106.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/Screenshot_20251024-135106.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/Screenshot_20251024-135106.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/Screenshot_20251024-135106.jpg" alt="" />
 </a>
 </div>
 
@@ -84,18 +84,18 @@ Not long after we got off the boat, I made a decision I make often and rarely fo
 I’m notorious for forgetting to take pictures, then wishing later that I’d captured a few moments along the way. This time, I was determined to do better. The first shot I took was of a beautiful mountainside in the morning light, already impressive in person, and even more striking once I tweaked the colours later.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/file_000000005424622f8ee66b9053d506ee.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/file_000000005424622f8ee66b9053d506ee.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/file_000000005424622f8ee66b9053d506ee.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/file_000000005424622f8ee66b9053d506ee.jpg" alt="" />
 </a>
 </div>
 
 We grabbed a quick stop at Tim Hortons and carried on. The road was a mix of conversations, quiet stretches, and scenery I could happily have spent hours exploring if time allowed. We met up briefly with Tim’s parents and stopped at a convenience store for a snack and a drink.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251017_144255003.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251017_144255003.jpg" alt="" />
-</a><a href="/assets/images/2025-10-21/PXL_20251017_144707200.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251017_144707200.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251017_144255003.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251017_144255003.jpg" alt="" />
+</a><a href="/assets/images/2025/2025-10-21/PXL_20251017_144707200.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251017_144707200.MP.jpg" alt="" />
 </a>
 </div>
 
@@ -108,8 +108,8 @@ But the clock was ticking, and the ferry wasn’t going to wait for us.
 ## The Second Ferry – Newfoundland to Quebec
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251017_170015170.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251017_170015170.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251017_170015170.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251017_170015170.jpg" alt="" />
 </a>
 </div>
 
@@ -128,8 +128,8 @@ When we landed, we were technically in Quebec, but only just. Very quickly we we
 Not long after leaving the ferry, we reached the **Labrador sign**, and of course we stopped for a photo.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/IMG-20251017-WA0039.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/IMG-20251017-WA0039.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/IMG-20251017-WA0039.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/IMG-20251017-WA0039.jpg" alt="" />
 </a>
 </div>
 
@@ -150,8 +150,8 @@ The ministry was excellent, and the fellowship afterwards was just as encouragin
 ## Meeting My Hosts – Cleidus and Norma
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251018_234922899.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251018_234922899.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251018_234922899.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251018_234922899.jpg" alt="" />
 </a>
 </div>
 
@@ -164,8 +164,8 @@ Sitting in their living room felt strangely like being at home. We talked for a 
 ## Conference in L’Anse-au-Loup – A Different Kind of Hospitality
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/Screenshot_20251024-135134.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/Screenshot_20251024-135134.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/Screenshot_20251024-135134.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/Screenshot_20251024-135134.jpg" alt="" />
 </a>
 </div>
 
@@ -176,8 +176,8 @@ In most places I’ve been, you gather at the hall for one large meal with every
 It does mean that many of the women were up **very early** preparing, though. Norma was one of them. While I felt as though I was up early, she had already been in the kitchen, putting together a proper breakfast. We ate well, and then, with a bit of time to spare, **Cleidus** took me for a short drive around the area.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251018_114743222.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251018_114743222.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251018_114743222.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251018_114743222.jpg" alt="" />
 </a>
 </div>
 
@@ -190,8 +190,8 @@ Between meetings, we travelled with Tim and Hayden to different homes for meals.
 ### **Saturday Lunch**
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/SaturdayMeal1-IMG-20251019-WA0003.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/SaturdayMeal1-IMG-20251019-WA0003.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/SaturdayMeal1-IMG-20251019-WA0003.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/SaturdayMeal1-IMG-20251019-WA0003.jpg" alt="" />
 </a>
 <div style="font-size: 0.7em; margin-top: 0.4rem;">
 Left to right: Darrell Raynor, Hayden Faviere, Gilbert and Sybil Linstead (meal hosts), Albert Burton, Tim Burton, David Hierlihy [I'm just outside of frame in the bottom left]
@@ -201,8 +201,8 @@ Left to right: Darrell Raynor, Hayden Faviere, Gilbert and Sybil Linstead (meal 
 ### **Saturday Supper**
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/SaturdayMeal2-IMG-20251019-WA0001.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/SaturdayMeal2-IMG-20251019-WA0001.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/SaturdayMeal2-IMG-20251019-WA0001.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/SaturdayMeal2-IMG-20251019-WA0001.jpg" alt="" />
 </a>
 <div style="font-size: 0.7em; margin-top: 0.4rem;">
 Left to right: [in the kitchen]James and Sarah (couple, not sure of last name), Sharlene Linstead (meal host), Vernon Buckle, [At the Table] Hayden Faviere, Marc MacArthur (me), Darrell Raynor, Tim Burton, Albert Burton, Ewart Linstead (meal Host), Ewart’s sister, Vivian Buckle (sister from English Point), and Emma (another lady from English Point, not sure of last name), then there Clyde and Ada Strickland (a couple from Gander, NL), and David Gushue.
@@ -220,8 +220,8 @@ Over the course of the weekend, I met many believers whose names and faces I’m
 Meals blended together into a warm blur of full plates, laughter, serious talk, and the shared understanding that we were all there for the same reason, to hear God’s Word and to enjoy fellowship around Christ.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/Murray-PXL_20251018_234703081.MP~2.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/Murray-PXL_20251018_234703081.MP~2.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/Murray-PXL_20251018_234703081.MP~2.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/Murray-PXL_20251018_234703081.MP~2.jpg" alt="" />
 </a>
 </div>
 
@@ -230,8 +230,8 @@ I managed to snap a phot of myself with **Murray McCandless**. I always apprecia
 ## Sunday – Worship, Meals, and More Fellowship
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/Screenshot_20251024-135140.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/Screenshot_20251024-135140.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/Screenshot_20251024-135140.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/Screenshot_20251024-135140.jpg" alt="" />
 </a>
 </div>
 
@@ -240,8 +240,8 @@ On **Sunday**, after the **Breaking of Bread** and another full day of ministry 
 ## **Sunday Lunch**
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/SundayMeal1-IMG-20251019-WA0012.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/SundayMeal1-IMG-20251019-WA0012.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/SundayMeal1-IMG-20251019-WA0012.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/SundayMeal1-IMG-20251019-WA0012.jpg" alt="" />
 </a>
 <div style="font-size: 0.7em; margin-top: 0.4rem;">
 Left to right: Gerald Burton, Albert Burton, Tim Burton, Stephen Burton, Pearl Caines (Corner Brook), Warren and Marie Roberts (Forteau, Labrador - Cornelia’s sister), Cornelia Linstead (Meal Host), Maxine Orasuk (Charlottetown), Hayden Faviere, Marc MacArthur
@@ -251,8 +251,8 @@ Left to right: Gerald Burton, Albert Burton, Tim Burton, Stephen Burton, Pearl C
 ### **Sunday Supper**
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/SundayMeal2-IMG-20251019-WA0040.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/SundayMeal2-IMG-20251019-WA0040.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/SundayMeal2-IMG-20251019-WA0040.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/SundayMeal2-IMG-20251019-WA0040.jpg" alt="" />
 </a>
 <div style="font-size: 0.7em; margin-top: 0.4rem;">
 Left to right: Gerald Burton, Marc MacArthur, Stephen Burton, Tim Burton, Albert Burton, Margret and Kevin Normore (Meal Hosts), Hayden Faviere, George Jiang, Pearl Caines, June Burton
@@ -262,16 +262,16 @@ Left to right: Gerald Burton, Marc MacArthur, Stephen Burton, Tim Burton, Albert
 We made a brief visit after supper to see **Francis Barney**. He is one of the few left in the region who still remembers when the Gospel boat first came.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/IMG-20251019-WA0037.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/IMG-20251019-WA0037.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/IMG-20251019-WA0037.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/IMG-20251019-WA0037.jpg" alt="" />
 </a>
 </div>
 
 At one point he held up the old loudspeaker that had been used on the boat, the very one that was once shot at. Seeing it in his hands, and realising he had lived through those early days, made the history I had read about feel very real and very close.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/Jon-PXL_20251019_212407939.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/Jon-PXL_20251019_212407939.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/Jon-PXL_20251019_212407939.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/Jon-PXL_20251019_212407939.MP.jpg" alt="" />
 </a>
 </div>
 
@@ -284,8 +284,8 @@ We finished the conference with a hymn sing—a lovely way to close things off. 
 ## Farewell Breakfast – Bakeapples and Kindness
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/Screenshot_20251024-135149.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/Screenshot_20251024-135149.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/Screenshot_20251024-135149.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/Screenshot_20251024-135149.jpg" alt="" />
 </a>
 </div>
 
@@ -294,16 +294,16 @@ We wanted to make the **early ferry** back to Newfoundland, which meant being on
 My hosts absolutely did not need to get up that early to cook for me, but they did. Norma was up at **5:00 a.m.**, making a full breakfast—bacon, eggs, toast, coffee, and **bakeapple jam**. Throughout the weekend, bakeapples and partridge berries had been appearing at almost every meal in one form or another. They’re special to that region, and they quickly became special to me as well.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251021_235411578.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251021_235411578.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251021_235411578.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251021_235411578.MP.jpg" alt="" />
 </a>
 </div>
 
 After breakfast, Norma disappeared downstairs for a moment and came back with **two jars of jelly**, one bakeapple, one partridge berry, to send home with me. It was more than a kind gesture; it felt like a piece of the place I could carry back to Gravel Hill.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251020_084631785.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_084631785.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_084631785.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_084631785.MP.jpg" alt="" />
 </a>
 </div>
 
@@ -312,11 +312,11 @@ Before we left, Tim snapped a photo of me with my hosts. It’s one I’ll be gl
 Then we joined the quiet line of vehicles heading toward the ferry in the dark. Conversation was minimal at first. Everyone was waking up at their own speed. Once on board, the others grabbed breakfast (their hosts hadn’t been up as early as mine), and the trip passed more quickly than I expected.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251020_095853849.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_095853849.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_095853849.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_095853849.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_103729337-EFFECTS.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_103729337-EFFECTS.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_103729337-EFFECTS.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_103729337-EFFECTS.jpg" alt="" />
 </a>
 </div>
 
@@ -329,78 +329,78 @@ Hayden and I talked some, and I managed to get a beautiful photo of the **sunris
 Back on Newfoundland’s side, we had a little more breathing room in the schedule. Instead of racing straight across, we were able to make a few extra stops.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251020_140209392.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_140209392.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_140209392.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_140209392.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_142123336.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_142123336.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_142123336.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_142123336.MP.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_163342892.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_163342892.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_163342892.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_163342892.MP.jpg" alt="" />
 </a>
 </div>
 
 We pulled over for some good shots of the **mountains** and took a detour past a closed Gospel hall in **Daniel’s Harbour**, then another still operating halls in **Rocky Harbour** and **Parsons Pond**. Seeing that one buildings standing quiet and unused stirred more emotion in me than I expected, reminders that the Gospel once sounded there, and prayers that the Lord might yet work again.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251020_153515308.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_153515308.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_153515308.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_153515308.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_153644435.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_153644435.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_153644435.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_153644435.MP.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_153859880.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_153859880.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_153859880.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_153859880.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_153942536.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_153942536.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_153942536.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_153942536.jpg" alt="" />
 </a>
 </div>
 
 We stopped at a small nature area where a seasonal building sat closed up for the year. Beyond it were striking rock formations, some rippled and folded as though the earth had been squeezed from the sides, others jagged and sharp, pushing up as if they were trying to break free. We walked around, talked, and joked for a while, enjoying the mix of scenery and company.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251020_160011213.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_160011213.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_160011213.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_160011213.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_160105750.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_160105750.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_160105750.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_160105750.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_160232754.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_160232754.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_160232754.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_160232754.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_160557627.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_160557627.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_160557627.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_160557627.jpg" alt="" />
 </a>
 </div>
 
 Later, we visited the remains of the **S.S. Ethie**, another reminder of the region’s history. We spent a good amount of time there before moving on.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251020_143150619.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_143150619.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_143150619.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_143150619.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_144339799.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_144339799.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_144339799.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_144339799.MP.jpg" alt="" />
 </a>
 </div>
 
 At one point we stopped at a gas station with a little restaurant attached. The meal wasn’t the best I’ve ever had, but it certainly wasn’t the worst either. It was simple road food, and it did the job.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251020_174940673.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_174940673.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_174940673.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_174940673.MP.jpg" alt="" />
 </a>
-<a href="/assets/images/2025-10-21/PXL_20251020_174911763.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251020_174911763.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251020_174911763.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251020_174911763.jpg" alt="" />
 </a>
 </div>
 
 Our next major stop was in Tim’s hometown. He wanted to show us a rock formation on the side of the mountain known as the **“Old Man in the Mountain.”** After a look at that, we drove on to Tim’s parents’ home for what would be our **last meal in Newfoundland**, a classic Newfoundland dinner full of warmth, conversation, and the steady noise of a house that has seen plenty of life.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/MondayMeal-received_1358950259575689.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/MondayMeal-received_1358950259575689.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/MondayMeal-received_1358950259575689.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/MondayMeal-received_1358950259575689.jpg" alt="" />
 </a>
 <div style="font-size: 0.7em; margin-top: 0.4rem;">
 Left to right: Penny Ramsay, Cameron Ramsay, Albert Burton, June Burton,Gerald Burton, Marc MacArthur, Hayden Faviere, Ralph Ramsay, Tim Burton, Micheal Ramsay
@@ -412,21 +412,21 @@ Left to right: Penny Ramsay, Cameron Ramsay, Albert Burton, June Burton,Gerald B
 ## Final Ferry, Final Miles, and Back to Gravel Hill
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/Screenshot_20251024-135155.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/Screenshot_20251024-135155.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/Screenshot_20251024-135155.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/Screenshot_20251024-135155.jpg" alt="" />
 </a>
 </div>
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251021_002147972.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251021_002147972.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251021_002147972.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251021_002147972.MP.jpg" alt="" />
 </a>
 </div>
 
 Eventually, it was time for the **night ferry back to Cape Breton**. This time, there were **no cabins**. That didn’t bother me much, I sleep in a chair often enough at home, but it made things a bit trickier for the others. Tim and Albert found a corner of a booth where they could curl up and get some rest. Hayden and I grabbed a bit of food and sat watching television for a while. As he began to doze off, I headed up to the top observation deck.
 
 <div style="text-align: center;">
-<a href="/assets/images/2025-10-21/PXL_20251021_041158601.MP.jpg">
-  <img src="/assets/images/2025-10-21/thumbnails/PXL_20251021_041158601.MP.jpg" alt="" />
+<a href="/assets/images/2025/2025-10-21/PXL_20251021_041158601.MP.jpg">
+  <img src="/assets/images/2025/2025-10-21/thumbnails/PXL_20251021_041158601.MP.jpg" alt="" />
 </a>
 </div>
 

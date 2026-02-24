@@ -18,23 +18,23 @@ Justin, Jared, and I started off early Saturday morning, driving through a lands
 We were initially supposed to stay in the dorms at Kingswood University, where the conference was held in the **Irving Chapel**, but were reassigned last-minute to the **Fairway Inn**, conveniently attached to **JJ’s Diner**. I’ve stayed there the last couple of years, it’s not luxurious, but it’s comfortable, and the breakfast is the kind that sets a tone for the day: eggs, bacon, sausage, and strong coffee, and it’s only 5–10 minutes to the chapel.  
 
 <div class="gallery" style="display:flex;justify-content:center;align-items:center">
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-001.jpg' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-001.jpg' | relative_url }}" alt="Fairway Inn with JJ’s Diner" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-001.jpg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-001.jpg' | relative_url }}" alt="Fairway Inn with JJ’s Diner" />
   </a>
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-004.jpg' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-004.jpg' | relative_url }}" alt="Morning light across the countryside en route to Sussex" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-004.jpg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-004.jpg' | relative_url }}" alt="Morning light across the countryside en route to Sussex" />
   </a>
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-005.jpg' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-005.jpg' | relative_url }}" alt="Farmland and two hot air balloons near Sussex" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-005.jpg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-005.jpg' | relative_url }}" alt="Farmland and two hot air balloons near Sussex" />
   </a>
 </div>
 
 <div class="gallery" style="display:flex;justify-content:center;align-items:center">
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-003.jpg' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-003.jpg' | relative_url }}" alt="Covered bridge near Sussex" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-003.jpg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-003.jpg' | relative_url }}" alt="Covered bridge near Sussex" />
   </a>
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-006.jpg' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-006.jpg' | relative_url }}" alt="Hot air balloon lifting over the valley" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-006.jpg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-006.jpg' | relative_url }}" alt="Hot air balloon lifting over the valley" />
   </a>
 </div>
 
@@ -45,22 +45,22 @@ The audio recordings are available here for anyone interested:
 
 
 <div class="gallery" style="display:flex;justify-content:center;align-items:center">
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-011.jpg' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-011.jpg' | relative_url }}" alt="View from the back during ministry" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-011.jpg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-011.jpg' | relative_url }}" alt="View from the back during ministry" />
   </a>
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-008.jpg' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-008.jpg' | relative_url }}" alt="Marc and Anna at the conference" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-008.jpg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-008.jpg' | relative_url }}" alt="Marc and Anna at the conference" />
   </a>
 </div>
 
 The tech setup this year was impressive. I spent a bit of time chatting with the operators, admiring their workflow. It’s the kind of thing that gets my mind spinning with ideas on how to improve our own hall’s setup, how to streamline recordings and broadcasts, how to better serve those who can’t attend in person.  
 
 <div class="gallery" style="display:flex;justify-content:center;align-items:center">
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-009.jpg' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-009.jpg' | relative_url }}" alt="Sussex tech booth and operators" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-009.jpg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-009.jpg' | relative_url }}" alt="Sussex tech booth and operators" />
   </a>
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-010.jpg' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-010.jpg' | relative_url }}" alt="Another angle of the Sussex tech booth" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-010.jpg' | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-010.jpg' | relative_url }}" alt="Another angle of the Sussex tech booth" />
   </a>
 </div>
 
@@ -69,11 +69,11 @@ After the last ministry session on Sunday afternoon, we decided to head back tow
 The supper was simple but hearty (lasagna and salad), and I found myself deep in conversation with speaker of the night **Leslie Craig** and then later on their tech lead, one of those spontaneous, nerdy chats about soundboards, mixers, and technological tools. He mentioned a translation app he has been working on as well as a few items they’ve been using that might fit our needs in O’Leary. If we can ever get some extra funds, I’d love to bring a few of those upgrades home.
 
 <div class="gallery" style="display:flex;justify-content:center;align-items:center">
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-012.jpg' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-012.jpg' | relative_url }}" alt="Moncton Gospel Hall sound booth" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-012.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-012.jpg' | relative_url }}" alt="Moncton Gospel Hall sound booth" />
   </a>
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-013.jpg' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-013.jpg' | relative_url }}" alt="Another view of Moncton tech setup" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-013.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-013.jpg' | relative_url }}" alt="Another view of Moncton tech setup" />
   </a>
 </div>
 
@@ -83,8 +83,8 @@ When we stepped outside that night, the sky was absolutely ablaze, the last ligh
 > -**Psalm 19:1 (KJV)**
 
 <div class="gallery" style="display:flex;justify-content:center;align-items:center">
-  <a href="{{ '/assets/images/2025-10-09/2025-10-09-002.jpg' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/images/2025-10-09/thumbnails/2025-10-09-002.jpg' | relative_url }}" alt="Evening sky leaving the Moncton meeting" />
+  <a href="{{ '/assets/images/2025/2025-10-09/2025-10-09-002.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2025/2025-10-09/thumbnails/2025-10-09-002.jpg' | relative_url }}" alt="Evening sky leaving the Moncton meeting" />
   </a>
 </div>
 
