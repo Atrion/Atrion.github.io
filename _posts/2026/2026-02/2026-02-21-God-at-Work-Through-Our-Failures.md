@@ -13,6 +13,8 @@ Every so often a line from a film sticks in my mind longer than I expect.
 
 In the movie *Jesus Revolution*, there’s a moment where one character says something along the lines of: **“Don’t be so arrogant to think God can’t work through your failures.”** It’s a simple sentence, but it’s been echoing around my head for a while now.
 
+<!--more-->
+
 <div style="text-align:center; margin:1.5rem 0;">
   <a href="/assets/images/2026/2026-02-21/jesus-revolution-poster.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/jesus-revolution-poster.jpg" alt="Jesus Revolution movie poster" style="max-width:260px; width:100%; height:auto; border-radius:6px;" />
