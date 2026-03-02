@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 12 — The Palace Beautiful"
+title: "Pilgrim’s Progress Journal: Chapter 12 - The Palace Beautiful"
 date: 2026-01-17 13:34:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-12]
 categories: blog

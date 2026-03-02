@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 11 — Timorous and Mistrust"
+title: "Pilgrim’s Progress Journal: Chapter 11 - Timorous and Mistrust"
 date: 2026-01-17 12:32:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-11]
 categories: blog
