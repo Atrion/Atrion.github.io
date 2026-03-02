@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 8 — Simple, Sloth, and Presumption"
+title: "Pilgrim’s Progress Journal: Chapter 8 - Simple, Sloth, and Presumption"
 date: 2026-01-17 09:25:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-8]
 categories: blog

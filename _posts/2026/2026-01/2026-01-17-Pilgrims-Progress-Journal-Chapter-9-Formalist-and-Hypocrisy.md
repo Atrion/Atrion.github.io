@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 9 — Formalist and Hypocrisy"
+title: "Pilgrim’s Progress Journal: Chapter 9 - Formalist and Hypocrisy"
 date: 2026-01-17 10:28:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-9]
 categories: blog

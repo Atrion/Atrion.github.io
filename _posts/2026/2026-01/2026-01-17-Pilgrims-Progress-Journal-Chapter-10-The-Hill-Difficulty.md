@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 10 — The Hill Difficulty"
+title: "Pilgrim’s Progress Journal: Chapter 10 - The Hill Difficulty"
 date: 2026-01-17 11:30:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-10]
 categories: blog
