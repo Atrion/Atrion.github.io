@@ -11,6 +11,8 @@ comments: true
 
 On the Lord’s Day morning, believers gather with one simple, steady purpose: **to remember the Lord Jesus Christ**. The breaking of bread and the sharing of the cup are not empty motions meant to earn God’s approval. They are a joyful confession that Christ has died for our sins, that His work is finished, and that because He has redeemed us, **we belong to Him**.
 
+<!--more-->
+
 In those moments our thoughts get pulled away from ourselves and fastened again on the Person of Christ: His love, His suffering, His atoning death, His resurrection power, and the certainty of His return. And if we’re listening, remembrance does something more than warm our hearts. It presses a question into our daily life:
 
 **If He gave Himself for me, what does it look like for me to live for Him?**
