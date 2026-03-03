@@ -22,6 +22,11 @@ collections:
     output: true
     permalink: /projects/:title/
 excerpt_separator: "<!--more-->"
+
+# Fallback social image (used if no page.og_image)
+social:
+  image: /assets/images/social-card.jpg
+  
 #sass:
 #  quiet_deps: true
 

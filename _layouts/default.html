@@ -14,20 +14,32 @@
 <link rel="alternate" type="application/rss+xml"  title="{{ site.title }}" href="{{ '/rss.xml'  | relative_url }}">
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap" rel="stylesheet">
-<!-- Open Graph -->
-<meta property="og:title" content="Musings from Gravel Hill" />
-<meta property="og:description" content="Thoughts, writings, and reflections from Glenwood, PEI." />
-<meta property="og:image" content="https://atrion.github.io/assets/images/social-card.jpg" />
+
+<!-- Open Graph (primary for Facebook, LinkedIn, WhatsApp, Discord, Slack, Telegram, most others) -->
+<meta property="og:title" content="{{ page.title | default: site.title }}" />
+<meta property="og:description" content="{{ page.description | default: site.description | default: site.description }}" />
+<meta property="og:image" content="{{ page.og_image | default: site.social.image | default: '/assets/images/social-card.jpg' | absolute_url }}" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:url" content="https://atrion.github.io/" />
-<meta property="og:type" content="website" />
-<!-- Twitter Card -->
+<meta property="og:image:alt" content="{{ page.title | default: site.title | append: ' preview' }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:type" content="{% if page.layout contains 'post' or page.layout == 'article' %}article{% else %}website{% endif %}" />
+<meta property="og:site_name" content="{{ site.title }}" />
+
+<!-- Twitter/X Cards (optimal for X, also used as fallback/enhancement by Slack, Discord, etc.) -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Musings from Gravel Hill" />
-<meta name="twitter:description" content="Thoughts, Writings, and Reflections from Glenwood, PEI." />
-<meta name="twitter:image" content="{{ '/assets/images/social-card.jpg' | relative_url }}" />
+<meta name="twitter:title" content="{{ page.title | default: site.title }}" />
+<meta name="twitter:description" content="{{ page.description | default: site.description | default: site.description }}" />
+<meta name="twitter:image" content="{{ page.og_image | default: site.social.image | default: '/assets/images/social-card.jpg' | absolute_url }}" />
+<meta name="twitter:image:alt" content="{{ page.title | default: site.title | append: ' preview' }}" />
+<!-- Optional: Add if you have an X account -->
+<!-- <meta name="twitter:site" content="@yourhandle" /> -->
+<!-- <meta name="twitter:creator" content="@yourhandle" /> -->
+
+<!-- Optional -->
+<!-- <meta name="theme-color" content="#your-brand-color" /> -->
+
 </head>
 <body>
   <header>
