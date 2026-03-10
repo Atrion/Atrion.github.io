@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 17 — Vanity Fair"
-date: 2026-01-25 10:15:00 -04:00
+title: "Pilgrim's Progress Journal: Chapter 17 - Vanity Fair"
+date: 2026-03-09 10:15:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-17]
 categories: blog
 author: Marc MacArthur
@@ -15,11 +15,11 @@ Some trials are private, fought in the heart. Others are public, where faith is 
 
 ### Vanity Fair
 
-Christian and Faithful come to **Vanity Fair**, a place devoted to noise, pleasure, and worldliness. It is a market of distractions, where everything is for sale and nothing is meant to last. The pilgrims do not blend in. Their words and their refusal to join in become a testimony—quiet, steady, and unwelcome.
+Christian and Faithful come to **Vanity Fair**, a place devoted to noise, pleasure, and worldliness. It is a market of distractions, where everything is for sale and nothing is meant to last. The pilgrims do not blend in. Their words and their refusal to join in become a testimony, quiet, steady, and unwelcome.
 
 The cost is high. Faithful is arrested, tried, and ultimately martyred, sealing his witness with blood. Christian is imprisoned as well, but later escapes. Bunyan does not romanticize the conflict, but he makes the lesson clear: true faith may be hated in a world that loves vanity.
 
 **1 John 2:15 (KJV)**  
 > Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.
 
-True faith may cost one’s life, but it gains eternity.
+True faith may cost one's life, but it gains eternity.
