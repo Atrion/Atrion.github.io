@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 30 — The Celestial City"
-date: 2026-02-10 11:15:00 -04:00
+title: "Pilgrim's Progress Journal: Chapter 30 - The Celestial City"
+date: 2026-04-04 11:15:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-30]
 categories: blog
 author: Marc MacArthur
@@ -9,13 +9,13 @@ permalink: /blog/Pilgrims-Progress-Journal-Chapter-30-The-Celestial-City/
 comments: true
 ---
 
-The long road ends where it was always meant to end—not in exhaustion, but in welcome.
+The long road ends where it was always meant to end, not in exhaustion, but in welcome.
 
 <!--more-->
 
 ### The Celestial City
 
-At last, Christian and Hopeful reach the **Celestial City**. They are received with joy and brought into eternal rest with the King. The suffering of the road is behind them. The promises are no longer read—they are seen.
+At last, Christian and Hopeful reach the **Celestial City**. They are received with joy and brought into eternal rest with the King. The suffering of the road is behind them. The promises are no longer read, they are seen.
 
 But Bunyan adds one final warning: Ignorance arrives later, confident in himself, yet lacking true salvation. He is bound and cast away. Not everyone who travels near the pilgrims truly belongs to the King. Only those who came through the gate and clung to Christ are admitted.
 

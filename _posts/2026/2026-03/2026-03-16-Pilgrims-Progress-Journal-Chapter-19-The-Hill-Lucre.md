@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 19 — The Hill Lucre"
-date: 2026-01-29 09:15:00 -04:00
+title: "Pilgrim's Progress Journal: Chapter 19 - The Hill Lucre"
+date: 2026-03-16 09:15:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-19]
 categories: blog
 author: Marc MacArthur
@@ -9,13 +9,13 @@ permalink: /blog/Pilgrims-Progress-Journal-Chapter-19-The-Hill-Lucre/
 comments: true
 ---
 
-Not every temptation looks sinful at first glance. Sometimes it looks like “opportunity”—a quick detour that promises gain with very little cost.
+Not every temptation looks sinful at first glance. Sometimes it looks like opportunity or a quick detour that promises gain with very little cost.
 
 <!--more-->
 
 ### The Hill Lucre
 
-The pilgrims meet **Demas**, who tempts them to turn aside to a silver mine on **Lucre Hill**. It is presented as something harmless, something sensible—why not take a little wealth for the journey? Why not make life easier?
+The pilgrims meet **Demas**, who tempts them to turn aside to a silver mine on **Lucre Hill**. It is presented as something harmless, something sensible: why not take a little wealth for the journey? Why not make life easier?
 
 But Christian sees the danger. He warns Hopeful, reminding him that the lure of riches has ruined many, and that looking back has destroyed the hearts of those who once seemed well. They resist, and they continue forward, choosing the narrow way over the glittering pit.
 

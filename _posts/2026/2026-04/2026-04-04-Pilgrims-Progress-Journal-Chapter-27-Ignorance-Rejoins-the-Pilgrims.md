@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 27 — Ignorance Rejoins the Pilgrims"
-date: 2026-02-06 11:15:00 -04:00
+title: "Pilgrim's Progress Journal: Chapter 27 - Ignorance Rejoins the Pilgrims"
+date: 2026-04-04 08:15:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-27]
 categories: blog
 author: Marc MacArthur
@@ -22,4 +22,4 @@ His pleasantness hides a fatal deception: he believes the gate of heaven will op
 **Titus 3:5 (KJV)**  
 > Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost.
 
-Trusting one’s own works instead of Christ ends in ruin.
+Trusting one's own works instead of Christ ends in ruin.
