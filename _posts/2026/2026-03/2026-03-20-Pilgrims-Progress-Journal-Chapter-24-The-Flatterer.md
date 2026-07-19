@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 24 — The Flatterer"
-date: 2026-02-02 11:15:00 -04:00
+title: "Pilgrim's Progress Journal: Chapter 24 - The Flatterer"
+date: 2026-03-20 11:15:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-24]
 categories: blog
 author: Marc MacArthur
@@ -9,7 +9,7 @@ permalink: /blog/Pilgrims-Progress-Journal-Chapter-24-The-Flatterer/
 comments: true
 ---
 
-Not every deception comes with threats. Some come with smiles, praise, and gentle words that feel safe—until you realise you’ve been led off the path.
+Not every deception comes with threats. Some come with smiles, praise, and gentle words that feel safe, until you realise you've been led off the path.
 
 <!--more-->
 
@@ -22,4 +22,4 @@ An angel rescues them, but not without rebuke. The lesson is clear: even sincere
 **1 John 4:1 (KJV)**  
 > Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
 
-Every message must be tested by God’s Word.
+Every message must be tested by God's Word.

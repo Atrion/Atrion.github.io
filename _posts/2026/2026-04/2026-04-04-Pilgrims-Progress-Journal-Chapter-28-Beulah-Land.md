@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 28 — Beulah Land"
-date: 2026-02-10 09:15:00 -04:00
+title: "Pilgrim's Progress Journal: Chapter 28 - Beulah Land"
+date: 2026-04-04 09:15:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-28]
 categories: blog
 author: Marc MacArthur
@@ -17,7 +17,7 @@ Near the end of the journey, the Lord gives a kindness that feels like a deep br
 
 The pilgrims come to **Beulah Land**, a place of peace and joy where the Celestial City is near. Here they rest, refreshed with glimpses of glory, and live in expectation of soon entering eternal rest. The burdens of earlier miles feel lighter in this land.
 
-Bunyan shows that God sometimes grants His people foretastes—moments of calm assurance and holy joy—before the final crossing. It is not heaven yet, but it is close enough that the heart begins to sing.
+Bunyan shows that God sometimes grants His people foretastes, moments of calm assurance and holy joy, before the final crossing. It is not heaven yet, but it is close enough that the heart begins to sing.
 
 **Psalm 16:11 (KJV)**  
 > Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.

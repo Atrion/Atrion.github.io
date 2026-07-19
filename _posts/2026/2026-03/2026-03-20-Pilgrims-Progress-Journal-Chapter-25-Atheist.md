@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pilgrim’s Progress Journal: Chapter 25 — Atheist"
-date: 2026-02-06 09:15:00 -04:00
+title: "Pilgrim's Progress Journal: Chapter 25 - Atheist"
+date: 2026-03-20 12:15:00 -04:00
 tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-25]
 categories: blog
 author: Marc MacArthur
@@ -9,7 +9,7 @@ permalink: /blog/Pilgrims-Progress-Journal-Chapter-25-Atheist/
 comments: true
 ---
 
-Mockery is an old weapon. It doesn’t need to prove anything; it only needs to shake a pilgrim’s confidence long enough to make him hesitate.
+Mockery is an old weapon. It doesn't need to prove anything; it only needs to shake a pilgrim's confidence long enough to make him hesitate.
 
 <!--more-->
 
@@ -17,7 +17,7 @@ Mockery is an old weapon. It doesn’t need to prove anything; it only needs to sh
 
 Christian and Hopeful encounter **Atheist**, who laughs at their journey and denies that the Celestial City even exists. He treats their hope as childish and their perseverance as foolish. He claims there is nothing ahead, and that they are wasting their lives.
 
-But the pilgrims refuse to be moved. They have seen enough of God’s mercy and truth to know that unbelief is not wisdom. Faith presses on, even when mocked, because it is anchored in something stronger than opinion.
+But the pilgrims refuse to be moved. They have seen enough of God's mercy and truth to know that unbelief is not wisdom. Faith presses on, even when mocked, because it is anchored in something stronger than opinion.
 
 **Psalm 14:1 (KJV)**  
 > The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.
