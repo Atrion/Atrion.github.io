@@ -8,6 +8,9 @@ author: Marc MacArthur
 permalink: /blog/why-the-internet-archive-matters/
 reading_time: 15 min
 comments: true
+
+show_in_writings: true
+type: Article
 ---
 
 <style>
