@@ -4,7 +4,7 @@ Enable per-post with:  comments: true  in front matter
 Provider configured in _config.yml under `comments`.
 {% endcomment %}
 
-{% if page.comments != false %}
+{% if page.comments == true %}
   {% if site.comments.provider == "giscus" %}
     <script
       src="https://giscus.app/client.js"
