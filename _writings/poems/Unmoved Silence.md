@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: writing
 title: "Unmoved Silence"
 date: 2025-09-30 21:00:00 -0300
 tags: [poetry, silence, reflection, struggle]

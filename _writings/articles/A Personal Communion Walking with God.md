@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: writing
 title: "A Personal Communion Walking with God"
 date: 2024-04-09 01:32:00 -0400
 tags: [article, writings]

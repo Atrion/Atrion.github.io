@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: writing
 title: "Bring Your Loaves and Fishes and Trust in God's Provision"
 date: 2023-11-05 00:00:00 -0400
 tags: [article, writings, provision, gospel]

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: writing
 title: "Unto Us a Child Is Given"
 date: 2026-12-25 01:32:00 -0400
 tags: [article, writings]

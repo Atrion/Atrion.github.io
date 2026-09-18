@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: writing
 title: "Grace for the Flawed"
 date: 2025-11-19 01:32:00 -0400
 tags: [article, writings]

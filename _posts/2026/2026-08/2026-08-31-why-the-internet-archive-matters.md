@@ -8,6 +8,12 @@ author: Marc MacArthur
 permalink: /blog/why-the-internet-archive-matters/
 reading_time: 15 min
 comments: true
+
+image:
+  path: /assets/images/social-cards/internet-archive-Title.jpg
+  width: 1200
+  height: 630
+  alt: "The Internet Archive"
 ---
 
 <style>

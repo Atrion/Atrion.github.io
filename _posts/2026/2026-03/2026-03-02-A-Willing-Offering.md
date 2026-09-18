@@ -7,7 +7,6 @@ categories: blog
 author: Marc MacArthur
 permalink: /blog/A-Willing-Offering/
 description:    # "1-2 sentence summary, 120-160 chars ideal."
-og_image:    # ex /assets/images/posts/my-custom-preview.jpg
 reading_time:      # ex 8 min 
 comments: true
 ---

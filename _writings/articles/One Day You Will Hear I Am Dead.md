@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: writing
 title: "One Day You Will Hear I Am Dead"
 date: 2025-01-21 00:00:00 -0400
 tags: [article, writings, death, faith]
