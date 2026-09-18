@@ -1,22 +1,22 @@
 ---
 layout: page
-title: "Writings"
+title: Writings
 permalink: /writings/
 ---
 
-{% assign types = site.writings | map: "type" | uniq | sort %}
+{% assign crosslisted_posts = site.posts | where: "show_in_writings", true %}
+{% assign all_writings = site.writings | concat: crosslisted_posts %}
+{% assign types = all_writings | map: "type" | uniq | sort %}
 
 {% for type in types %}
-  {% assign writings_by_type = site.writings | where: "type", type | sort: "date" | reverse %}
+  {% assign writings_by_type = all_writings | where: "type", type | sort: "date" | reverse %}
+
   {% if writings_by_type.size > 0 %}
-  <h2>{{ type }}s</h2>
-  <ul>
-    {% for writing in writings_by_type %}
-      <li>
-        <a href="{{ writing.url | relative_url }}">{{ writing.title }}</a>
-        – {{ writing.date | date: "%B %d, %Y at %I:%M %p" }}
-      </li>
-    {% endfor %}
-  </ul>
+## {{ type }}s
+
+{% for writing in writings_by_type %}
+- [{{ writing.title }}]({{ writing.url | relative_url }}) – {{ writing.date | date: "%B %d, %Y at %I:%M %p" }}
+{% endfor %}
+
   {% endif %}
 {% endfor %}

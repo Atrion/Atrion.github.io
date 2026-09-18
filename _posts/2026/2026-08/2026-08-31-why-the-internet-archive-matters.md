@@ -14,6 +14,9 @@ image:
   width: 1200
   height: 630
   alt: "The Internet Archive"
+
+show_in_writings: true
+type: Article
 ---
 
 <style>
