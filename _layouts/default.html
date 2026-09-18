@@ -25,13 +25,13 @@
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap"
         rel="stylesheet">
 
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+
 </head>
 <body>
 
-  <header>
-  </header>
 
-  <div class="site-header">
+<header class="site-header">
     <img src="{{ '/assets/images/lantern.png' | relative_url }}"
          alt="Lantern icon"
          class="site-icon" />
@@ -42,20 +42,21 @@
       </h1>
       <p class="site-subtitle" id="subtitle"></p>
     </div>
-  </div>
+  </header>
 
-  <nav class="navbar">
-    <a href="/index">Home</a> |
-    <a href="/blog">Blog Archive</a> |
-    <!-- <a href="/manifesto">Manifesto</a> | -->
-    <a href="/writings">Writings</a> |
-    <!-- <a href="/tags">Tags</a> | -->
-    <a href="/projects">Projects</a> |
-    <a href="/about">About</a>
-    <!-- <a href="/links">Links</a> | -->
-  </nav>
+<nav class="navbar" aria-label="Main navigation">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  <span aria-hidden="true">|</span>
+  <a href="{{ '/blog/' | relative_url }}">Blog Archive</a>
+  <span aria-hidden="true">|</span>
+  <a href="{{ '/writings/' | relative_url }}">Writings</a>
+  <span aria-hidden="true">|</span>
+  <a href="{{ '/projects/' | relative_url }}">Projects</a>
+  <span aria-hidden="true">|</span>
+  <a href="{{ '/about/' | relative_url }}">About</a>
+</nav>
 
-  <main class="container">
+  <main id="main-content" class="container">
     {% if page.title %}
     <header class="page-header">
       <h1 class="page-title">{{ page.title }}</h1>
@@ -68,7 +69,7 @@
   <footer>
     <p>
       © {{ "now" | date: "%Y" }} Marc MacArthur. All rights reserved.<br>
-      From Gravel Hill&trade; • Logo design by Marc MacArthur
+      From Gravel Hill Enterprises • Logo design by Marc MacArthur
     </p>
 
     <!--

@@ -8,6 +8,22 @@ body {
   padding: 0;
 }
 
+/* Skip link for keyboard and screen-reader users */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 2000;
+  padding: 0.75rem 1rem;
+  background: #ffffff;
+  color: #121212;
+}
+
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+}
+
 /* Links */
 a {
   color: #80cbc4;
@@ -18,31 +34,48 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Header, Navigation, and Footer */
-header, nav, footer {
+a:focus-visible {
+  outline: 3px solid #80cbc4;
+  outline-offset: 3px;
+}
+
+/* Site Footer */
+body > footer {
   background-color: #1e1e1e;
   padding: 1em;
   text-align: center;
 }
 
-/* Keeps header always on screen */
+/* Navigation - stays visible and wraps cleanly on smaller screens */
 .navbar {
   position: sticky;
   top: 0;
-  background-color: #1e1e1e;
   z-index: 1000;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem 1rem;
+
+  background-color: #1e1e1e;
   padding: 1em;
   text-align: center;
   border-bottom: 1px solid #333;
 }
 
-nav a {
-  margin: 0 1em;
+.navbar a {
+  margin: 0;
   color: #e0e0e0;
 }
 
 /* Posts and Content */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #ffffff;
 }
 
@@ -50,12 +83,14 @@ p {
   margin-bottom: 1em;
 }
 
-ul, ol {
+ul,
+ol {
   margin-left: 2em;
 }
 
 /* Code blocks */
-pre, code {
+pre,
+code {
   background-color: #1f1f1f;
   padding: 0.5em;
   border-radius: 5px;
@@ -90,7 +125,7 @@ img {
   background-color: #181818;
   padding: 1em;
   margin: 2em 0;
-  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
 }
 
 .post-preview h2 {
@@ -117,15 +152,16 @@ img {
   line-height: 1.6;
   color: #ddd;
 }
+
 /* End of Post Stylings on Main page */
 
 /* Makes the Page Titles Be large Headers */
 .page-header {
   background-color: #111;
-  padding: 0.25rem 0.25rem;
+  padding: 0.25rem;
   text-align: center;
   margin-top: 0.5rem;
-  margin-bottom: 0rem;
+  margin-bottom: 0;
   border-radius: 0.5rem;
 }
 
@@ -135,7 +171,7 @@ img {
   margin: 0;
 }
 
-/* For the 2 colun Poems */
+/* For the 2 column Poems */
 .two-column-poem {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -144,7 +180,7 @@ img {
   background-color: #1a1a1a;
   padding: 2rem;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 .two-column-poem div {
@@ -159,8 +195,6 @@ img {
 .two-column-poem div:last-child {
   text-align: left;
 }
-
-
 
 /* Responsive Image Gallery */
 .gallery {
@@ -254,8 +288,8 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;  /* Center both title and subtitle under each other */
-  text-align: center;   /* Makes sure subtitle centers too */
+  align-items: center;
+  text-align: center;
 }
 
 .site-title {
@@ -280,7 +314,7 @@ img {
   font-family: 'EB Garamond', serif !important;
 }
 
-/* === Responsive Scaling (and consistent layout) for Mobile === */
+/* === Responsive Scaling and Consistent Layout for Mobile === */
 @media (max-width: 600px) {
   .site-header {
     flex-direction: row;
@@ -294,7 +328,7 @@ img {
   }
 
   .site-title {
-    font-size: 1.50rem;
+    font-size: 1.5rem;
   }
 
   .site-subtitle {
@@ -306,4 +340,3 @@ img {
     height: 96px;
   }
 }
-
