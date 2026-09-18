@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: writing
 title: "Worship in Every Moment"
 date: 2024-11-19 00:00:00 -0400
 tags: [article, writings, worship, faith]

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: writing
 title: "Learning the Undertow"
 date: 2025-11-15 03:32:00 -0400
 tags: [poem, writings]

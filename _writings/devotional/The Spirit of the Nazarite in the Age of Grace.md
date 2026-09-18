@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: writing
 title: "The Spirit of the Nazarite in the Age of Grace"
 date: 2025-10-09 01:32:00 -0400
 tags: [article, writings]
