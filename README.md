@@ -13,7 +13,7 @@ Personal site and knowledge garden — posts, projects, writings, tags, and link
 
 ## 📁 Structure
 - Content: `_posts/`, `_projects/`, `_writings/`
-- Pages: `index.md`, `blog.md`, `projects.md`, `writings.md`, `links.md`, `manifesto.md`, `about.md`, `tags.md`
+- Pages: `index.html`, `blog.md`, `projects.md`, `writings.md`, `links.md`, `manifesto.md`, `about.md`, `tags.md`
 - Config/build: `_config.yml`, `Gemfile`, `Gemfile.lock`
 - Assets & snippets: `assets/`, `_site-snippets/`
 - Custom domain via `CNAME`

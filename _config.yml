@@ -3,6 +3,7 @@ description: Spiritual Thoughts and Island Heritage.
 baseurl: ""
 # url: "https://atrion.github.io"
 url: "https://blog.fromgravelhill.ca"
+archive_images_base: "https://archive.org/download/from-gravel-hill-blog-photos"
 timezone: America/Halifax
 #theme: minima
 plugins:

@@ -16,7 +16,7 @@ In the movie *Jesus Revolution*, there’s a moment where one character says som
 <!--more-->
 
 <div style="text-align:center; margin:1.5rem 0;">
-  <a href="/assets/images/2026/2026-02-21/jesus-revolution-poster.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/jesus-revolution-poster.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/jesus-revolution-poster.jpg" alt="Jesus Revolution movie poster" style="max-width:260px; width:100%; height:auto; border-radius:6px;" />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.4rem;">

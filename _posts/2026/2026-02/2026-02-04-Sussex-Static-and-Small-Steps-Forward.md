@@ -21,7 +21,7 @@ This past weekend was the **Sussex Winter Weekend**, held at the Saunders Irving
 I was able to travel over with Justin. We got a later start than planned on the Saturday (nothing new there), so we missed the afternoon activities, but rolled in just in time for supper and the hymn sing with a closing message afterward.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/PXL_20260201_132011021.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260201_132011021.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260201_132011021.jpg" alt="Saunders Irving Chapel" />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">SSaunders Irving Chapel at Kingswood University</div>
@@ -30,7 +30,7 @@ I was able to travel over with Justin. We got a later start than planned on the 
 This was the first year we weren’t put up in a hotel or motel. Instead, we were sent over to one of the university residence buildings. Two-person rooms, narrow single beds, and just enough space to turn around if you planned your steps first. The bathroom was split in a very practical but slightly comical way, toilet and sink in one little cubby, and a shower so small you almost had to step out of it to change your mind or reach your toes.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/PXL_20260201_132007863.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260201_132007863.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260201_132007863.jpg" alt="Tom Phillippe House" />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">Our “hotel” for the weekend, student housing doing double-duty for tired pilgrims.</div>
@@ -43,16 +43,16 @@ After the meeting, a bunch of us — Justin and I plus a few others — slid ove
 Back at the dorm, a few of us crowded into one room and talked far too late. A mix of joking around, half-serious conversations, and that strange blend of tiredness and contentment that comes after a full day.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/PXL_20260201_023604105.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260201_023604105.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260201_023604105.jpg" alt="Hanging out in the dorm room" />
   </a> <br>
-  <a href="/assets/images/2026/2026-02-04/PXL_20260201_024109832.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260201_024109832.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260201_024109832.jpg" alt="Hanging out in the dorm room" />
   </a>
-  <a href="/assets/images/2026/2026-02-04/PXL_20260201_024332805.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260201_024332805.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260201_024332805.jpg" alt="Hanging out in the dorm room" />
   </a>
-  <a href="/assets/images/2026/2026-02-04/PXL_20260201_024553836.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260201_024553836.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260201_024553836.jpg" alt="Hanging out in the dorm room" />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">A cramped room, a flat bed, and plenty of laughter.</div>
@@ -61,7 +61,7 @@ Back at the dorm, a few of us crowded into one room and talked far too late. A m
 Sunday morning was the usual routine: drag myself out of bed, get presentable, and then head to **Tim Hortons** for a quick breakfast and the required caffeine. From there we made our way to the Lord’s Supper.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/PXL_20260201_213030157.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260201_213030157.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260201_213030157.jpg" alt="Inside the hall during the weekend" />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">Quiet before the meeting, full of voices soon after.</div>
@@ -72,7 +72,7 @@ The morning meeting was very good. After that came lunch, an afternoon of solid,
 Because we had a three-hour drive back to the Island, we reluctantly slipped away before the Gospel meeting started. We listened to most of it on the YouTube stream as we drove home, which isn’t quite the same as being in the room, but better than missing it entirely.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/PXL_20260201_213121648.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260201_213121648.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260201_213121648.jpg" alt="Looking out the door of the hall before leaving" />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">One last look back before the long drive home.</div>
@@ -93,7 +93,7 @@ I’ve still been working away at converting old **VHS tapes** to digital. Paul 
 To most people, those old recordings would be nothing special. But there are communities online that get genuinely excited about complete TV broadcasts: the original shows, the commercials, the station idents, all of it. These particular tapes seem to be from the ’90s, so I’ve been making a point of getting them captured while the VCR is still cooperating.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/PXL_20260204_204303392.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260204_204303392.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260204_204303392.jpg" alt="Stack of VHS tapes waiting to be digitized" />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">Old plastic bricks full of snowy picture and irreplaceable memories.</div>
@@ -102,7 +102,7 @@ To most people, those old recordings would be nothing special. But there are com
 Alongside that, I’m still slowly working through the collection of **cassette tapes** from Peggy Hierlihy. Most of them are in better condition than you’d expect for their age, though a few have stretched a bit, so the pitch and speed drift low. It’s strange listening to a well-known voice sound just a little off.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/PXL_20260204_191233855.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260204_191233855.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260204_191233855.jpg" alt="Cassette tapes sorted and ready to digitize" />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">Years of ministry and memory, lined up and waiting their turn.</div>
@@ -119,7 +119,7 @@ Over on the Gospel website — <https://gospel.fromgravelhill.ca/> — things ha
 It’s slow, picky work, but necessary if the site is going to be useful to anyone besides me.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/Screenshottranscript.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/Screenshottranscript.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/Screenshottranscript.jpg" alt="Screenshot of transcription software running" />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">The software that saves me from typing every word by hand.</div>
@@ -156,10 +156,10 @@ I am not, and will never be, a speedcuber. I watched some tutorials, flipped it 
 For the first time in my life, I can take a fully scrambled cube and bring it back to solid faces without giving up halfway.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/PXL_20260204_191156216.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260204_191156216.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260204_191156216.jpg" alt="Scrambled Rubik’s cube." />
   </a>
-  <a href="/assets/images/2026/2026-02-04/PXL_20260204_191916543.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260204_191916543.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260204_191916543.jpg" alt="Solved Rubik’s cube." />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">Not record-breaking, but given that I’d never solved one before this year, I’ll take it.</div>
@@ -176,10 +176,10 @@ And then there’s the **office**.
 I’ve been trying to get my office/storage room into some kind of usable state again. At the moment, it’s in that awkward in-between stage where it’s **cleaner than it was**, but still mostly unusable. The piles are shorter, but they’re still piles.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/PXL_20260203_205740877.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260203_205740877.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260203_205740877.jpg" alt="Office mid-cleanup, desk partially uncovered" />
   </a>
-  <a href="/assets/images/2026/2026-02-04/PXL_20260203_205724850.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260203_205724850.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260203_205724850.jpg" alt="Another angle of the office" />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">Somewhere under there is a perfectly good workspace. That’s the rumour, anyway.</div>
@@ -188,10 +188,10 @@ I’ve been trying to get my office/storage room into some kind of usable state 
 Items have spilled into the **hallway** now, where the laptop is currently chugging away at yet another VHS transfer. My commentary books, from a previous post, are still lined up along the walls of the spare bedroom. They have already been a big help in study and prep, but I still don’t have a proper shelf to store them on, so for now the floor is doing its best impression of a library.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-04/PXL_20260203_205805511.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260203_205805511.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260203_205805511.jpg" alt="Hallway with laptop" />
   </a>
-  <a href="/assets/images/2026/2026-02-04/PXL_20260203_210623461.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-04/PXL_20260203_210623461.jpg">
     <img src="/assets/images/2026/2026-02-04/thumbnails/PXL_20260203_210623461.jpg" alt="Commentary books lined along the spare room wall." />
   </a>
   <div style="font-size: 0.9rem; margin-top: 0.35rem;">One day these will live on proper shelves. For now, we improvise.</div>

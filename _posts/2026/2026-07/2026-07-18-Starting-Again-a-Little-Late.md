@@ -29,7 +29,7 @@ Beginning a new relationship after everything life has held is both good and a l
 I will not turn this into a full relationship post, but I am thankful for Laurie, for the time we have spent together, and for the unexpected happiness she has brought into my life.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-07-18/marc-and-laurie.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-07-18/marc-and-laurie.jpg">
     <img src="/assets/images/2026/2026-07-18/thumbnails/marc-and-laurie.jpg" alt="Marc and Laurie together" />
   </a>
   <div style="font-size: 0.85rem; color: #666; margin-top: 0.35rem;">
@@ -63,10 +63,10 @@ The conference itself is only one part of it for me now. Once everyone goes home
 Pugwash also had brought me on to run their Zoom and Youtube video for the conference again this year, with audio being supplied by Steve. a great experience and the second year doing it. Notes were made and plans for the next year. I thihnk it would be interesting to get into doing more video and having my own equipment.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-07-18/conference-season-01.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-07-18/conference-season-01.jpg">
     <img src="/assets/images/2026/2026-07-18/thumbnails/conference-season-01.jpg" alt="A recent Gospel Hall conference gathering" />
   </a>
-  <a href="/assets/images/2026/2026-07-18/conference-season-02.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-07-18/conference-season-02.jpg">
     <img src="/assets/images/2026/2026-07-18/thumbnails/conference-season-02.jpg" alt="A recent Gospel Hall conference gathering" />
   </a>
   <div style="font-size: 0.85rem; color: #666; margin-top: 0.35rem;">

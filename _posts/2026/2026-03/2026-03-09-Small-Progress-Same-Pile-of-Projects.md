@@ -25,7 +25,7 @@ The commentaries are now **off the floor** and **on a shelf**, which already fee
 The other downside: old house + slanted floors + limited space means it wouldn’t fit where I wanted it in the office. So it ended up in the spare bedroom instead. Not my first choice, but it’s functional, and at this stage, I’m learning to take “functional” as a gift.
 
 <div style="text-align:center; margin:1.25rem 0;">
-  <a href="/assets/images/2026/2026-03-09/bookshelf-commentaries.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-03-09/bookshelf-commentaries.jpg">
     <img src="/assets/images/2026/2026-03-09/thumbnails/bookshelf-commentaries.jpg" alt="A black bookshelf with Bible commentaries and study books stacked and doubled up." />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.35rem;">
@@ -46,7 +46,7 @@ Now I can drag and drop books directly, without needing to convert everything in
 That alone feels freeing. I’m hoping it will translate into me actually reading more. When I try to read on my phone, it’s amazing how quickly “reading time” turns into “checking one thing” and then vanishing into a black hole of notifications.
 
 <div style="text-align:center; margin:1.25rem 0;">
-  <a href="/assets/images/2026/2026-03-09/kindle-library.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-03-09/kindle-library.jpg">
     <img src="/assets/images/2026/2026-03-09/thumbnails/kindle-library.jpg" alt="Kindle open to a library view showing multiple books ready to read." />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.35rem;">
@@ -63,7 +63,7 @@ I read the intro out of curiosity, and it hit a little closer than I expected. E
 If it turns out to be worthwhile, I might even try writing a review... which feels slightly ridiculous since the book is over a decade old. But then again, I’m usually late to everything, so it fits my brand.
 
 <div style="text-align:center; margin:1.25rem 0;">
-  <a href="/assets/images/2026/2026-03-09/not-a-fan-cover.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-03-09/not-a-fan-cover.jpg">
     <img src="/assets/images/2026/2026-03-09/thumbnails/not-a-fan-cover.jpg" alt="Cover of 'Not a Fan (Updated and Expanded)' by Kyle Idleman." />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.35rem;">
@@ -80,7 +80,7 @@ So I wrote a Python script to crawl the site, download everything, and rename fi
 It’s the kind of thing that feels productive right now and slightly menacing later.
 
 <div style="text-align:center; margin:1.25rem 0;">
-  <a href="/assets/images/2026/2026-03-09/python-downloader-snippet.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-03-09/python-downloader-snippet.jpg">
     <img src="/assets/images/2026/2026-03-09/thumbnails/python-downloader-snippet.jpg" alt="Screenshot of a Python script snippet used to download and rename conference audio files." />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.35rem;">

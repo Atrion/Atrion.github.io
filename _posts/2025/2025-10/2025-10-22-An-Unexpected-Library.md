@@ -44,7 +44,7 @@ Below are a few photos after I sorted everything by set:
 ### Simon’s Expository Outlines, Classic Christian Commentary, The Sermon Outline Bible
 Beautiful sets, classic bindings, still in excellent shape.  
 <div style="text-align: center;">
-<a href="/assets/images/2025/2025-10-22/PXL_20251028_235221052.MP.jpg">
+<a href="{{ site.archive_images_base }}/2025/2025-10-22/PXL_20251028_235221052.MP.jpg">
   <img src="/assets/images/2025/2025-10-22/thumbnails/PXL_20251028_235221052.MP.jpg" alt="Simon's Outlines Set">
 </a>
 </div>
@@ -54,7 +54,7 @@ Beautiful sets, classic bindings, still in excellent shape.
 ### The Speaker’s Bible (Hastings)  
 A full run, another set you don’t come across too often anymore.  
 <div style="text-align: center;">
-<a href="/assets/images/2025/2025-10-22/PXL_20251028_235237087.MP.jpg">
+<a href="{{ site.archive_images_base }}/2025/2025-10-22/PXL_20251028_235237087.MP.jpg">
   <img src="/assets/images/2025/2025-10-22/thumbnails/PXL_20251028_235237087.MP.jpg" alt="The Speaker's Bible Set">
 </a>
 </div>
@@ -63,7 +63,7 @@ A full run, another set you don’t come across too often anymore.
 ### The Serious Christian Series  
 A huge set, dozens of volumes covering an incredible range of subjects.  
 <div style="text-align: center;">
-<a href="/assets/images/2025/2025-10-22/PXL_20251028_235246847.MP.jpg">
+<a href="{{ site.archive_images_base }}/2025/2025-10-22/PXL_20251028_235246847.MP.jpg">
   <img src="/assets/images/2025/2025-10-22/thumbnails/PXL_20251028_235246847.MP.jpg" alt="The Serious Christian Set">
 </a>
 </div>
@@ -72,7 +72,7 @@ A huge set, dozens of volumes covering an incredible range of subjects.
 ### The Pulpit Commentary  
 One of the largest commentary sets ever published.  
 <div style="text-align: center;">
-<a href="/assets/images/2025/2025-10-22/PXL_20251028_235253079.MP.jpg">
+<a href="{{ site.archive_images_base }}/2025/2025-10-22/PXL_20251028_235253079.MP.jpg">
   <img src="/assets/images/2025/2025-10-22/thumbnails/PXL_20251028_235253079.MP.jpg" alt="Pulpit Commentary Set">
 </a>
 </div>
@@ -81,7 +81,7 @@ One of the largest commentary sets ever published.
 ### The Biblical Illustrator  
 Another massive, complete series.  
 <div style="text-align: center;">
-<a href="/assets/images/2025/2025-10-22/PXL_20251028_235259935.MP.jpg">
+<a href="{{ site.archive_images_base }}/2025/2025-10-22/PXL_20251028_235259935.MP.jpg">
   <img src="/assets/images/2025/2025-10-22/thumbnails/PXL_20251028_235259935.MP.jpg" alt="Biblical Illustrator Set">
 </a>
 </div>

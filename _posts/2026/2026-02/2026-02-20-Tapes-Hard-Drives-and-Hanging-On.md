@@ -22,10 +22,10 @@ Still, even in the quiet, a lot has been happening, just not always the kind of 
 Most of my recent “excitement” has involved a cassette player and a lot of rewinding.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-21/cassette-tapes.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/cassette-tapes.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/cassette-tapes.jpg" alt="Cassette tapes finished" />
   </a>
-  <a href="/assets/images/2026/2026-02-21/cassette-deck.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/cassette-deck.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/cassette-deck.jpg" alt="Cassette deck" />
   </a>
   <div style="font-size: 0.85rem; color: #666; margin-top: 0.35rem;">
@@ -48,7 +48,7 @@ The process itself is still slow. I need to be nearby while a tape runs, in case
 ## VHS, Gigabytes, and the Coming Hard Drive Shortage
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-21/vhs-tapes.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/vhs-tapes.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/vhs-tapes.jpg" alt="Drawer of VHS tapes" />
   </a>
   <div style="font-size: 0.85rem; color: #666; margin-top: 0.35rem;">
@@ -65,10 +65,10 @@ With that in mind, I’ve been doing some early spring cleaning across the drive
 Then there’s the **third category**: semi-rare things. Those I’ve been slowly uploading to **archive.org**. I’ve grown pretty fond of that site, it feels like a safe place to tuck away odds and ends that might be valuable to someone down the road, even if that “someone” is mostly me.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-21/archiveupload.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/archiveupload.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/archiveupload.jpg" alt="Screenshot of an upload page" />
   </a>
-  <a href="/assets/images/2026/2026-02-21/archiveprofile.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/archiveprofile.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/archiveprofile.jpg" alt="Screenshot of an upload page" />
   </a>
   <div style="font-size: 0.85rem; color: #666; margin-top: 0.35rem;">
@@ -99,7 +99,7 @@ I’m sure there are proper psychological explanations for all of this, but for 
 Speaking of things that aren’t optimized: the **office**.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-21/officebooks.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/officebooks.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/officebooks.jpg" alt="office with books waiting to go away" />
   </a>
   <div style="font-size: 0.85rem; color: #666; margin-top: 0.35rem;">
@@ -110,7 +110,7 @@ Speaking of things that aren’t optimized: the **office**.
 I keep trying to get that room to a point where it’s actually usable, and I keep stalling. The main sticking point is the **books**. I need to decide whether to do the job properly, pull everything off the shelves, reorganize from scratch, and make it all make sense, or to take the lazy route and just wedge the newer books into any open space I can find.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-21/commentarybooks.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/commentarybooks.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/commentarybooks.jpg" alt="Close-up of Bible commentaries and study books stacked along a wall, some still without a proper shelf." />
   </a>
   <div style="font-size: 0.85rem; color: #666; margin-top: 0.35rem;">
@@ -133,7 +133,7 @@ On the more encouraging side, there have been a few smaller digital projects tha
 One of them is a **simple website** I put together for the parents of a friend/acquaintance from the Gospel Hall. They’re missionaries up in Pond Inlet, in the far north of Canada. He wanted a small site he could link to using a QR code on verse images he plans to distribute.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-21/pondinlet.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/pondinlet.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/pondinlet.jpg" alt="Screenshot of the PondInletGospel homepage with northern landscape and Bible verse." />
   </a>
   <div style="font-size: 0.85rem; color: #666; margin-top: 0.35rem;">
@@ -159,7 +159,7 @@ I realised that the way I had originally set up links meant the **categories** w
 So I’ve been reworking things: stripping the categories out of the URLs, adding clearer **slugs**, and then going back to repair links that were already shared in different places. Not the most thrilling job in the world, but necessary if I want the site to be usable long-term.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-21/gospelsite.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/gospelsite.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/gospelsite.jpg" alt="Screenshot of the Gospel From Gravel Hill homepage " />
   </a>
   <div style="font-size: 0.85rem; color: #666; margin-top: 0.35rem;">
@@ -184,7 +184,7 @@ Last year I had built a first version that technically “worked” but never fe
 Recently I decided to start over from the ground up: new layout, new way of handling the text, new approach to how a user would move through the hymns. I haven’t pushed anything public yet, this is mostly me experimenting to see if I can get the structure and the feel where I want it.
 
 <div style="text-align: center; margin: 1.25rem 0;">
-  <a href="/assets/images/2026/2026-02-21/hymnsite.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-02-21/hymnsite.jpg">
     <img src="/assets/images/2026/2026-02-21/thumbnails/hymnsite.jpg" alt="Early draft of the hymn site" />
   </a>
   <div style="font-size: 0.85rem; color: #666; margin-top: 0.35rem;">
