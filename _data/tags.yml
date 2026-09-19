@@ -1,0 +1,296 @@
+- slug: accounting
+  label: Accounting
+  aliases:
+    - bookkeeping
+
+- slug: apologetics
+  label: Apologetics
+
+- slug: assembly-life
+  label: Assembly Life
+  aliases:
+    - gospel-hall
+    - hall
+    - local-church
+
+- slug: audio-archive
+  label: Audio Archive
+  aliases:
+    - gospel-audio
+
+- slug: bible
+  label: Bible
+  aliases:
+    - luke
+    - psalms
+
+- slug: bible-study
+  label: Bible Study
+
+- slug: biking
+  label: Biking
+  aliases:
+    - bike-ride
+    - bike-riding
+
+- slug: book-review
+  label: Book Reviews
+
+- slug: books
+  label: Books
+
+- slug: census
+  label: Census
+
+- slug: christian-life
+  label: Christian Life
+  aliases:
+    - weakness
+    - conviction
+    - discernment
+    - perseverance
+
+- slug: conferences
+  label: Conferences
+  aliases:
+    - conference
+
+- slug: digital-preservation
+  label: Digital Preservation
+  aliases:
+    - archive
+    - archives
+    - preservation
+
+- slug: digital-rights
+  label: Digital Rights
+
+- slug: doctrine
+  label: Doctrine
+
+- slug: faith
+  label: Faith
+  aliases:
+    - provision
+    - testimony
+
+- slug: family-history
+  label: Family History
+
+- slug: fellowship
+  label: Fellowship
+
+- slug: github
+  label: GitHub
+  aliases:
+    - coding
+
+- slug: glenwood
+  label: Glenwood
+
+- slug: gospel
+  label: Gospel
+
+- slug: grace
+  label: Grace
+
+- slug: grief
+  label: Grief
+  aliases:
+    - memory
+    - loss
+    - anniversary
+
+- slug: health
+  label: Health
+  aliases:
+    - weight-loss
+    - diet
+
+- slug: history
+  label: History
+
+- slug: internet
+  label: Internet
+
+- slug: internet-archive
+  label: Internet Archive
+
+- slug: island-books
+  label: Island Books
+
+- slug: library
+  label: Library
+  aliases:
+    - libraries
+
+- slug: life-update
+  label: Life Updates
+  aliases:
+    - life-updates
+    - daily-life
+    - journal
+    - updates
+
+- slug: local-history
+  label: Local History
+
+- slug: lords-supper
+  label: "Lord's Supper"
+
+- slug: lot-8
+  label: Lot 8
+
+- slug: mental-health
+  label: Mental Health
+  aliases:
+    - depression
+
+- slug: ministry
+  label: Ministry
+  aliases:
+    - gospel-message
+    - speaking
+    - teaching
+
+- slug: obsidian
+  label: Obsidian
+
+- slug: open-access
+  label: Open Access
+
+- slug: organization
+  label: Organization
+  aliases:
+    - cleanup
+
+- slug: pei
+  label: Prince Edward Island
+  aliases:
+    - island-life
+
+- slug: personal
+  label: Personal
+
+- slug: pilgrims-progress
+  label: "Pilgrim's Progress"
+  aliases:
+    - chapter-1
+    - chapter-2
+    - chapter-3
+    - chapter-4
+    - chapter-5
+    - chapter-6
+    - chapter-7
+    - chapter-8
+    - chapter-9
+    - chapter-10
+    - chapter-11
+    - chapter-12
+    - chapter-13
+    - chapter-14
+    - chapter-15
+    - chapter-16
+    - chapter-17
+    - chapter-18
+    - chapter-19
+    - chapter-20
+    - chapter-21
+    - chapter-22
+    - chapter-23
+    - chapter-24
+    - chapter-25
+    - chapter-26
+    - chapter-27
+    - chapter-28
+    - chapter-29
+    - chapter-30
+
+- slug: poetry
+  label: Poetry
+  aliases:
+    - poem
+
+- slug: projects
+  label: Projects
+  aliases:
+    - personal-projects
+    - leatherworking
+    - ideas
+    - planning
+
+- slug: publishing
+  label: Publishing
+  aliases:
+    - publications
+    - red-magazine
+
+- slug: reading
+  label: Reading
+
+- slug: reflection
+  label: Reflection
+  aliases:
+    - reflections
+    - thoughts
+    - introspection
+    - silence
+    - late-night
+
+- slug: reformed-theology
+  label: Reformed Theology
+
+- slug: relationships
+  label: Relationships
+  aliases:
+    - relationship
+    - friends
+    - friendships
+    - love
+    - family
+
+- slug: restoration
+  label: Restoration
+
+- slug: salvation
+  label: Salvation
+  aliases:
+    - judgment
+
+- slug: scanning
+  label: Scanning & Digitization
+
+- slug: struggle
+  label: Struggles
+  aliases:
+    - struggles
+
+- slug: technology
+  label: Technology
+  aliases:
+    - tech
+    - computer
+
+- slug: travel
+  label: Travel
+
+- slug: web-history
+  label: Web History
+
+- slug: website
+  label: Website
+  aliases:
+    - site-update
+    - site-changes
+    - website-updates
+    - fromgravelhill
+    - domains
+    - email
+
+- slug: worship
+  label: Worship
+  aliases:
+    - consecration
+
+- slug: writing
+  label: Writing

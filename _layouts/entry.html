@@ -29,17 +29,7 @@ layout: default
     {{ content }}
   </div>
 
-  {% if page.tags %}
-    <div class="post-tags">
-      <hr>
-      <p>
-        <strong>Tags:</strong>
-        {% for tag in page.tags %}
-          <a href="{{ '/tags/#' | append: tag | relative_url }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
-      </p>
-    </div>
-  {% endif %}
+  {% include tag-list.html %}
 
   {% include comments.html %}
 
