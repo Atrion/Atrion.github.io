@@ -18,12 +18,12 @@ This item was graciously loaned to me by West Point resident Audrey MacDonald.
 
 <div class="gallery">
   <a href="{{ '/projects/1910-Store-Ledger-with-Clippings-Articles/' | relative_url }}">
-    <img src="{{ '/assets/images/projects/ledger/thumbnails/clippings_cover.jpg' | relative_url }}" alt="Article Clippings">
+    <img src="{{ site.archive_images_base }}/projects/ledger/thumbnails/clippings_cover.jpg" alt="Article Clippings">
   </a>
   <a href="{{ '/projects/1910-Store-Ledger-with-Clippings-Full/' | relative_url }}">
     <img src="{{ '/assets/images/projects/ledger/ledger_cover.jpg' | relative_url }}" alt="Full Book">
   </a>
   <a href="{{ '/projects/1910-Store-Ledger-with-Clippings-Articles/' | relative_url }}">
-    <img src="{{ '/assets/images/projects/ledger/thumbnails/clippings_cover.jpg' | relative_url }}" alt="Article Clippings">
+    <img src="{{ site.archive_images_base }}/projects/ledger/thumbnails/clippings_cover.jpg" alt="Article Clippings">
   </a>  
 </div>

@@ -15,7 +15,7 @@ This items are not files under a specific project, but are kept here for easy re
 <div class="gallery">
   <div class="gallery-item">
   <p>Aerial Photo Detail 1935. Roll ID #5328 Photo #6. Latitude 46.65 Longitude -64.33</p>
-  <a href="{{ '/assets/images/projects/glenwood/5328-6.jpg' | relative_url }}">
+  <a href="{{ site.archive_images_base }}/projects/glenwood/5328-6.jpg">
     <img src="{{ '/assets/images/projects/glenwood/thumbnails/5328-6.jpg' | relative_url }}" alt="Description">
   </a>
   </div>

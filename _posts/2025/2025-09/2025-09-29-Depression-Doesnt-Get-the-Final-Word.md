@@ -39,8 +39,8 @@ Depression doesn’t get the final word. It may visit me, it may linger unwelcom
 
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a href="{{ '/assets/images/misc/Lantern_at_night.png' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/images/misc/Lantern_at_night.png' | relative_url }}" alt="Lantern in the Dark" style="max-width: 300px; height: auto;">
+  <a href="{{ site.archive_images_base }}/misc/Lantern_at_night.png" target="_blank">
+    <img src="{{ site.archive_images_base }}/misc/Lantern_at_night.png" alt="Lantern in the Dark" style="max-width: 300px; height: auto;">
   </a>
   <p style="font-size: 0.9rem; color: #666;">A lantern in the dark — a reminder of light even in heavy times.</p>
 </div>

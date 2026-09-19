@@ -19,10 +19,10 @@ I was genuinely pleased to find my article included in the regular issue. It’s
 I think it went well for what it was, but it also left me wishing for a bit more room. Word limits have a way of trimming off the edges of things I’d normally explore more deeply. Still, it felt good, genuinely good, to see it printed there.
 
 <div style="text-align:center;">
-  <a href="/assets/images/2025/2025-11-12/red-vol-39.jpg">
+  <a href="{{ site.archive_images_base }}/2025/2025-11-12/red-vol-39.jpg">
     <img src="/assets/images/2025/2025-11-12/thumbnails/red-vol-39.jpg" alt="RED Magazine Volume 39 Cover">
   </a>
-  <a href="/assets/images/2025/2025-11-12/red-vol-39-article-Quiet_Faith_on_Red_Soil.jpg">
+  <a href="{{ site.archive_images_base }}/2025/2025-11-12/red-vol-39-article-Quiet_Faith_on_Red_Soil.jpg">
     <img src="/assets/images/2025/2025-11-12/thumbnails/red-vol-39-article-Quiet_Faith_on_Red_Soil.jpg" alt="My Article in RED Magazine">
   </a>
 </div>
@@ -35,10 +35,10 @@ Most of my poetry never sees daylight; it tends to be more emotional, sometimes 
 It’s a strange but pleasant feeling to get paid for something I enjoy doing. Not the reason I do it, but it does add a little spark of encouragement.
 
 <div style="text-align:center;">
-  <a href="/assets/images/2025/2025-11-12/red-christmas-special.jpg">
+  <a href="{{ site.archive_images_base }}/2025/2025-11-12/red-christmas-special.jpg">
     <img src="/assets/images/2025/2025-11-12/thumbnails/red-christmas-special.jpg" alt="Christmas Special Issue Cover">
   </a>
-  <a href="/assets/images/2025/2025-11-12/red-christmas-special-poem-Island-Snowfall.jpg">
+  <a href="{{ site.archive_images_base }}/2025/2025-11-12/red-christmas-special-poem-Island-Snowfall.jpg">
     <img src="/assets/images/2025/2025-11-12/thumbnails/red-christmas-special-poem-Island-Snowfall.jpg" alt="Poem in RED Christmas Issue">
   </a>
 </div>
@@ -51,10 +51,10 @@ On a completely different note, and something that still feels strangely persona
 They never got farther than handwritten notes and typed sheets, though the intention was clearly there. Why the project stalled, I don’t know. But now, decades later, I’ve become the temporary caretaker of this box.
 
 <div style="text-align:center;">
-  <a href="/assets/images/2025/2025-11-12/box-of-documets-01.jpg">
+  <a href="{{ site.archive_images_base }}/2025/2025-11-12/box-of-documets-01.jpg">
     <img src="/assets/images/2025/2025-11-12/thumbnails/box-of-documets-01.jpg" alt="Box of Historical Documents - Angle 1">
   </a>
-  <a href="/assets/images/2025/2025-11-12/box-of-documets-02.jpg">
+  <a href="{{ site.archive_images_base }}/2025/2025-11-12/box-of-documets-02.jpg">
     <img src="/assets/images/2025/2025-11-12/thumbnails/box-of-documets-02.jpg" alt="Box of Historical Documents - Angle 2">
   </a>
 </div>

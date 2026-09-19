@@ -25,7 +25,7 @@ Because of some legal friction, **From Gravel Hill** has become **From Gravel Hi
 It feels strange to formalise something that started as “I’ll just build a few pages and see what happens,” but it also feels right. If I’m going to do work, I may as well do it properly.
 
 <div style="text-align:center; margin:1.25rem 0;">
-  <a href="/assets/images/2026/2026-04-20/from-gravel-hill-enterprises.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/from-gravel-hill-enterprises.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/from-gravel-hill-enterprises.jpg" alt="From Gravel Hill Enterprises wordmark / rebrand graphic." />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.35rem;">
@@ -57,7 +57,7 @@ Site:
 <https://higharcticgoodnews.ca/>
 
 <div style="text-align:center; margin:1.25rem 0;">
-  <a href="/assets/images/2026/2026-04-20/higharcticgoodnews-home.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/higharcticgoodnews-home.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/higharcticgoodnews-home.jpg" alt="Screenshot of the High Arctic Good News website homepage." />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.35rem;">
@@ -77,10 +77,10 @@ Site:
 <https://rosebankgospelhall.ca/>
 
 <div style="text-align:center; margin:1.25rem 0;">
-  <a href="/assets/images/2026/2026-04-20/Rosebank-Old-01.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/Rosebank-Old-01.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/Rosebank-Old-01.jpg" alt="Before and after comparison of the Rosebank Gospel Hall website." />
   </a>
-  <a href="/assets/images/2026/2026-04-20/Rosebank-New-01.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/Rosebank-New-01.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/Rosebank-New-01.jpg" alt="Before and after comparison of the Rosebank Gospel Hall website." />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.35rem;">
@@ -98,7 +98,7 @@ Site:
 <https://jcmw.fromgravelhill.ca/>
 
 <div style="text-align:center; margin:1.25rem 0;">
-  <a href="/assets/images/2026/2026-04-20/jcmw-wedding-site.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/jcmw-wedding-site.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/jcmw-wedding-site.jpg" alt="Screenshot of the wedding sharing website for Justin and Charlotte." />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.35rem;">
@@ -109,13 +109,13 @@ Site:
 And while I’m here, I also want to say thank you to **Justin and Charlotte** for a thoughtful gift they gave me. I don’t expect gifts, and I’m never quite sure how to receive them properly, but it meant a lot all the same.
 
 <div style="text-align:center; margin:1.25rem 0;">
-  <a href="/assets/images/2026/2026-04-20/justin-and-charlotte-gift-01.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/justin-and-charlotte-gift-01.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/justin-and-charlotte-gift-01.jpg" alt="Gift from Justin and Charlotte." />
   </a>
-  <a href="/assets/images/2026/2026-04-20/justin-and-charlotte-gift-02.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/justin-and-charlotte-gift-02.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/justin-and-charlotte-gift-02.jpg" alt="Gift from Justin and Charlotte." />
   </a>
-  <a href="/assets/images/2026/2026-04-20/justin-and-charlotte-gift-03.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/justin-and-charlotte-gift-03.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/justin-and-charlotte-gift-03.jpg" alt="Gift from Justin and Charlotte." />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.35rem;">
@@ -158,13 +158,13 @@ The office area is finally *approaching usable*. It’s not perfect, but it’s 
 There are still books to organise properly, and right now they’re mostly just “moved into the shelving area” rather than truly sorted, but even that is progress. I’m learning that sometimes the first step is just getting things *off the floor* and into a place where they can be dealt with.
 
 <div style="text-align:center; margin:1.25rem 0;">
-  <a href="/assets/images/2026/2026-04-20/office-progress-01.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/office-progress-01.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/office-progress-01.jpg" alt="Office area showing progress toward being usable again." />
   </a>
-  <a href="/assets/images/2026/2026-04-20/office-progress-02.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/office-progress-02.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/office-progress-02.jpg" alt="Office area showing progress toward being usable again." />
   </a>
-  <a href="/assets/images/2026/2026-04-20/office-progress-03.jpg">
+  <a href="{{ site.archive_images_base }}/2026/2026-04-20/office-progress-03.jpg">
     <img src="/assets/images/2026/2026-04-20/thumbnails/office-progress-03.jpg" alt="Office area showing progress toward being usable again." />
   </a>
   <div style="font-size:0.85rem; color:#666; margin-top:0.35rem;">

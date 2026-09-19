@@ -15,7 +15,7 @@ This items are not files under a specific project, but are kept here for easy re
 <div class="gallery">
   <div class="gallery-item">
   <p>1927 Cummins Map Co. Atlas of Province of PEI, Canada and the World. PEI Lot 8</p>
-  <a href="{{ '/assets/images/projects/lot8/Cummins Map Co - Atlas of Province of Prince Edward Island, Canada and the World - PEI Lot 8 (1927).png' | relative_url }}">
+  <a href="{{ site.archive_images_base }}/projects/lot8/Cummins Map Co - Atlas of Province of Prince Edward Island, Canada and the World - PEI Lot 8 (1927).png">
     <img src="{{ '/assets/images/projects/lot8/thumbnails/Cummins Map Co - Atlas of Province of Prince Edward Island, Canada and the World - PEI Lot 8 (1927).png' | relative_url }}" alt="Description">
   </a></div>
 
