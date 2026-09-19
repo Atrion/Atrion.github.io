@@ -340,3 +340,96 @@ img {
     height: 96px;
   }
 }
+
+
+/* === Tags Page === */
+
+.tags-intro {
+  text-align: center;
+  color: #bbb;
+  margin: 1.5rem auto 2rem;
+  max-width: 600px;
+}
+
+.tags-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.tag-group {
+  background-color: #181818;
+  border: 1px solid #444;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.tag-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.9rem 1rem;
+  cursor: pointer;
+  color: #ffffff;
+  font-weight: 600;
+  list-style: none;
+}
+
+.tag-summary::-webkit-details-marker {
+  display: none;
+}
+
+.tag-summary::after {
+  content: "+";
+  flex-shrink: 0;
+  font-size: 1.25rem;
+  color: #80cbc4;
+}
+
+.tag-group[open] .tag-summary::after {
+  content: "−";
+}
+
+.tag-summary:hover {
+  background-color: #202020;
+}
+
+.tag-name {
+  color: #ffffff;
+}
+
+.tag-count {
+  margin-left: auto;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #aaa;
+  white-space: nowrap;
+}
+
+.tag-post-list {
+  margin: 0;
+  padding: 0.25rem 1rem 1rem 2.25rem;
+}
+
+.tag-post-list li {
+  margin: 0.55rem 0;
+}
+
+.tag-post-list a {
+  color: #80cbc4;
+}
+
+.tag-post-date {
+  display: block;
+  color: #888;
+  font-size: 0.8rem;
+  margin-top: 0.1rem;
+}
+
+@media (max-width: 600px) {
+  .tags-grid {
+    grid-template-columns: 1fr;
+  }
+}
