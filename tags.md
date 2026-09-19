@@ -4,7 +4,7 @@ title: "Tags"
 permalink: /tags/
 ---
 
-<h1>Browse by Tag</h1>
+<h2>Browse by Tag</h2>
 
 {% assign sorted_tags = site.tags | sort %}
 {% if sorted_tags %}
