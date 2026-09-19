@@ -7,6 +7,7 @@ categories: [writings]
 author: Marc MacArthur
 type: Devotional
 permalink: /writings/Unto-Us-a-Child-Is-Given/
+published: false
 ---
 
 > **Isaiah 9:6 KJV** <br>
