@@ -3,6 +3,10 @@
 require "yaml"
 require "pathname"
 
+# Historical migration helper.
+# Normal tag maintenance should use _data/tags.yml
+# and scripts/check_tags.rb.
+
 ROOT = Pathname.new(__dir__).parent
 CATALOG_PATH = ROOT.join("_data", "tags.yml")
 
