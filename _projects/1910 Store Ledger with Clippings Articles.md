@@ -9,10 +9,11 @@ type: "Project"
 hidden: true
 ---
 
-This is a Set of digital photos of a damaged store ledger dating back to around 1910. 
-The book had been turned into a scrapbook of newspaper clippings and shows signs of significant wear. 
+This is a set of digital photos of a damaged store ledger dating back to around 1910.
 
-It is beleived that this ledger my have belonged to an old store that was in Glenwood PEI, Located at the corner of Route 14 and the MacDonald Road, a store owned by a Flora Baldwin.
+The book had been turned into a scrapbook of newspaper clippings and shows signs of significant wear.
+
+It is believed that this ledger may have belonged to an old store that was in Glenwood PEI, Located at the corner of Route 14 and the MacDonald Road, a store owned by a Flora Baldwin.
 
 This item was graciously loaned to me by West Point resident Audrey MacDonald.
 

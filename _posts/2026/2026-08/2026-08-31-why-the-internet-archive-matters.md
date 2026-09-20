@@ -67,7 +67,7 @@ In October 2025, the Wayback Machine passed **one trillion archived webpages**.
 
 That number is almost impossible to picture. Those captures include abandoned blogs, deleted news articles, old government pages, discontinued documentation, company announcements, community websites, and personal projects that may no longer exist anywhere else.
 
-The Archive is often described as a collection of old internet pages, bit it is an infrastructure for recovering information after the original source has failed.
+The Archive is often described as a collection of old internet pages, but it is an infrastructure for recovering information after the original source has failed.
 
 ## The Web Is an Unstable Medium
 

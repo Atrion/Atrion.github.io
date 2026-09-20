@@ -8,9 +8,11 @@ tags: [books, island-books, pei, history, library]
 type: "Project"
 ---
 
-This is a catalouged listing of all the Island Books that I own.
+This is a cataloged listing of all the Island Books that I own.
+
 This collection has some books obtained by my Grandmother (Helen MacArthur) before her passing, and the majority of books that I have acquired since moving back to Western PEI.
-This is a listing only of the Physical books I have, I plan to eventually add any digital books I also Own.
+
+This is a listing only of the Physical books I have, I plan to eventually add any digital books I also own.
 
 
 <div class="gallery">
