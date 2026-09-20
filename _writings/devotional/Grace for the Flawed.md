@@ -14,7 +14,7 @@ permalink: /writings/Grace-for-the-Flawed/
 > Peter had a temper<br>
 > Martha had anxiety<br>
 > Paul was a murderer<br>
-> Sara was impatient<br>
+> Sarah was impatient<br>
 > Elijah had depression<br>
 > Jonah ran from God<br>
 > Jacob was a liar<br>

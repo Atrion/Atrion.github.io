@@ -8,7 +8,7 @@ permalink: /links/
 - [O'Leary Gospel Hall](https://olearygospelhall.ca/)
 - [The Glorious Gospel](https://www.thegloriousgospel.ca/)
 - [Heaven 4 Sure](https://heaven4sure.com/)
-- [Gospel Hall Audio](http://gospelhallaudio.org/)
+- [Gospel Hall Audio](https://gospelhallaudio.org/)
 
 ## Misc
 - [Bhief O'Brien at Work](https://chiefobrienatwork.com/)

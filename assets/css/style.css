@@ -74,12 +74,23 @@ ol {
 }
 
 /* Code blocks */
-pre,
 code {
   background-color: #1f1f1f;
-  padding: 0.5em;
-  border-radius: 5px;
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
   font-family: monospace;
+}
+
+pre {
+  background-color: #1f1f1f;
+  padding: 1rem;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+pre code {
+  padding: 0;
+  background: none;
 }
 
 /* Blockquotes */
@@ -462,5 +473,20 @@ img {
 @media (max-width: 600px) {
   .tags-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+
+/* mobile 2 column poem layout */
+@media (max-width: 600px) {
+  .two-column-poem {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .two-column-poem div:first-child,
+  .two-column-poem div:last-child {
+    text-align: left;
   }
 }

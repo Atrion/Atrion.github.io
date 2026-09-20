@@ -9,7 +9,7 @@ type: "Project"
 hidden: true
 ---
 
-This is digital photos of the 1881 Lot 8 PEI Census, Aquired from the Ancestry.ca records (This was easier to aquire than getting them from the government themselves) 
+This is digital photos of the 1881 Lot 8 PEI Census, Acquired from the Ancestry.ca records (This was easier to acquire than getting them from the government themselves)
 
 <div class="gallery">
   <a href="{{ site.archive_images_base }}/projects/glenwood/1881-Lot_8_PEI_Census/31229_C_13162-00246.jpg">
