@@ -2,7 +2,7 @@
 layout: post
 title: "Wandering Thoughts and Lingering Tasks"
 date: 2025-07-26 02:00:00 -0300
-tags: [life-update, accounting, faith, writing, friendships]
+tags: [life-update, accounting, faith, writing, relationships]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/wandering-thoughts-and-lingering-tasks/

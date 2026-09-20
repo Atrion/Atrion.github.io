@@ -2,7 +2,7 @@
 layout: post
 title: "When Conviction Feels Like Fog"
 date: 2025-12-10 23:05:00 -04:00
-tags: [blog, devotional, conviction, christian-life]
+tags: [christian-life, faith, reflection]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/When-Conviction-Feels-Like-Fog/

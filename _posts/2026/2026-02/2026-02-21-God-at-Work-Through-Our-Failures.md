@@ -2,7 +2,7 @@
 layout: post
 title: "God at Work Through Our Failures"
 date: 2026-02-21 22:45:00 -04:00
-tags: [gospel, blog, devotional, weakness, grace, film]
+tags: [gospel, christian-life, grace]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/God-at-Work-Through-Our-Failures/

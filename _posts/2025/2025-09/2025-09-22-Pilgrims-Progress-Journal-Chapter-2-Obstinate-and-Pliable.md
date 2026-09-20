@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim’s Progress Journal: Chapter 2 — Obstinate and Pliable"
 date: 2025-09-22 22:34:00 -03:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-2]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-2-Obstinate-and-Pliable/

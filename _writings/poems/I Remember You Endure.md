@@ -2,7 +2,7 @@
 layout: writing
 title: "I Remember You Endure"
 date: 2025-05-03 15:00:00 -0400
-tags: [poem, grief, memory, love]
+tags: [poetry, grief, relationships]
 categories: [writings]
 author: Atrion Darnay
 type: Poem

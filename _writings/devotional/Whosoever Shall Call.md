@@ -2,7 +2,7 @@
 layout: writing
 title: "Whosoever Shall Call"
 date: 2026-02-21 22:30:00 -0400
-tags: [article, writings]
+tags: [gospel, salvation, grace]
 categories: [writings]
 author: Marc MacArthur
 type: Devotional

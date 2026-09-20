@@ -2,7 +2,7 @@
 layout: post
 title: "On the Road to Pugwash and Other Wandering Thoughts"
 date: 2025-07-04 14:00:00 -0300
-tags: [pugwash-conference, personal, travel, gospel-technology, reflections]
+tags: [conferences, personal, travel, gospel, technology, reflection]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/On-the-Road-to-Pugwash-and-Other-Wandering-Thoughts/

@@ -2,7 +2,7 @@
 layout: post
 title: "Small Progress, Same Pile of Projects"
 date: 2026/2026-03-09 16:15:00 -03:00
-tags: [fromgravelhill, blog, life-updates, tech, books, audio-archive, website-updates, christian-life]
+tags: [website, life-update, technology, books, audio-archive, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Small-Progress-Same-Pile-of-Projects/

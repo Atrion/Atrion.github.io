@@ -2,7 +2,7 @@
 layout: post
 title: "From PEI to Labrador"
 date: 2025-10-21 23:58:00 -03:00
-tags: [travel, gospel, fellowship, conferences, personal, testimony, ministry]
+tags: [travel, gospel, fellowship, conferences, faith, ministry]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/From-PEI-to-Labrador/

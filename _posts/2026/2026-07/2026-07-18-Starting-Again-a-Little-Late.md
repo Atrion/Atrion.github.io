@@ -2,7 +2,7 @@
 layout: post
 title: "Starting Again, a Little Late"
 date: 2026-07-18 23:32:00 -03:00
-tags: [fromgravelhill, blog, personal, life-updates, relationship, work, gospel, conferences, website-updates]
+tags: [website, personal, life-update, relationships, gospel, conferences]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Starting-Again-a-Little-Late/

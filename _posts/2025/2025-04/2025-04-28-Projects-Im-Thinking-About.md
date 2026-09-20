@@ -3,7 +3,7 @@ layout: post
 title: "Projects I'm Thinking About"
 date: 2025-04-28 1:2:00 -0400
 categories: [Projects]
-tags: [projects, ideas, planning]
+tags: [projects]
 author: Atrion Darnay
 comments: true
 ---

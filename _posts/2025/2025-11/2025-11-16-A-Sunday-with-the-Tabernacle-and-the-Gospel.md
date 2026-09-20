@@ -2,7 +2,7 @@
 layout: post
 title: "A Sunday with the Tabernacle and the Gospel"
 date: 2025-11-16 23:55:00 -04:00
-tags: [gospel, blog, personal, ministry, tabernacle, fellowship, grief]
+tags: [gospel, personal, ministry, bible-study, fellowship, grief]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/A-Sunday-with-the-Tabernacle-and-the-Gospel/

@@ -2,7 +2,7 @@
 layout: post
 title: "Broken Bike, Stalled Diet, and Starting Again"
 date: 2025-10-11 22:14:00 -03:00
-tags: [blog, personal, bike, health, weight-loss, diet, life-updates, motivation]
+tags: [personal, biking, health, life-update]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Broken-Bike-Stalled-Diet-Starting-Again/

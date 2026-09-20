@@ -2,6 +2,7 @@
   label: Accounting
   aliases:
     - bookkeeping
+    - taxes
 
 - slug: apologetics
   label: Apologetics
@@ -17,6 +18,9 @@
   label: Audio Archive
   aliases:
     - gospel-audio
+    - audio
+    - audio-archives
+    - recording-issues
 
 - slug: bible
   label: Bible
@@ -26,18 +30,30 @@
 
 - slug: bible-study
   label: Bible Study
+  aliases:
+    - bible-reading
+    - tabernacle
 
 - slug: biking
   label: Biking
   aliases:
     - bike-ride
     - bike-riding
+    - bike
 
 - slug: book-review
   label: Book Reviews
 
 - slug: books
   label: Books
+  aliases:
+    - hymnbook
+
+- slug: business
+  label: Business
+  aliases:
+    - fromgravelhill-enterprises
+    - office-life
 
 - slug: census
   label: Census
@@ -54,6 +70,10 @@
   label: Conferences
   aliases:
     - conference
+    - halifax-conference
+    - pugwash-conference
+    - sussex
+    - pugwash
 
 - slug: digital-preservation
   label: Digital Preservation
@@ -79,6 +99,8 @@
 
 - slug: fellowship
   label: Fellowship
+  aliases:
+    - community
 
 - slug: github
   label: GitHub
@@ -145,6 +167,7 @@
   label: Mental Health
   aliases:
     - depression
+    - anxiety
 
 - slug: ministry
   label: Ministry
@@ -152,6 +175,10 @@
     - gospel-message
     - speaking
     - teaching
+    - children's-meetings
+    - childrens-meetings
+    - ministry-prep
+    - zoom-message
 
 - slug: obsidian
   label: Obsidian
@@ -211,6 +238,9 @@
   aliases:
     - poem
 
+- slug: prayer
+  label: Prayer
+
 - slug: projects
   label: Projects
   aliases:
@@ -246,6 +276,7 @@
     - relationship
     - friends
     - friendships
+    - friendship
     - love
     - family
 
@@ -270,6 +301,8 @@
   aliases:
     - tech
     - computer
+    - gospel-technology
+    - tech-projects
 
 - slug: travel
   label: Travel
@@ -286,6 +319,8 @@
     - fromgravelhill
     - domains
     - email
+    - online-world
+    - glorious-gospel
 
 - slug: worship
   label: Worship
@@ -294,3 +329,5 @@
 
 - slug: writing
   label: Writing
+  aliases:
+    - devotional-writing

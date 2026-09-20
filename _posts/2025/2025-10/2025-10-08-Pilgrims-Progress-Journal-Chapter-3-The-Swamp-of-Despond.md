@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim’s Progress Journal: Chapter 3 — The Swamp of Despond"
 date: 2025-10-08 23:41:00 -03:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-3]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-3-The-Swamp-of-Despond/

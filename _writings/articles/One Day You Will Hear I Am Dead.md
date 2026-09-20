@@ -2,7 +2,7 @@
 layout: writing
 title: "One Day You Will Hear I Am Dead"
 date: 2025-01-21 00:00:00 -0400
-tags: [article, writings, death, faith]
+tags: [faith, gospel, christian-life]
 categories: [writings]
 author: Marc MacArthur
 type: Article

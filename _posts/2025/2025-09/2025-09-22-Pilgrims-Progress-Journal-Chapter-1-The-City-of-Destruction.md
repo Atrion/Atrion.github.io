@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim’s Progress Journal: Chapter 1 — The City of Destruction"
 date: 2025-09-22 21:30:00 -03:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-1]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-1-The-City-of-Destruction/

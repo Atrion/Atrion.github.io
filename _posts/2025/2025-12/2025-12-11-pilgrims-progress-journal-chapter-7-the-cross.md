@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim’s Progress Journal: Chapter 7 — The Cross"
 date: 2025-12-11 00:24:00 -04:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-7]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-7-The-Cross/

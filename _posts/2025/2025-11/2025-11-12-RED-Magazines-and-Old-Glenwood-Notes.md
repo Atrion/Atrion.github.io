@@ -2,7 +2,7 @@
 layout: post
 title: "RED Magazines and Old Glenwood Notes"
 date: 2025-11-12 23:11:00 -04:00
-tags: [blog, personal, writing, island-life, history, local-history, poetry, publications, red-magazine, scanning]
+tags: [writing, pei, local-history, poetry, publishing, scanning]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/RED-Magazines-and-Old-Glenwood-Notes/

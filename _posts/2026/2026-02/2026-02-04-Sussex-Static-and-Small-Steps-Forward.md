@@ -2,7 +2,7 @@
 layout: post
 title: "Sussex, Static, and Small Steps Forward"
 date: 2026-02-04 16:30:00 -04:00
-tags: [fromgravelhill, blog, conferences, gospel, projects, audio-archive, tech, poetry, office-life]
+tags: [website, conferences, gospel, projects, audio-archive, technology]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Sussex-Static-and-Small-Steps-Forward/

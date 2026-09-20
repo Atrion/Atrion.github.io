@@ -2,7 +2,7 @@
 layout: post
 title: "Tapes, Hard Drives, and Hanging On"
 date: 2026-02-21 22:45:00 -04:00
-tags: [fromgravelhill, blog, audio-archive, tech, website-updates, hymnbook, grief, projects]
+tags: [website, audio-archive, technology, books, grief, projects]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/2026-Tapes-Hard-Drives-and-Hanging-On/

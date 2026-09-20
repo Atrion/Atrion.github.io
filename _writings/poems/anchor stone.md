@@ -2,7 +2,7 @@
 layout: writing
 title: "Anchor Stone"
 date: 2025-06-19 01:00:00 -0300
-tags: [poem, grief, memory, love]
+tags: [poetry, grief, relationships]
 categories: [writings]
 author: Marc MacArthur
 type: Poem

@@ -2,7 +2,7 @@
 layout: post
 title: "Winter, Readings, and Quiet Plans"
 date: 2025-12-08 22:05:00 -04:00
-tags: [personal, winter, bible-reading, fellowship, glenwood, house-sitting, life-updates]
+tags: [personal, bible-study, fellowship, glenwood, life-update]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Winter-Readings-and-Quiet-Plans/

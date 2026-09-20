@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: Why I Am Not Reformed — Matthew Cain"
 date: 2025-09-11 14:00:00 -03:00
-tags: [book-review, reformed-theology, gospel, bible, local-church, faith]
+tags: [book-review, reformed-theology, gospel, bible, assembly-life, faith]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Book-Review-Why-I-Am-Not-Reformed/

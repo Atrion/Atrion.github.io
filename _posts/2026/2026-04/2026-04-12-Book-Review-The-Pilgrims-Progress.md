@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: The Pilgrim’s Progress - John Bunyan"
 date: 2026-04-12 14:00:00 -03:00
-tags: [book-review, pilgrims-progress, allegory, gospel, christian-life, discernment, perseverance]
+tags: [book-review, books, pilgrims-progress, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Book-Review-The-Pilgrims-Progress/

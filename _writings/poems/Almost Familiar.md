@@ -2,7 +2,7 @@
 layout: writing
 title: "Almost Familiar"
 date: 2025-04-30 01:32:00 -0400
-tags: [poem, writings]
+tags: [poetry, reflection, relationships]
 categories: [writings]
 author: Atrion Darnay
 type: Poem

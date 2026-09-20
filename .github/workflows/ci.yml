@@ -23,6 +23,9 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
 
+      - name: Validate tags
+        run: ruby scripts/check_tags.rb
+
       - name: Build site
         env:
           JEKYLL_ENV: production

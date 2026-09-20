@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim's Progress Journal: Chapter 24 - The Flatterer"
 date: 2026-03-20 11:15:00 -04:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-24]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-24-The-Flatterer/

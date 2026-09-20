@@ -2,7 +2,7 @@
 layout: writing
 title: "Writer’s Lament"
 date: 2025-06-19 01:10:00 -0300
-tags: [poem, writing, introspection, struggle]
+tags: [poetry, writing, reflection]
 categories: [writings]
 author: Marc MacArthur
 type: Poem

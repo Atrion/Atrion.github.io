@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim's Progress Journal: Chapter 14 - The Valley of the Shadow of Death"
 date: 2026-03-02 10:15:00 -04:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-14]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-14-The-Valley-of-the-Shadow-of-Death/

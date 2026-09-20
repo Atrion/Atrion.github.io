@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim's Progress Journal: Chapter 27 - Ignorance Rejoins the Pilgrims"
 date: 2026-04-04 08:15:00 -04:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-27]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-27-Ignorance-Rejoins-the-Pilgrims/

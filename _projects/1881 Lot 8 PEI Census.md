@@ -4,7 +4,7 @@ date: 2025-12-16 12:00:00 -0400
 updated: 2025-12-16 12:25:00 -0400
 layout: project
 image: /assets/images/projects/glenwood/1881-Lot_8_PEI_Census-Cover.jpg
-tags: [history, restoration, PEI, Census, Lot 8, Glenwood]
+tags: [history, pei, census, lot-8, glenwood]
 type: "Project"
 hidden: true
 ---

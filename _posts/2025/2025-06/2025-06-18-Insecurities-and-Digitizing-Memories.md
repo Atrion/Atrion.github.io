@@ -2,7 +2,7 @@
 layout: post
 title: "Insecurities and Digitizing Memories"
 date: 2025-06-18 18:40:00 -0300
-tags: [island-books, family-history, collecting, writing, personal, podcasts, biking]
+tags: [island-books, family-history, personal, writing, biking, scanning]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Insecurities-and-Digitizing-Memories/

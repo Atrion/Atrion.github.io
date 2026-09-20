@@ -2,7 +2,7 @@
 layout: post
 title: "Barabbas Walked Free"
 date: 2026-03-02 12:15:00 -04:00
-tags: [gospel, blog, devotional, weakness, grace, christian-life]
+tags: [gospel, christian-life, grace]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Barabbas-Walked-Free/
