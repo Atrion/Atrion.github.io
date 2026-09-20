@@ -10,6 +10,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
 author: "Marc MacArthur"
 permalink: /:title/
 google_analytics: "" # Add your GA ID later

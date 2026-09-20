@@ -5,6 +5,7 @@ gem "jekyll", "~> 4.4.0"
 gem "jekyll-feed", "~> 0.17.0"
 gem "jekyll-seo-tag", "~> 2.9.0"
 gem "jekyll-paginate", "~> 1.1.0"
+gem "jekyll-sitemap", "~> 1.4"
 
 # Windows timezone support
 platforms :mingw, :x64_mingw, :mswin, :jruby do
