@@ -8,21 +8,6 @@ body {
   padding: 0;
 }
 
-/* Skip link for keyboard and screen-reader users */
-.skip-link {
-  position: absolute;
-  left: -9999px;
-  top: 0;
-  z-index: 2000;
-  padding: 0.75rem 1rem;
-  background: #ffffff;
-  color: #121212;
-}
-
-.skip-link:focus {
-  left: 1rem;
-  top: 1rem;
-}
 
 /* Links */
 a {
