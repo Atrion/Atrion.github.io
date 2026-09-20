@@ -3,7 +3,7 @@ layout: post
 title: "Bits and Pieces and Bread"
 date: 2025-05-03 14:35:00 -0400
 categories: [journal]
-tags: [journal, projects, photos, writing, gospel, Bible]
+tags: [life-update, projects, writing, gospel, bible]
 author: Atrion Darnay
 permalink: /blog/Bits-and-Pieces-and-Bread/
 comments: true

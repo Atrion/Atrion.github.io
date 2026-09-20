@@ -2,7 +2,7 @@
 layout: post
 title: "A Bit of This, A Bit of That"
 date: 2025-05-10 17:00:00 -0400
-tags: [personal, updates, obsidian, family, writing, gospel]
+tags: [personal, life-update, obsidian, relationships, writing, gospel]
 categories: [personal]
 author: Atrion Darnay
 permalink: /blog/A-Bit-of-This-A-Bit-of-That/

@@ -2,7 +2,7 @@
 layout: post
 title: "A New Direction for the Glorious Gospel and Some Technical Tinkering"
 date: 2025-07-14 20:30:00 -0400
-tags: [glorious-gospel, tech-projects, children's-meetings, personal]
+tags: [website, projects, gospel, ministry, technology, personal]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/A-New-Direction-for-the-Glorious-Gospel-and-Some-Technical-Tinkering/

@@ -2,7 +2,7 @@
 layout: post
 title: "Six Months Down"
 date: 2025-05-08 14:18:00 -0400
-tags: [weight loss, personal, obsidian, bible study, gospel hall]
+tags: [health, personal, obsidian, bible-study, assembly-life]
 categories: [personal]
 author: Atrion Darnay
 permalink: /blog/Six-Months-Down/

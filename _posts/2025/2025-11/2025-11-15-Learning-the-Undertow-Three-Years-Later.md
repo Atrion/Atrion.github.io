@@ -2,7 +2,7 @@
 layout: post
 title: "Learning the Undertow — Three Years Later"
 date: 2025-11-15 21:14:00 -04:00
-tags: [grief, personal, poetry, reflections, anniversary, loss]
+tags: [grief, personal, poetry, reflection]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Learning-the-Undertow-Three-Years-Later/

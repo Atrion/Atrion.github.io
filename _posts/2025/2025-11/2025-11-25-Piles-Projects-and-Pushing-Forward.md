@@ -2,7 +2,7 @@
 layout: post
 title: "Piles, Projects, and Pushing Forward"
 date: 2025-11-24 12:30:00 -04:00
-tags: [blog, personal, organization, projects, gospel, tech, writing]
+tags: [personal, organization, projects, gospel, technology, writing]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Piles-Projects-and-Pushing-Forward/

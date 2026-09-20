@@ -2,7 +2,7 @@
 layout: post
 title: "The Web Forgets. The Internet Archive Does Not."
 date: 2026-08-31 14:00:00 -03:00
-tags: [internet-archive, archive, digital-preservation, preservation, web-history, technology, libraries, archives]
+tags: [internet-archive, digital-preservation, web-history, technology, library]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/why-the-internet-archive-matters/

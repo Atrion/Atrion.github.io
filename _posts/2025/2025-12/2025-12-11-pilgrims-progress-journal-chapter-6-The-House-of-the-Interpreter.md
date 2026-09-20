@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim’s Progress Journal: Chapter 6 — The House of the Interpreter"
 date: 2025-12-11 00:22:00 -04:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-6]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-6-The-House-of-the-Interpreter/

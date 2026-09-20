@@ -2,7 +2,7 @@
 layout: post
 title: "Heatwaves, Hymns, and Hopes"
 date: 2025-06-25 12:30:00 -0300
-tags: [gospel-message, poetry, personal, bike-riding, publishing, community]
+tags: [ministry, poetry, personal, biking, publishing, fellowship]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Heatwaves-Hymns-and-Hopes/

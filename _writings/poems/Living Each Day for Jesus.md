@@ -2,7 +2,7 @@
 layout: writing
 title: "Living Each Day for Jesus"
 date: 2025-05-19 23:32:00 -0400
-tags: [poem, writings]
+tags: [poetry, faith, christian-life]
 categories: [writings]
 author: Marc MacArthur
 type: Poem

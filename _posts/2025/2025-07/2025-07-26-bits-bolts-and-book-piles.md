@@ -2,7 +2,7 @@
 layout: post
 title: "Bits, Bolts, and Book Piles"
 date: 2025-07-26 12:45:00 -0300
-tags: [projects, life-update, diet, gospel-audio]
+tags: [projects, life-update, health, audio-archive]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/bits-bolts-and-book-piles/

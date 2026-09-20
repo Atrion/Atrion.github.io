@@ -2,7 +2,7 @@
 layout: post
 title: "Running on Fumes and Thoughts"
 date: 2025-05-05 11:50:00 -0400
-tags: [journal, worship, writing, poetry, diet, reflection]
+tags: [life-update, worship, writing, poetry, health, reflection]
 categories: [journal]
 author: Atrion Darnay
 permalink: /blog/Running-on-Fumes-and-Thoughts/

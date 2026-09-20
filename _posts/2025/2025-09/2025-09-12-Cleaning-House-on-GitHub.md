@@ -2,7 +2,7 @@
 layout: post
 title: "Cleaning House on GitHub"
 date: 2025-09-12 12:00:00 -03:00
-tags: [github, coding, projects, cleanup, organization, tech]
+tags: [github, projects, organization, technology]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Cleaning-House-on-GitHub/

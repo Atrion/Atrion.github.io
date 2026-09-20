@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Things Done, One Step at a Time"
 date: 2025-08-03 22:45:00 -0300
-tags: [life-update, bookkeeping, gospel, tech, health, projects]
+tags: [life-update, accounting, gospel, technology, health, projects]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/getting-things-done-one-step-at-a-time/

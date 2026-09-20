@@ -2,7 +2,7 @@
 layout: post
 title: "House Sitting, Coding, and Quiet Reflections"
 date: 2025-09-22 10:15:00 -03:00
-tags: [gospel, github, coding, house-sitting, reflections, online-world, projects]
+tags: [gospel, github, reflection, website, projects]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/House-Sitting-Coding-and-Quiet-Reflections/

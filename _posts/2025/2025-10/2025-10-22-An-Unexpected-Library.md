@@ -2,7 +2,7 @@
 layout: post
 title: "An Unexpected Library"
 date: 2025-10-22 23:14:00 -03:00
-tags: [books, gospel, christian-life, personal, library, reading, commentary]
+tags: [books, gospel, christian-life, library, reading]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/An-Unexpected-Library/

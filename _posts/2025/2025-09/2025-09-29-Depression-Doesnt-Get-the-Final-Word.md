@@ -2,7 +2,7 @@
 layout: post
 title: "Depression Doesn’t Get the Final Word"
 date: 2025-09-29 23:48:00 -03:00
-tags: [faith, depression, mental-health, christian-life, blog, struggles, psalms]
+tags: [faith, mental-health, christian-life, struggle, bible]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Depression-Doesnt-Get-the-Final-Word/

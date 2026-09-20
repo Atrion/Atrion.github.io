@@ -2,7 +2,7 @@
 layout: post
 title: "Domains, Projects, and Plenty on My Plate"
 date: 2025-08-08 16:15:00 -03:00
-tags: [domains, gospel, blog, website, friends, speaking, faith, personal projects, tech, leatherworking, hall]
+tags: [website, gospel, ministry, projects, technology, assembly-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Domains-Projects-and-Plenty-on-My-Plate/

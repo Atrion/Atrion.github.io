@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim's Progress Journal: Chapter 23 - Ignorance"
 date: 2026-03-20 10:15:00 -04:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-23]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-23-Ignorance/

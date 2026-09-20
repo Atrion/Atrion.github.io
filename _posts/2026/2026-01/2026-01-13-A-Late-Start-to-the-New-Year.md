@@ -2,7 +2,7 @@
 layout: post
 title: "A Late Start to the New Year"
 date: 2026-01-12 20:40:00 -04:00
-tags: [fromgravelhill, blog, personal, family, gospel, conferences, house-sitting, audio-archives, pilgrims-progress, goals]
+tags: [website, personal, gospel, conferences, audio-archive, pilgrims-progress]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/A-Late-Start-to-the-New-Year/

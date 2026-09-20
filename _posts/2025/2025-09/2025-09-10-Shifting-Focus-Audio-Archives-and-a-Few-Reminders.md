@@ -2,7 +2,7 @@
 layout: post
 title: "Shifting Focus, Audio Archives, and a Few Reminders"
 date: 2025-09-10 10:00:00 -03:00
-tags: [gospel, fromgravelhill, conferences, audio, friendship, writing, bike, faith, updates]
+tags: [gospel, website, conferences, audio-archive, writing, faith]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Shifting-Focus-Audio-Archives-and-a-Few-Reminders/

@@ -2,7 +2,7 @@
 layout: post
 title: "Sussex Weekend: Ministry, Miles, and a Sky on Fire"
 date: 2025-10-09 11:08:00 -03:00
-tags: [conference, sussex, ministry, audio, travel, moncton, pugwash, projects, tech, reflections, christian-life]
+tags: [conferences, ministry, travel, audio-archive, technology, reflection]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Sussex-Weekend-Ministry-Miles-and-a-Sky-on-Fire/

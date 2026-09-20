@@ -2,7 +2,7 @@
 layout: post
 title: "Not Ready, But Willing"
 date: 2025-07-26 22:00:00 -0300
-tags: [faith, struggle, preparation, gospel]
+tags: [faith, struggle, gospel]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/not-ready-but-willing/

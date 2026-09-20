@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim’s Progress Journal: Chapter 5 — The Narrow Gate"
 date: 2025-12-11 00:20:00 -04:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-5]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-5-The-Narrow-Gate/

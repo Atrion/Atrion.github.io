@@ -2,7 +2,7 @@
 layout: post
 title: "A Willing Offering"
 date: 2026-03-02 14:50:00 -04:00
-tags: [gospel, blog, lords-supper, worship, consecration, christian-life, ministry]
+tags: [gospel, lords-supper, worship, christian-life, ministry]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/A-Willing-Offering/

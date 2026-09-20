@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking Ahead: An Idea for a Future Day’s Meeting"
 date: 2025-11-19 18:41:00 -04:00
-tags: [gospel, assembly-life, teaching, planning, ministry, doctrine, apologetics]
+tags: [gospel, assembly-life, ministry, projects, doctrine, apologetics]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Thinking-Ahead-Days-Meeting-Idea/

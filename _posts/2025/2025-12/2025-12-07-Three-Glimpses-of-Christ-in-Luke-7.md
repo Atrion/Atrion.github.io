@@ -2,7 +2,7 @@
 layout: post
 title: "Three Glimpses of Christ in Luke 7"
 date: 2025-12-07 17:30:00 -04:00
-tags: [devotional, bible, Luke]
+tags: [bible, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Three-Glimpses-of-Christ-in-Luke-7/

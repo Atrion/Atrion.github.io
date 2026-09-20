@@ -4,7 +4,7 @@ date: 2025-11-01 12:00:00 -0400
 updated: 2025-11-19 11:00:00
 layout: project
 image: /assets/images/projects/glenwoodnotes/glenwoodnotes.png
-tags: [history, restoration, PEI]
+tags: [history, restoration, pei]
 type: "Project"
 ---
 

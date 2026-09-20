@@ -2,7 +2,7 @@
 layout: post
 title: "Pilgrim's Progress Journal: Chapter 17 - Vanity Fair"
 date: 2026-03-09 10:15:00 -04:00
-tags: [books, pilgrims-progress, reading, gospel, christian-life, chapter-17]
+tags: [books, pilgrims-progress, reading, gospel, christian-life]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/Pilgrims-Progress-Journal-Chapter-17-Vanity-Fair/

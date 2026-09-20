@@ -2,7 +2,7 @@
 layout: post
 title: "From Gravel Hill Enterprises: Rebrand, Websites, and a Quiet Reset"
 date: 2026-04-20 21:10:00 -03:00
-tags: [fromgravelhill, fromgravelhill-enterprises, blog, website-updates, gospel, work, life-updates, organization, taxes]
+tags: [business, website, gospel, life-update, organization, accounting]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/From-Gravel-Hill-Enterprises-Rebrand-Websites-and-Reset/

@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Back Into Things"
 date: 2025-04-29 23:30:00 -0400
-tags: [personal, site-update, daily-life, obsidian, biking, doctor-who]
+tags: [personal, website, life-update, obsidian, biking]
 categories: [blog]
 author: Atrion Darnay
 permalink: /blog/Getting-Back-Into-Things/

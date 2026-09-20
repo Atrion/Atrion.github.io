@@ -2,7 +2,7 @@
 layout: post
 title: "Late Night Lines and Lingering Thoughts"
 date: 2025-06-19 01:45:00 -0300
-tags: [writing, poetry, reflection, late-night]
+tags: [writing, poetry, reflection]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/late-night-lines-and-lingering-thoughts/

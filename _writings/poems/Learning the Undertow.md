@@ -2,7 +2,7 @@
 layout: writing
 title: "Learning the Undertow"
 date: 2025-11-15 03:32:00 -0400
-tags: [poem, writings]
+tags: [poetry, grief, reflection]
 categories: [writings]
 author: Marc MacArthur
 type: Poem

@@ -2,7 +2,7 @@
 layout: writing
 title: "The Book"
 date: 2025-06-25 13:00:00 -0300
-tags: [poetry, gospel, judgment, salvation]
+tags: [poetry, gospel, salvation]
 categories: [writings]
 author: Marc MacArthur
 type: Poem

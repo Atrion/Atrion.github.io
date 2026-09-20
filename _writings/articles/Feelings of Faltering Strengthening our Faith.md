@@ -2,7 +2,7 @@
 layout: writing
 title: "Feelings of Faltering - Strengthening our Faith"
 date: 2024-12-02 00:00:00 -0400
-tags: [article, writings, faith]
+tags: [faith, christian-life, fellowship]
 categories: [writings]
 author: Marc MacArthur
 type: Article

@@ -2,7 +2,7 @@
 layout: post
 title: "From Gravel Hill: A Base for My Online World"
 date: 2025-08-04 23:52:00 -03:00
-tags: [domains, fromgravelhill, gospel, blog, computer, email, organization, Personal Projects, Tech, Website Updates]
+tags: [website, gospel, technology, organization, projects]
 categories: blog
 author: Marc MacArthur
 permalink: /blog/From-Gravel-Hill-A-Base-for-My-Online-World/
