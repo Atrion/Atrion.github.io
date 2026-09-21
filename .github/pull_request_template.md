@@ -11,19 +11,20 @@
 <!-- optional -->
 
 ## How to test locally
-```bash
-# For Jekyll sites
-bundle install
-bundle exec jekyll serve --livereload
 
-# For static sites
-python -m http.server 4000
-# or
-npx http-server -p 4000 -c-1
+```bash
+bundle _2.6.9_ install
+ruby scripts/check_tags.rb
+bundle _2.6.9_ exec jekyll build --trace
+git diff --check
 ```
 
 ## Checklist
-- [ ] Builds locally without errors
-- [ ] Content and links reviewed
-- [ ] Spelling/grammar pass
-- [ ] Licensing notes updated where applicable
+
+- [ ] `ruby scripts/check_tags.rb` passes
+- [ ] Jekyll production build passes
+- [ ] `git diff --check` passes
+- [ ] Internal links/images reviewed
+- [ ] Mobile layout checked where relevant
+- [ ] Spelling/grammar reviewed
+- [ ] No unintended large files added

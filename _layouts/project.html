@@ -6,13 +6,15 @@ layout: default
 <!--  <h1>{{ page.title }}</h1> -->
 
   {% if page.image %}
-    <div style="text-align: center;">
-      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" style="max-width:100%; height: auto; display: block; margin: 0 auto 1rem;">
+    <div class="project-cover">
+      <img
+        src="{{ page.image | relative_url }}"
+        alt="{{ page.title | escape }}">
     </div>
   {% endif %}
 
   {% if page.updated %}
-    <p class="updated-date" style="font-style: italic; color: #aaa;">
+    <p class="updated-date">
       Last updated on {{ page.updated | date: "%B %d, %Y" }}
     </p>
   {% endif %}

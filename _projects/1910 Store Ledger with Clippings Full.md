@@ -17,7 +17,7 @@ It is believed that this ledger may have belonged to an old store that was in Gl
 
 This item was graciously loaned to me by West Point resident Audrey MacDonald.
 
-This Page contains the full photos of the entire Book.
+This page contains the full photos of the entire Book.
 
 
 <div class="gallery">

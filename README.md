@@ -17,6 +17,10 @@ Personal site and knowledge garden — posts, projects, writings, tags, and link
 - Config/build: `_config.yml`, `Gemfile`, `Gemfile.lock`
 - Assets & snippets: `assets/`, `_site-snippets/`
 - Custom domain via `CNAME`
+- Taxonomy: `_data/tags.yml`
+- Validation/migration tools: `scripts/`
+- Error page: `404.md`
+- Crawler configuration: `robots.txt`
 
 ## ✍️ Editing Content
 - **Blog posts**: add Markdown to `_posts/` using `YYYY-MM-DD-title.md`.
@@ -28,20 +32,24 @@ Personal site and knowledge garden — posts, projects, writings, tags, and link
 > **Prereqs**: Ruby and Bundler installed. On Windows, WSL is recommended; on macOS/Linux use system Ruby or a version manager (e.g., `rbenv`).
 
 ```bash
-# If not synced properly
 git fetch --all --prune
-git switch master
-git reset --hard origin/master
 
-# Install dependencies
-gem install bundler
-bundle install
+git switch dev
+git pull origin dev
 
-# Serve locally with live reload
-bundle exec jekyll serve --livereload
+gem install bundler -v 2.6.9
+bundle _2.6.9_ install
+
+ruby scripts/check_tags.rb
+bundle _2.6.9_ exec jekyll build --trace
+bundle _2.6.9_ exec jekyll serve --livereload
 
 # Open http://127.0.0.1:4000
 ```
+
+dev → testing / pull request → master → production
+
+
 If you encounter native extension issues, ensure Xcode Command Line Tools (macOS) or build-essential (Linux) are installed.
 
 ## Licensing

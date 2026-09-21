@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Latest Blog Posts"
+description: "The latest posts from Musings from Gravel Hill."
 ---
 
 {% if paginator.posts %}
@@ -15,7 +16,7 @@ title: "Latest Blog Posts"
   </div>
   {% endfor %}
 
-  <nav class="pagination" role="navigation" aria-label="Pagination" style="text-align:center; margin: 1.5rem 0;">
+  <nav class="pagination" role="navigation" aria-label="Pagination">
     {% if paginator.previous_page %}
       <a class="newer" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer</a>
     {% endif %}
@@ -40,6 +41,6 @@ Fallback if paginator is not present.
   {% endfor %}
 {% endif %}
 
-<p style="text-align: center;">
-  <a href="/blog/" style="text-decoration: none; font-weight: bold;">&lt; View All Posts &gt;</a>
+<p class="view-all-posts">
+  <a href="{{ '/blog/' | relative_url }}">&lt; View All Posts &gt;</a>
 </p>

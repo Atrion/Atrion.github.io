@@ -12,7 +12,7 @@ This is a set of digital photos of a damaged Phone Book dating back to around 19
 
 The book had been turned into a scrapbook of newspaper clippings and shows signs of significant wear.
 
-This Phonebook belonged to Lilla MacNeill (Kevin MacNeill's Grandmother) of Milburn, PEI.
+This phonebook belonged to Lilla MacNeill (Kevin MacNeill's Grandmother) of Milburn, PEI.
 
 This item was graciously loaned to me by Glenwood resident Kevin MacNeill.
 

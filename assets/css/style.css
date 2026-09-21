@@ -256,10 +256,35 @@ img {
   margin: 0 auto;
 }
 
-.project-card h3 {
+.project-card h2 {
   font-size: 1.1rem;
-  margin: 0.75rem 0;
+  margin: 0.75rem 0 0.25rem;
   padding: 0 0.5rem;
+}
+
+.project-card-date {
+  margin: 0 0 0.85rem;
+  padding: 0 0.5rem;
+  color: #aaa;
+  font-size: 0.8rem;
+}
+
+/* === Project Page === */
+
+.project-cover {
+  text-align: center;
+}
+
+.project-cover img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1rem;
+}
+
+.updated-date {
+  color: #aaa;
+  font-style: italic;
 }
 
 /* === Header Styling with Responsive Icon and Title === */
@@ -487,6 +512,69 @@ img {
 
   .two-column-poem div:first-child,
   .two-column-poem div:last-child {
+    text-align: left;
+  }
+}
+
+
+/* inline styling from Index */
+.pagination {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.view-all-posts {
+  text-align: center;
+}
+
+.view-all-posts a {
+  font-weight: 700;
+}
+
+/* Footer Submenu */
+.footer-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.75rem;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+
+.footer-links a {
+  color: #80cbc4;
+}
+
+
+/* In Post Blog Navigation */
+.post-navigation {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 2rem 0 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #444;
+}
+
+.post-navigation-next {
+  text-align: right;
+}
+
+.post-navigation-label {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: #999;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+@media (max-width: 600px) {
+  .post-navigation {
+    grid-template-columns: 1fr;
+  }
+
+  .post-navigation-next {
     text-align: left;
   }
 }
