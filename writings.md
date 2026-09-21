@@ -2,6 +2,7 @@
 layout: page
 title: Writings
 permalink: /writings/
+description: "Articles, devotionals, and poetry from Musings from Gravel Hill."
 ---
 
 {% assign crosslisted_posts = site.posts | where: "show_in_writings", true %}

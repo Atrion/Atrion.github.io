@@ -3,6 +3,7 @@ layout: page
 title: "Tags"
 permalink: /tags/
 custom_js: /assets/js/tags.js
+description: "Browse posts, writings, and projects from Gravel Hill by topic."
 ---
 
 <p class="tags-intro">

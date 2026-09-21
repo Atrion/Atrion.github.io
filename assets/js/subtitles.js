@@ -13,16 +13,16 @@ document.addEventListener("DOMContentLoaded", function () {
     "Words Gathered in Stillness",
     "A Life Unfolding, One Line at a Time",
     "Observations from a Faithful Witness",
-    "A Pilgrims Voice from a Small Hill",
+    "A Pilgrim's Voice from a Small Hill",
     "The Hill Beneath, the Hope Above",
-    "Grace in small places",
+    "Grace in Small Places",
     "Faith Beneath Open Skies",
     "Quiet Words from Glenwood",
     "Thoughts from Higher Ground",
     "Steps in the Quiet",
-    "Of place and promise",
-    "Island words, eternal hope",
-    "Writing life, walking faith"
+    "Of Place and Promise",
+    "Island Words, Eternal Hope",
+    "Writing Life, Walking Faith"
   ];
   const random = Math.floor(Math.random() * subtitles.length);
   const subtitleElement = document.getElementById("subtitle");

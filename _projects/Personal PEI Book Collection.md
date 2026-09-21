@@ -12,7 +12,7 @@ This is a cataloged listing of all the Island Books that I own.
 
 This collection has some books obtained by my Grandmother (Helen MacArthur) before her passing, and the majority of books that I have acquired since moving back to Western PEI.
 
-This is a listing only of the Physical books I have, I plan to eventually add any digital books I also own.
+This is a listing only of the physical books I have, I plan to eventually add any digital books I also own.
 
 
 <div class="gallery">

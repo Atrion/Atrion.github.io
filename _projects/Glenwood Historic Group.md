@@ -8,8 +8,8 @@ tags: [history, restoration, pei]
 type: "Project"
 ---
 
-This page is A Collection of Scans from a box of Documents, now owned by Tammy Gorrill-Gallant.
-This Box of documents is all that remains of the Glenwood Historic Group, which was created in 1981 by Kieth Gorrill and Steward Gillcash.
+This page is a collection of scans from a box of documents, now owned by Tammy Gorrill-Gallant.
+This box of documents is all that remains of the Glenwood Historic Group, which was created in 1981 by Kieth Gorrill and Steward Gillcash.
 
 I was given the opportunity to view and digitize these documents, for future use on my Glenwood projects.
 Displayed here are some of the raw scans of these documents.

@@ -2,6 +2,7 @@
 layout: page
 title: "Blog Posts Archive"
 permalink: /blog/
+description: "Browse the complete Musings from Gravel Hill blog archive."
 ---
 
 {% if site.posts.size > 0 %}

@@ -1,0 +1,23 @@
+{% if page.previous or page.next %}
+  <nav class="post-navigation" aria-label="Blog post navigation">
+
+    <div class="post-navigation-previous">
+      {% if page.previous %}
+        <span class="post-navigation-label">Previous</span>
+        <a href="{{ page.previous.url | relative_url }}">
+          ← {{ page.previous.title }}
+        </a>
+      {% endif %}
+    </div>
+
+    <div class="post-navigation-next">
+      {% if page.next %}
+        <span class="post-navigation-label">Next</span>
+        <a href="{{ page.next.url | relative_url }}">
+          {{ page.next.title }} →
+        </a>
+      {% endif %}
+    </div>
+
+  </nav>
+{% endif %}

@@ -8,7 +8,7 @@ tags: [history, restoration, pei]
 type: "Project"
 ---
 
-This page is just a Miscellaneous collection of items belonging to the community in question.
+This page is just a miscellaneous collection of items belonging to the community in question.
 
 These items are not filed under a specific project, but are kept here for easy reference by people.
 

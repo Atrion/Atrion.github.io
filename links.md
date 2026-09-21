@@ -11,7 +11,7 @@ permalink: /links/
 - [Gospel Hall Audio](https://gospelhallaudio.org/)
 
 ## Misc
-- [Bhief O'Brien at Work](https://chiefobrienatwork.com/)
+- [Chief O'Brien at Work](https://chiefobrienatwork.com/)
 - [Ernest Goes to Podcast](https://ernestgoestopodcast.tumblr.com/)
 - [ReBoot Podcast](https://www.incominggamecast.com/)
 
