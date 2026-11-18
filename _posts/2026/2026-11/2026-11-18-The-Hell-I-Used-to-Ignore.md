@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Hell I Used to Ignore"
-date: 2026-11-18 20:00:00 -04:00
+date: 2026-11-17 20:00:00 -04:00
 tags: [salvation, gospel, faith, assembly-life, christian-life]
 categories: blog
 author: Marc MacArthur
